@@ -23,5 +23,5 @@ try:
 			);")
 	conn.commit()
 except:
-	print "Failed to create the table."
+	print "Failed to create the table. "
 
