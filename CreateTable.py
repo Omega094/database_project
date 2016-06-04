@@ -21,6 +21,15 @@ try:
 				CLOSE INT NOT NULL,\
 				ADJ_CLOSE INT NOT NULL\
 			);")
+	cur.execute( 
+			"CREATE TABLE GOOGLE_TREND_STOCK_DATA\
+			( \
+				DATA_ID INT NOT NULL PRIMARY KEY,\
+				KEYWORD VARCHAR(50) NOT NULL REFERENCES STOCK(NAME),\
+				START_DATE INT NOT NULL,\
+				END_DATE INT NOT NULL,\
+				INTEREST_SCORE INT NOT NULL\
+			);")
 	conn.commit()
 except:
 	print "Failed to create the table. "
