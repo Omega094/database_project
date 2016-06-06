@@ -2,7 +2,7 @@
 import psycopg2
 conn = psycopg2.connect("dbname=zhao887 user=zhao887")
 cur = conn.cursor()
-try:
+#try:
 	# cur.execute( 
 	# 		"CREATE TABLE STOCK \
 	# 		(\
@@ -31,15 +31,15 @@ try:
 	# 			INTEREST_SCORE INT NOT NULL\
 	# 		);")
 	# conn.commit()
-	stockInfo = (	
-					{"COMPANY_NAME":"GOOGLE", "NAME": "GOOG"},
-					{"COMPANY_NAME":"APPLE", "NAME": "AAPL"},
-					{"COMPANY_NAME":"BANK OF AMERICA", "NAME": "BAC"},
-					{"COMPANY_NAME":"MICROSOFT", "NAME": "MSFT"},
-					{"COMPANY_NAME":"PFIZER", "NAME": "PFE"},
-				)
-	cur.executemany("""INSERT INTO STOCK (name, company) VALUES (%(NAME)s, %(COMPANY_NAME)s) """, stockInfo)
-	conn.commit()
-except:
-	print "Failed to create/insert the table. "
+stockInfo = (	
+				{"COMPANY_NAME":"GOOGLE", "NAME": "GOOG"},
+				{"COMPANY_NAME":"APPLE", "NAME": "AAPL"},
+				{"COMPANY_NAME":"BANK OF AMERICA", "NAME": "BAC"},
+				{"COMPANY_NAME":"MICROSOFT", "NAME": "MSFT"},
+				{"COMPANY_NAME":"PFIZER", "NAME": "PFE"},
+			)
+cur.executemany("""INSERT INTO STOCK (name, company) VALUES (%(NAME)s, %(COMPANY_NAME)s) """, stockInfo)
+conn.commit()
+# except:
+# 	print "Failed to create/insert the table. "
 
