@@ -20,6 +20,8 @@ stockInfo = (
 				{"COMPANY_NAME":"MICROSOFT", "NAME": "MSFT"},
 				{"COMPANY_NAME":"PFIZER", "NAME": "PFE"},
 			)
+
+
 class StockInfoProcessor(object):
 
 	def __init__(self, fileName):
@@ -86,7 +88,7 @@ def insertStockPriceDataToDatabase(priceData, stockName):
 	import psycopg2
 	conn = psycopg2.connect("dbname=zhao887 user=zhao887")
 	cur = conn.cursor()
-	cur.executemany("""INSERT INTO STOCK_PRICE_DATA (DATA_ID, NAME, DATE, VOLUME, OPEN, HIGH, LOW, CLOSE, ADJ_CLOSE) VALUES (%(DATA_ID)s, stockName ,%(NAME)s, %(DATE)s,%(VOLUME)s,%(OPEN)s,%(HIGH)s,%(LOW)s,%(CLOSE)s,%(ADJ_CLOSE)s ) """, stockInfo)
+	cur.executemany("""INSERT INTO STOCK_PRICE_DATA (DATA_ID, NAME, DATE, VOLUME, OPEN, HIGH, LOW, CLOSE, ADJ_CLOSE) VALUES (%(DATA_ID)s, stockName ,%(NAME)s, %(DATE)s,%(VOLUME)s,%(OPEN)s,%(HIGH)s,%(LOW)s,%(CLOSE)s,%(ADJ_CLOSE)s ) """, priceData)
 	conn.commit()
 	return 
 
