@@ -82,11 +82,11 @@ def insertStockToDatabase(stocks):
 	conn.commit()
 	return 
 
-def insertStockPriceDataToDatabase(priceData):
+def insertStockPriceDataToDatabase(priceData, stockName):
 	import psycopg2
 	conn = psycopg2.connect("dbname=zhao887 user=zhao887")
 	cur = conn.cursor()
-	cur.executemany("""INSERT INTO STOCK_PRICE_DATA (DATA_ID, NAME, DATE, VOLUME, OPEN, HIGH, LOW, CLOSE, ADJ_CLOSE) VALUES (%(DATA_ID)s, %(NAME)s, %(DATE)s,%(VOLUME)s,%(OPEN)s,%(HIGH)s,%(LOW)s,%(CLOSE)s,%(ADJ_CLOSE)s ) """, stockInfo)
+	cur.executemany("""INSERT INTO STOCK_PRICE_DATA (DATA_ID, NAME, DATE, VOLUME, OPEN, HIGH, LOW, CLOSE, ADJ_CLOSE) VALUES (%(DATA_ID)s, stockName ,%(NAME)s, %(DATE)s,%(VOLUME)s,%(OPEN)s,%(HIGH)s,%(LOW)s,%(CLOSE)s,%(ADJ_CLOSE)s ) """, stockInfo)
 	conn.commit()
 	return 
 
@@ -99,8 +99,8 @@ if __name__ == "__main__":
 	print priceData
 	for info in priceData:
 		print info
-	insertStockPriceDataToDatabase(priceData)
-	
+	insertStockPriceDataToDatabase(priceData, "AAPL")
+
 	#with open("AAPL.csv") as f:
 	#	for line in f:
 	#		print line
