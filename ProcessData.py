@@ -69,8 +69,10 @@ cur = conn.cursor()
 
 
 #Batch insertions
-def insertStockToDatabase(stocks, cursor):
+def insertStockToDatabase(stocks, cur, conn):
 	cur.executemany("""INSERT INTO STOCK (name, company) VALUES (%(NAME)s, %(COMPANY_NAME)s) """, stockInfo)
+	conn.commit()
+	return 
 
 def insertStockPriceDataToDatabase(priceData):
 	pass
