@@ -25,6 +25,7 @@ class StockInfoProcessor(object):
 	def __init__(self, fileName):
 		self.stockName = fileName
 		self.stockPriceInfor = collections.OrderedDict()
+		self.stockPriceInforList = []
 		"""Read the file and store all price information"""
 		with open(fileName) as f:
 			counter = 0
@@ -42,6 +43,7 @@ class StockInfoProcessor(object):
 					currentInfor[VOLUME] = int(infor[5].rstrip("\n\r"))
 					currentInfor[ADJ_CLOSE] = float(infor[6].rstrip("\n\r"))
 					self.stockPriceInfor[date] = currentInfor
+					self.stockPriceInforList.append(currentInfor)
 					counter += 1
 		return 
 
@@ -84,7 +86,7 @@ def insertStockPriceDataToDatabase(priceData):
 	import psycopg2
 	conn = psycopg2.connect("dbname=zhao887 user=zhao887")
 	cur = conn.cursor()
-	cur.executemany("""INSERT INTO STOCK_PRICE_DATA (name, company) VALUES (%(NAME)s, %(COMPANY_NAME)s) """, stockInfo)
+	cur.executemany("""INSERT INTO STOCK_PRICE_DATA (DATA_ID, NAME, DATE, VOLUME, OPEN, HIGH, LOW, CLOSE, ADJ_CLOSE) VALUES (%(DATA_ID)s, %(NAME)s, %(DATE)s,%(VOLUME)s,%(OPEN)s,%(HIGH)s,%(LOW)s,%(CLOSE)s,%(ADJ_CLOSE)s ) """, stockInfo)
 	conn.commit()
 	return 
 
@@ -93,9 +95,12 @@ def insertGoogleTrendingStockDataToDatabase(trendingData):
 
 if __name__ == "__main__":
 	aapl = StockInfoProcessor("AAPL_price.csv")
-	for date, priceInfo in aapl.stockPriceInfor.iteritems():
-		print date, priceInfo
-
+	priceData = aapl.stockPriceInforList
+	print priceData
+	for info in priceData:
+		print info
+	insertStockPriceDataToDatabase(priceData)
+	
 	#with open("AAPL.csv") as f:
 	#	for line in f:
 	#		print line
