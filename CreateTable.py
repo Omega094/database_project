@@ -39,7 +39,7 @@ try:
 				{"COMPANY_NAME":"PFIZER", "NAME": "NYSE: PFE"},
 			)
 	cur.executemany("""INSERT INTO STOCK (name, company) VALUES (%(NAME)s, %(COMPANY_NAME)s) """, stockInfo)
-
+	conn.commit()
 except:
 	print "Failed to create/insert the table. "
 
