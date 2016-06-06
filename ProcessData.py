@@ -102,7 +102,7 @@ if __name__ == "__main__":
 	print priceData
 	for info in priceData:
 		print info
-	#insertStockPriceDataToDatabase(priceData, "AAPL")
+	insertStockPriceDataToDatabase(priceData, "AAPL")
 
 	#with open("AAPL.csv") as f:
 	#	for line in f:
