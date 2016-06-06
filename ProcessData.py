@@ -10,7 +10,7 @@ ADJ_CLOSE = "ADJ_CLOSE"
 INTEREST_SCORE = "INTEREST_SCORE"
 START = "START"
 END = "END"
- 
+
 class StockInfoProcessor(object):
 
 	def __init__(self, fileName):
@@ -30,6 +30,7 @@ class StockInfoProcessor(object):
 					currentInfor[VOLUME] = int(infor[5].rstrip("\n\r"))
 					currentInfor[ADJ_CLOSE] = float(infor[6].rstrip("\n\r"))
 					self.stockPriceInfor[date] = currentInfor
+		return 
 		
 				
 class trendingDataProcessor(object):
@@ -51,10 +52,17 @@ class trendingDataProcessor(object):
 					currentInfor[END] = int(endDate)
 					currentInfor[INTEREST_SCORE] = int(infor[1].rstrip("\n\r"))
 					self.trendingInfor[i] = currentInfor
-					
-					
-		
- 
+		return 
+
+def insertStockToDatabase(stocks):
+	pass
+
+def insertStockPriceDataToDatabase(priceData):
+	pass
+
+def insertGoogleTrendingStockDataToDatabase(trendingData):
+	pass
+
 if __name__ == "__main__":
 	#aapl = StockInfoProcessor("AAPL.csv")
 	#for date, priceInfo in aapl.stockPriceInfor.iteritems():
