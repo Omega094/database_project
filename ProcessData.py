@@ -63,13 +63,14 @@ class trendingDataProcessor(object):
 		return 
 
 
-import psycopg2
-conn = psycopg2.connect("dbname=zhao887 user=zhao887")
-cur = conn.cursor()
+
 
 
 #Batch insertions
-def insertStockToDatabase(stocks, cur, conn):
+def insertStockToDatabase(stocks):
+	import psycopg2
+	conn = psycopg2.connect("dbname=zhao887 user=zhao887")
+	cur = conn.cursor()
 	cur.executemany("""INSERT INTO STOCK (name, company) VALUES (%(NAME)s, %(COMPANY_NAME)s) """, stockInfo)
 	conn.commit()
 	return 
