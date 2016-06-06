@@ -24,7 +24,7 @@ stockInfo = (
 
 class StockInfoProcessor(object):
 
-	def __init__(self, fileName):
+	def __init__(self, fileName, stockName):
 		self.stockName = fileName
 		self.stockPriceInfor = collections.OrderedDict()
 		self.stockPriceInforList = []
@@ -37,6 +37,7 @@ class StockInfoProcessor(object):
 					currentInfor = {}
 					currentInfor[DATA_ID] = counter
 					date = int(infor[DATE].replace("-", ""))
+					currentInfor["NAME"] = stockName
 					currentInfor["DATE"] = date
 					currentInfor[OPEN] =float(infor[1].rstrip("\n\r"))
 					currentInfor[HIGH] = float(infor[2].rstrip("\n\r"))
@@ -84,11 +85,11 @@ def insertStockToDatabase(stocks):
 	conn.commit()
 	return 
 
-def insertStockPriceDataToDatabase(priceData, stockName):
+def insertStockPriceDataToDatabase(priceData):
 	import psycopg2
 	conn = psycopg2.connect("dbname=zhao887 user=zhao887")
 	cur = conn.cursor()
-	cur.executemany("""INSERT INTO STOCK_PRICE_DATA (DATA_ID, NAME, DATE, VOLUME, OPEN, HIGH, LOW, CLOSE, ADJ_CLOSE) VALUES (%(DATA_ID)s, %(stockName) ,%(NAME)s, %(DATE)s,%(VOLUME)s,%(OPEN)s,%(HIGH)s,%(LOW)s,%(CLOSE)s,%(ADJ_CLOSE)s ) """, priceData)
+	cur.executemany("""INSERT INTO STOCK_PRICE_DATA (DATA_ID, NAME, DATE, VOLUME, OPEN, HIGH, LOW, CLOSE, ADJ_CLOSE) VALUES (%(DATA_ID)s, %(NAME)s ,%(NAME)s, %(DATE)s,%(VOLUME)s,%(OPEN)s,%(HIGH)s,%(LOW)s,%(CLOSE)s,%(ADJ_CLOSE)s ) """, priceData)
 	conn.commit()
 	return 
 
@@ -96,12 +97,12 @@ def insertGoogleTrendingStockDataToDatabase(trendingData):
 	pass
 
 if __name__ == "__main__":
-	aapl = StockInfoProcessor("AAPL_price.csv")
+	aapl = StockInfoProcessor("AAPL_price.csv", "AAPL")
 	priceData = aapl.stockPriceInforList
 	print priceData
 	for info in priceData:
 		print info
-	insertStockPriceDataToDatabase(priceData, "AAPL")
+	#insertStockPriceDataToDatabase(priceData, "AAPL")
 
 	#with open("AAPL.csv") as f:
 	#	for line in f:
