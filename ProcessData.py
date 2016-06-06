@@ -11,6 +11,14 @@ INTEREST_SCORE = "INTEREST_SCORE"
 START = "START"
 END = "END"
 
+#Frmatted in this way so we can do a batch insertion. 
+stockInfo = (	
+				{"COMPANY_NAME":"GOOGLE", "NAME": "NASDAQ: GOOG"},
+				{"COMPANY_NAME":"APPLE", "NAME": "NASDAQ: AAPL"},
+				{"COMPANY_NAME":"BANK OF AMERICA", "NAME": "NYSE: BAC"},
+				{"COMPANY_NAME":"MICROSOFT", "NAME": "NASDAQ: MSFT"},
+				{"COMPANY_NAME":"PFIZER", "NAME": "NYSE: PFE"},
+			)
 class StockInfoProcessor(object):
 
 	def __init__(self, fileName):
@@ -31,8 +39,8 @@ class StockInfoProcessor(object):
 					currentInfor[ADJ_CLOSE] = float(infor[6].rstrip("\n\r"))
 					self.stockPriceInfor[date] = currentInfor
 		return 
-		
-				
+
+
 class trendingDataProcessor(object):
 
 	def __init__(self, fileName):
@@ -54,8 +62,15 @@ class trendingDataProcessor(object):
 					self.trendingInfor[i] = currentInfor
 		return 
 
-def insertStockToDatabase(stocks):
-	pass
+
+import psycopg2
+conn = psycopg2.connect("dbname=zhao887 user=zhao887")
+cur = conn.cursor()
+
+
+#Batch insertions
+def insertStockToDatabase(stocks, cursor):
+	cur.executemany("""INSERT INTO STOCK (name, company) VALUES (%(NAME)s, %(COMPANY_NAME)s) """, stockInfo)
 
 def insertStockPriceDataToDatabase(priceData):
 	pass
