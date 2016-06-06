@@ -13,11 +13,11 @@ END = "END"
 
 #Frmatted in this way so we can do a batch insertion. 
 stockInfo = (	
-				{"COMPANY_NAME":"GOOGLE", "NAME": "NASDAQ: GOOG"},
-				{"COMPANY_NAME":"APPLE", "NAME": "NASDAQ: AAPL"},
-				{"COMPANY_NAME":"BANK OF AMERICA", "NAME": "NYSE: BAC"},
-				{"COMPANY_NAME":"MICROSOFT", "NAME": "NASDAQ: MSFT"},
-				{"COMPANY_NAME":"PFIZER", "NAME": "NYSE: PFE"},
+				{"COMPANY_NAME":"GOOGLE", "NAME": "GOOG"},
+				{"COMPANY_NAME":"APPLE", "NAME": "AAPL"},
+				{"COMPANY_NAME":"BANK OF AMERICA", "NAME": "BAC"},
+				{"COMPANY_NAME":"MICROSOFT", "NAME": "MSFT"},
+				{"COMPANY_NAME":"PFIZER", "NAME": "PFE"},
 			)
 class StockInfoProcessor(object):
 
