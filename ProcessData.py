@@ -53,23 +53,28 @@ class StockInfoProcessor(object):
 
 class trendingDataProcessor(object):
 
-	def __init__(self, fileName):
+	def __init__(self, fileName, stockName):
 		self.stockName = fileName
 		self.trendingInfor = collections.OrderedDict()
+		self.trendingInforList = []
 		"""Read the file and store all price information"""
+		counter = 0
 		with open(fileName) as f:
 			for i, line in enumerate(f):
 				if line[0].isdigit():
 					infor = line.split(",")
 					currentInfor = {}
 					dateInfor = infor[DATE].split(" - ")
-					print line
 					startDate = dateInfor[0].replace("-","")
 					endDate = dateInfor[1].replace("-","")
+					currentInfor["NAME"] = stockName
+					currentInfor["DATA_ID"] = counter
 					currentInfor[START] = int(startDate)
 					currentInfor[END] = int(endDate)
 					currentInfor[INTEREST_SCORE] = int(infor[1].rstrip("\n\r"))
 					self.trendingInfor[i] = currentInfor
+					self.trendingInforList.append(currentInfor)
+					counter += 1
 		return 
 
 
@@ -94,23 +99,39 @@ def insertStockPriceDataToDatabase(priceData):
 	return 
 
 def insertGoogleTrendingStockDataToDatabase(trendingData):
-	pass
+	import psycopg2
+	conn = psycopg2.connect("dbname=zhao887 user=zhao887")
+	cur = conn.cursor()
+	cur.executemany("""INSERT INTO STOCK_PRICE_DATA (DATA_ID, KEYWORD, START_DATE, END_DATE, INTEREST_SCORE) VALUES (%(DATA_ID)s, %(NAME)s , %(START)s,%(END)s,%(INTEREST_SCORE)s) """, trendingData)
+	conn.commit()
+	return 
 
-if __name__ == "__main__":
-	aapl = StockInfoProcessor("AAPL_price.csv", "AAPL")
-	priceData = aapl.stockPriceInforList
-	print priceData
+
+def processPriceDataAndInsertToDatabase(fileName, stockName):
+	stockProcessor = StockInfoProcessor(fileName, stockName)
+	priceData = stockProcessor.stockPriceInforList
+	#insertStockPriceDataToDatabase(priceData)
 	for info in priceData:
 		print info
-	insertStockPriceDataToDatabase(priceData)
+
+def processTrendingDataAndInsertToDatabase(fileName, stockName):
+	trendingProcessor = trendingDataProcessor(fileName, stockName)
+	trendingData = trendingProcessor.trendingInforList
+	#insertStockPriceDataToDatabase(priceData)
+	for info in trendingData:
+		print info
+
+if __name__ == "__main__":
+	#processPriceDataAndInsertToDatabase("AAPL_price.csv", "AAPL")
 
 	#with open("AAPL.csv") as f:
 	#	for line in f:
 	#		print line
 	
-	# aapl = trendingDataProcessor("AAPL.csv")
-	# for i, info in aapl.trendingInfor.iteritems():
-	# 	print i , info
+	# aapl = trendingDataProcessor("AAPL.csv", "AAPL")
+	# for  info in aapl.trendingInforList:
+	# 	print info
+	processTrendingDataAndInsertToDatabase("AAPL.csv", "AAPL")
 		
 		
 		
