@@ -18,6 +18,7 @@ def extractStockVolumeAndInterestScore(stockName):
         query = cur.execute("""SELECT sum(volume) FROM STOCK_PRICE_DATA WHERE date <= %s AND date >= %s AND name = %s""", (endDate, startDate, stockName, ) )
         weeklyVolume = cur.fetchall()
         combineResult.append( (stockName, startDate, endDate, weeklyVolume[0][0], interestScore) )
+        print "Stock: ", stockName, " start ", startDate, " end ", endDate, " volume: ", weeklyVolume, " interestScore: ", interestScore
     return combineResult
 
-print extractStockVolumeAndInterestScore('AAPL')
+extractStockVolumeAndInterestScore('AAPL')
