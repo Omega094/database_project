@@ -15,27 +15,28 @@ END = "END"
 #Frmatted in this way so we can do a batch insertion. 
 stockInfo = (	
 				{"COMPANY_NAME":"GOOGLE", "NAME": "GOOG"},
-				#{"COMPANY_NAME":"APPLE", "NAME": "AAPL"},
+				{"COMPANY_NAME":"APPLE", "NAME": "AAPL"},
 				{"COMPANY_NAME":"BANK OF AMERICA", "NAME": "BAC"},
 				{"COMPANY_NAME":"MICROSOFT", "NAME": "MSFT"},
 				{"COMPANY_NAME":"PFIZER", "NAME": "PFE"},
 			)
 
-
+stockDataIDCounter = 0
+trendingDataIDCounter = 0
 class StockInfoProcessor(object):
 
 	def __init__(self, fileName, stockName):
+		global stockDataIDCounter
 		self.stockName = fileName
 		self.stockPriceInfor = collections.OrderedDict()
 		self.stockPriceInforList = []
 		"""Read the file and store all price information"""
 		with open(fileName) as f:
-			counter = 0
 			for line in f:
 				if line[0].isdigit():
 					infor = line.split(",")
 					currentInfor = {}
-					currentInfor[DATA_ID] = counter
+					currentInfor[DATA_ID] = stockDataIDCounter
 					date = int(infor[DATE].replace("-", ""))
 					currentInfor["NAME"] = stockName
 					currentInfor["DATE"] = date
@@ -47,18 +48,18 @@ class StockInfoProcessor(object):
 					currentInfor[ADJ_CLOSE] = float(infor[6].rstrip("\n\r"))
 					self.stockPriceInfor[date] = currentInfor
 					self.stockPriceInforList.append(currentInfor)
-					counter += 1
+					stockDataIDCounter += 1
 		return 
 
 
 class trendingDataProcessor(object):
 
 	def __init__(self, fileName, stockName):
+		global trendingDataIDCounter
 		self.stockName = fileName
 		self.trendingInfor = collections.OrderedDict()
 		self.trendingInforList = []
 		"""Read the file and store all price information"""
-		counter = 0
 		with open(fileName) as f:
 			for i, line in enumerate(f):
 				if line[0].isdigit():
@@ -69,14 +70,15 @@ class trendingDataProcessor(object):
 						startDate = dateInfor[0].replace("-","")
 						endDate = dateInfor[1].replace("-","")
 						currentInfor["NAME"] = stockName
-						currentInfor["DATA_ID"] = counter
+						currentInfor["DATA_ID"] = stockDataIDCounter
 						currentInfor[START] = int(startDate)
 						currentInfor[END] = int(endDate)
 						currentInfor[INTEREST_SCORE] = int(infor[1].rstrip("\n\r"))
 						self.trendingInfor[i] = currentInfor
 						self.trendingInforList.append(currentInfor)
-						counter += 1
+						stockDataIDCounter += 1
 					except:
+						stockDataIDCounter += 1
 						continue
 		return 
 
