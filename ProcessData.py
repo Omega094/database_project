@@ -70,15 +70,15 @@ class trendingDataProcessor(object):
 						startDate = dateInfor[0].replace("-","")
 						endDate = dateInfor[1].replace("-","")
 						currentInfor["NAME"] = stockName
-						currentInfor["DATA_ID"] = stockDataIDCounter
+						currentInfor["DATA_ID"] = trendingDataIDCounter
 						currentInfor[START] = int(startDate)
 						currentInfor[END] = int(endDate)
 						currentInfor[INTEREST_SCORE] = int(infor[1].rstrip("\n\r"))
 						self.trendingInfor[i] = currentInfor
 						self.trendingInforList.append(currentInfor)
-						stockDataIDCounter += 1
+						trendingDataIDCounter += 1
 					except:
-						stockDataIDCounter += 1
+						trendingDataIDCounter += 1
 						continue
 		return 
 
