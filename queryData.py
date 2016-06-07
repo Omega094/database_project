@@ -11,6 +11,8 @@ def extractStockVolumeAndInterestScore(stockName):
     cur.execute("""SELECT * FROM GOOGLE_TREND_STOCK_DATA WHERE KEYWORD = %s """, (stockName,))
     trendingResult = cur.fetchall()
     combineResult = []
+    outPutFile = stockName+"_volumeVSInterestScore.txt"
+    f = open(outPutFile, 'w')
     for row in trendingResult:
         startDate = row[START_DATE]
         endDate = row[END_DATE]
@@ -19,7 +21,12 @@ def extractStockVolumeAndInterestScore(stockName):
         weeklyVolume = cur.fetchall()
         weeklyVolume = weeklyVolume[0][0]
         combineResult.append( (stockName, startDate, endDate, weeklyVolume , interestScore) )
-        print "Stock: ", stockName, " start ", startDate, " end ", endDate, " volume: ", weeklyVolume, " interestScore: ", interestScore
+        #print "Stock: ", stockName, " start ", startDate, " end ", endDate, " volume: ", weeklyVolume, " interestScore: ", interestScore
+        f.write(str("Stock: ", stockName, " start ", startDate, " end ", endDate, " volume: ", weeklyVolume, " interestScore: ", interestScore))
+    f.close()
     return combineResult
 
-extractStockVolumeAndInterestScore('AAPL')
+
+
+def extractDataAndWriteToFile(stockName):
+    extractStockVolumeAndInterestScore(stockName)
