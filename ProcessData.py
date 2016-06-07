@@ -62,19 +62,22 @@ class trendingDataProcessor(object):
 		with open(fileName) as f:
 			for i, line in enumerate(f):
 				if line[0].isdigit():
-					infor = line.split(",")
-					currentInfor = {}
-					dateInfor = infor[DATE].split(" - ")
-					startDate = dateInfor[0].replace("-","")
-					endDate = dateInfor[1].replace("-","")
-					currentInfor["NAME"] = stockName
-					currentInfor["DATA_ID"] = counter
-					currentInfor[START] = int(startDate)
-					currentInfor[END] = int(endDate)
-					currentInfor[INTEREST_SCORE] = int(infor[1].rstrip("\n\r"))
-					self.trendingInfor[i] = currentInfor
-					self.trendingInforList.append(currentInfor)
-					counter += 1
+					try:
+						infor = line.split(",")
+						currentInfor = {}
+						dateInfor = infor[DATE].split(" - ")
+						startDate = dateInfor[0].replace("-","")
+						endDate = dateInfor[1].replace("-","")
+						currentInfor["NAME"] = stockName
+						currentInfor["DATA_ID"] = counter
+						currentInfor[START] = int(startDate)
+						currentInfor[END] = int(endDate)
+						currentInfor[INTEREST_SCORE] = int(infor[1].rstrip("\n\r"))
+						self.trendingInfor[i] = currentInfor
+						self.trendingInforList.append(currentInfor)
+						counter += 1
+					except:
+						continue
 		return 
 
 
