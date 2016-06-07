@@ -22,7 +22,7 @@ def extractStockVolumeAndInterestScore(stockName):
         weeklyVolume = weeklyVolume[0][0]
         combineResult.append( (stockName, startDate, endDate, weeklyVolume , interestScore) )
         #print "Stock: ", stockName, " start ", startDate, " end ", endDate, " volume: ", weeklyVolume, " interestScore: ", interestScore
-        f.write( "Stock: "+stockName + " start " + str(startDate)+" end "+ " volume: "+str(weeklyVolume)+" interestScore: " + str(interestScore) )
+        f.write( "Stock: "+stockName + " start " + str(startDate)+" end "+ " volume: "+str(weeklyVolume)+" interestScore: " + str(interestScore)+'\n' )
     f.close()
     return combineResult
 
