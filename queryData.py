@@ -14,7 +14,7 @@ def extractStockVolumeAndInterestScore(stockName):
     for row in trendingResult:
         startDate = row[START_DATE]
         endDate = row[END_DATE]
-        interestScore = row[INTEREST_SCORE]
+        interestScore = row[INTEREST_SCORE][0][0]
         query = cur.execute("""SELECT sum(volume) FROM STOCK_PRICE_DATA WHERE date <= %s AND date >= %s AND name = %s""", (endDate, startDate, stockName, ) )
         weeklyVolume = cur.fetchall()
         combineResult.append( (stockName, startDate, endDate, weeklyVolume, interestScore) )
