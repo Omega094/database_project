@@ -1,648 +1,648 @@
-Stock: GOOG start 20040104 end  volume: None interestScore: 0
-Stock: GOOG start 20040111 end  volume: None interestScore: 0
-Stock: GOOG start 20040118 end  volume: None interestScore: 0
-Stock: GOOG start 20040125 end  volume: None interestScore: 0
-Stock: GOOG start 20040201 end  volume: None interestScore: 0
-Stock: GOOG start 20040208 end  volume: None interestScore: 0
-Stock: GOOG start 20040215 end  volume: None interestScore: 0
-Stock: GOOG start 20040222 end  volume: None interestScore: 0
-Stock: GOOG start 20040229 end  volume: None interestScore: 0
-Stock: GOOG start 20040307 end  volume: None interestScore: 0
-Stock: GOOG start 20040314 end  volume: None interestScore: 0
-Stock: GOOG start 20040321 end  volume: None interestScore: 0
-Stock: GOOG start 20040328 end  volume: None interestScore: 0
-Stock: GOOG start 20040404 end  volume: None interestScore: 0
-Stock: GOOG start 20040411 end  volume: None interestScore: 0
-Stock: GOOG start 20040418 end  volume: None interestScore: 0
-Stock: GOOG start 20040425 end  volume: None interestScore: 0
-Stock: GOOG start 20040502 end  volume: None interestScore: 0
-Stock: GOOG start 20040509 end  volume: None interestScore: 0
-Stock: GOOG start 20040516 end  volume: None interestScore: 0
-Stock: GOOG start 20040523 end  volume: None interestScore: 0
-Stock: GOOG start 20040530 end  volume: None interestScore: 0
-Stock: GOOG start 20040606 end  volume: None interestScore: 0
-Stock: GOOG start 20040613 end  volume: None interestScore: 0
-Stock: GOOG start 20040620 end  volume: None interestScore: 0
-Stock: GOOG start 20040627 end  volume: None interestScore: 0
-Stock: GOOG start 20040704 end  volume: None interestScore: 24
-Stock: GOOG start 20040711 end  volume: None interestScore: 40
-Stock: GOOG start 20040718 end  volume: None interestScore: 56
-Stock: GOOG start 20040725 end  volume: None interestScore: 72
-Stock: GOOG start 20040801 end  volume: None interestScore: 24
-Stock: GOOG start 20040808 end  volume: None interestScore: 23
-Stock: GOOG start 20040815 end  volume: 67814100 interestScore: 100
-Stock: GOOG start 20040822 end  volume: 56264400 interestScore: 74
-Stock: GOOG start 20040829 end  volume: 39711400 interestScore: 21
-Stock: GOOG start 20040905 end  volume: 23705500 interestScore: 21
-Stock: GOOG start 20040912 end  volume: 48353100 interestScore: 20
-Stock: GOOG start 20040919 end  volume: 43302100 interestScore: 20
-Stock: GOOG start 20040926 end  volume: 83790400 interestScore: 20
-Stock: GOOG start 20041003 end  volume: 66877800 interestScore: 22
-Stock: GOOG start 20041010 end  volume: 65851700 interestScore: 24
-Stock: GOOG start 20041017 end  volume: 158477900 interestScore: 39
-Stock: GOOG start 20041024 end  volume: 209656800 interestScore: 38
-Stock: GOOG start 20041031 end  volume: 143942200 interestScore: 19
-Stock: GOOG start 20041107 end  volume: 129747200 interestScore: 28
-Stock: GOOG start 20041114 end  volume: 153273400 interestScore: 19
-Stock: GOOG start 20041121 end  volume: 93433700 interestScore: 19
-Stock: GOOG start 20041128 end  volume: 77008800 interestScore: 18
-Stock: GOOG start 20041205 end  volume: 65520000 interestScore: 18
-Stock: GOOG start 20041212 end  volume: 86998300 interestScore: 21
-Stock: GOOG start 20041219 end  volume: 45915900 interestScore: 23
-Stock: GOOG start 20041226 end  volume: 53199800 interestScore: 26
-Stock: GOOG start 20050102 end  volume: 116206800 interestScore: 27
-Stock: GOOG start 20050109 end  volume: 78624600 interestScore: 33
-Stock: GOOG start 20050116 end  volume: 85700300 interestScore: 39
-Stock: GOOG start 20050123 end  volume: 112068900 interestScore: 44
-Stock: GOOG start 20050130 end  volume: 178751600 interestScore: 50
-Stock: GOOG start 20050206 end  volume: 147973200 interestScore: 17
-Stock: GOOG start 20050213 end  volume: 200302700 interestScore: 16
-Stock: GOOG start 20050220 end  volume: 130200800 interestScore: 16
-Stock: GOOG start 20050227 end  volume: 77886000 interestScore: 16
-Stock: GOOG start 20050306 end  volume: 94477800 interestScore: 20
-Stock: GOOG start 20050313 end  volume: 88380700 interestScore: 23
-Stock: GOOG start 20050320 end  volume: 43493200 interestScore: 27
-Stock: GOOG start 20050327 end  volume: 69052700 interestScore: 30
-Stock: GOOG start 20050403 end  volume: 74024900 interestScore: 23
-Stock: GOOG start 20050410 end  volume: 74309200 interestScore: 15
-Stock: GOOG start 20050417 end  volume: 163387500 interestScore: 15
-Stock: GOOG start 20050424 end  volume: 130948200 interestScore: 31
-Stock: GOOG start 20050501 end  volume: 108212800 interestScore: 47
-Stock: GOOG start 20050508 end  volume: 79747300 interestScore: 15
-Stock: GOOG start 20050515 end  volume: 87691700 interestScore: 15
-Stock: GOOG start 20050522 end  volume: 189145700 interestScore: 15
-Stock: GOOG start 20050529 end  volume: 189075400 interestScore: 20
-Stock: GOOG start 20050605 end  volume: 204136700 interestScore: 24
-Stock: GOOG start 20050612 end  volume: 133849200 interestScore: 15
-Stock: GOOG start 20050619 end  volume: 157504800 interestScore: 23
-Stock: GOOG start 20050626 end  volume: 159515300 interestScore: 23
-Stock: GOOG start 20050703 end  volume: 67499600 interestScore: 23
-Stock: GOOG start 20050710 end  volume: 89933700 interestScore: 23
-Stock: GOOG start 20050717 end  volume: 153203200 interestScore: 23
-Stock: GOOG start 20050724 end  volume: 82271700 interestScore: 25
-Stock: GOOG start 20050731 end  volume: 60343500 interestScore: 15
-Stock: GOOG start 20050807 end  volume: 62715500 interestScore: 30
-Stock: GOOG start 20050814 end  volume: 73439500 interestScore: 15
-Stock: GOOG start 20050821 end  volume: 58939000 interestScore: 17
-Stock: GOOG start 20050828 end  volume: 43974800 interestScore: 14
-Stock: GOOG start 20050904 end  volume: 45601100 interestScore: 20
-Stock: GOOG start 20050911 end  volume: 110428200 interestScore: 27
-Stock: GOOG start 20050918 end  volume: 93795400 interestScore: 13
-Stock: GOOG start 20050925 end  volume: 79355800 interestScore: 13
-Stock: GOOG start 20051002 end  volume: 83104000 interestScore: 13
-Stock: GOOG start 20051009 end  volume: 85333800 interestScore: 13
-Stock: GOOG start 20051016 end  volume: 117356400 interestScore: 25
-Stock: GOOG start 20051023 end  volume: 72782200 interestScore: 25
-Stock: GOOG start 20051030 end  volume: 115506300 interestScore: 13
-Stock: GOOG start 20051106 end  volume: 88627500 interestScore: 24
-Stock: GOOG start 20051113 end  volume: 83041300 interestScore: 12
-Stock: GOOG start 20051120 end  volume: 69973300 interestScore: 16
-Stock: GOOG start 20051127 end  volume: 131268000 interestScore: 35
-Stock: GOOG start 20051204 end  volume: 107669600 interestScore: 18
-Stock: GOOG start 20051211 end  volume: 88571500 interestScore: 24
-Stock: GOOG start 20051218 end  volume: 111184700 interestScore: 26
-Stock: GOOG start 20051225 end  volume: 56919400 interestScore: 15
-Stock: GOOG start 20060101 end  volume: 114372500 interestScore: 25
-Stock: GOOG start 20060108 end  volume: 97721100 interestScore: 18
-Stock: GOOG start 20060115 end  volume: 169452300 interestScore: 11
-Stock: GOOG start 20060122 end  volume: 157234900 interestScore: 37
-Stock: GOOG start 20060129 end  volume: 176392000 interestScore: 32
-Stock: GOOG start 20060205 end  volume: 147571800 interestScore: 24
-Stock: GOOG start 20060212 end  volume: 166530400 interestScore: 15
-Stock: GOOG start 20060219 end  volume: 68652100 interestScore: 10
-Stock: GOOG start 20060226 end  volume: 184695800 interestScore: 17
-Stock: GOOG start 20060305 end  volume: 129081700 interestScore: 33
-Stock: GOOG start 20060312 end  volume: 127335700 interestScore: 10
-Stock: GOOG start 20060319 end  volume: 101277700 interestScore: 10
-Stock: GOOG start 20060326 end  volume: 173106100 interestScore: 24
-Stock: GOOG start 20060402 end  volume: 106142500 interestScore: 10
-Stock: GOOG start 20060409 end  volume: 66241500 interestScore: 18
-Stock: GOOG start 20060416 end  volume: 116437500 interestScore: 15
-Stock: GOOG start 20060423 end  volume: 83194900 interestScore: 15
-Stock: GOOG start 20060430 end  volume: 84825800 interestScore: 31
-Stock: GOOG start 20060507 end  volume: 79148600 interestScore: 10
-Stock: GOOG start 20060514 end  volume: 86237800 interestScore: 16
-Stock: GOOG start 20060521 end  volume: 78297500 interestScore: 13
-Stock: GOOG start 20060528 end  volume: 50110200 interestScore: 16
-Stock: GOOG start 20060604 end  volume: 82802000 interestScore: 20
-Stock: GOOG start 20060611 end  volume: 65324400 interestScore: 10
-Stock: GOOG start 20060618 end  volume: 63524900 interestScore: 10
-Stock: GOOG start 20060625 end  volume: 48751600 interestScore: 10
-Stock: GOOG start 20060702 end  volume: 33868700 interestScore: 10
-Stock: GOOG start 20060709 end  volume: 59804900 interestScore: 20
-Stock: GOOG start 20060716 end  volume: 94674200 interestScore: 30
-Stock: GOOG start 20060723 end  volume: 58425300 interestScore: 15
-Stock: GOOG start 20060730 end  volume: 57370700 interestScore: 10
-Stock: GOOG start 20060806 end  volume: 44223600 interestScore: 10
-Stock: GOOG start 20060813 end  volume: 55310400 interestScore: 19
-Stock: GOOG start 20060820 end  volume: 35690600 interestScore: 9
-Stock: GOOG start 20060827 end  volume: 36739100 interestScore: 9
-Stock: GOOG start 20060903 end  volume: 29557500 interestScore: 9
-Stock: GOOG start 20060910 end  volume: 66134100 interestScore: 9
-Stock: GOOG start 20060917 end  volume: 92121500 interestScore: 8
-Stock: GOOG start 20060924 end  volume: 50832700 interestScore: 8
-Stock: GOOG start 20061001 end  volume: 58025700 interestScore: 8
-Stock: GOOG start 20061008 end  volume: 63183000 interestScore: 25
-Stock: GOOG start 20061015 end  volume: 77687900 interestScore: 28
-Stock: GOOG start 20061022 end  volume: 93524600 interestScore: 22
-Stock: GOOG start 20061029 end  volume: 57050900 interestScore: 8
-Stock: GOOG start 20061105 end  volume: 51249800 interestScore: 12
-Stock: GOOG start 20061112 end  volume: 61307600 interestScore: 8
-Stock: GOOG start 20061119 end  volume: 39718800 interestScore: 8
-Stock: GOOG start 20061126 end  volume: 65537200 interestScore: 15
-Stock: GOOG start 20061203 end  volume: 44350000 interestScore: 15
-Stock: GOOG start 20061210 end  volume: 44257200 interestScore: 8
-Stock: GOOG start 20061217 end  volume: 60049900 interestScore: 8
-Stock: GOOG start 20061224 end  volume: 24051900 interestScore: 10
-Stock: GOOG start 20061231 end  volume: 45100500 interestScore: 8
-Stock: GOOG start 20070107 end  volume: 55780300 interestScore: 7
-Stock: GOOG start 20070114 end  volume: 50545000 interestScore: 14
-Stock: GOOG start 20070121 end  volume: 56197800 interestScore: 14
-Stock: GOOG start 20070128 end  volume: 86537600 interestScore: 20
-Stock: GOOG start 20070204 end  volume: 51359300 interestScore: 7
-Stock: GOOG start 20070211 end  volume: 51663100 interestScore: 7
-Stock: GOOG start 20070218 end  volume: 38813900 interestScore: 7
-Stock: GOOG start 20070225 end  volume: 73441300 interestScore: 17
-Stock: GOOG start 20070304 end  volume: 61757000 interestScore: 13
-Stock: GOOG start 20070311 end  volume: 55131200 interestScore: 13
-Stock: GOOG start 20070318 end  volume: 48599900 interestScore: 10
-Stock: GOOG start 20070325 end  volume: 40976000 interestScore: 7
-Stock: GOOG start 20070401 end  volume: 33012700 interestScore: 9
-Stock: GOOG start 20070408 end  volume: 30826800 interestScore: 9
-Stock: GOOG start 20070415 end  volume: 74537200 interestScore: 10
-Stock: GOOG start 20070422 end  volume: 40925700 interestScore: 6
-Stock: GOOG start 20070429 end  volume: 35946400 interestScore: 13
-Stock: GOOG start 20070506 end  volume: 33013600 interestScore: 6
-Stock: GOOG start 20070513 end  volume: 45976100 interestScore: 12
-Stock: GOOG start 20070520 end  volume: 49345000 interestScore: 6
-Stock: GOOG start 20070527 end  volume: 52570000 interestScore: 12
-Stock: GOOG start 20070603 end  volume: 85164600 interestScore: 8
-Stock: GOOG start 20070610 end  volume: 58009100 interestScore: 12
-Stock: GOOG start 20070617 end  volume: 50473600 interestScore: 9
-Stock: GOOG start 20070624 end  volume: 55781000 interestScore: 9
-Stock: GOOG start 20070701 end  volume: 26195800 interestScore: 9
-Stock: GOOG start 20070708 end  volume: 39293800 interestScore: 10
-Stock: GOOG start 20070715 end  volume: 92158700 interestScore: 10
-Stock: GOOG start 20070722 end  volume: 59956000 interestScore: 10
-Stock: GOOG start 20070729 end  volume: 38128100 interestScore: 9
-Stock: GOOG start 20070805 end  volume: 45582300 interestScore: 6
-Stock: GOOG start 20070812 end  volume: 52892000 interestScore: 9
-Stock: GOOG start 20070819 end  volume: 30332800 interestScore: 8
-Stock: GOOG start 20070826 end  volume: 27657900 interestScore: 8
-Stock: GOOG start 20070902 end  volume: 28699100 interestScore: 11
-Stock: GOOG start 20070909 end  volume: 27244000 interestScore: 9
-Stock: GOOG start 20070916 end  volume: 51144000 interestScore: 5
-Stock: GOOG start 20070923 end  volume: 32259000 interestScore: 5
-Stock: GOOG start 20070930 end  volume: 47604700 interestScore: 17
-Stock: GOOG start 20071007 end  volume: 75891100 interestScore: 14
-Stock: GOOG start 20071014 end  volume: 94507900 interestScore: 17
-Stock: GOOG start 20071021 end  volume: 60247900 interestScore: 13
-Stock: GOOG start 20071028 end  volume: 58643300 interestScore: 13
-Stock: GOOG start 20071104 end  volume: 107388000 interestScore: 14
-Stock: GOOG start 20071111 end  volume: 85875900 interestScore: 25
-Stock: GOOG start 20071118 end  volume: 50428200 interestScore: 17
-Stock: GOOG start 20071125 end  volume: 75711500 interestScore: 19
-Stock: GOOG start 20071202 end  volume: 43216100 interestScore: 13
-Stock: GOOG start 20071209 end  volume: 49923300 interestScore: 10
-Stock: GOOG start 20071216 end  volume: 53957000 interestScore: 12
-Stock: GOOG start 20071223 end  volume: 19399200 interestScore: 15
-Stock: GOOG start 20071230 end  volume: 30705100 interestScore: 11
-Stock: GOOG start 20080106 end  volume: 59809600 interestScore: 17
-Stock: GOOG start 20080113 end  volume: 74943600 interestScore: 9
-Stock: GOOG start 20080120 end  volume: 85989000 interestScore: 22
-Stock: GOOG start 20080127 end  volume: 105415400 interestScore: 10
-Stock: GOOG start 20080203 end  volume: 93859200 interestScore: 12
-Stock: GOOG start 20080210 end  volume: 61890300 interestScore: 7
-Stock: GOOG start 20080217 end  volume: 48593900 interestScore: 9
-Stock: GOOG start 20080224 end  volume: 116021400 interestScore: 10
-Stock: GOOG start 20080302 end  volume: 88639900 interestScore: 13
-Stock: GOOG start 20080309 end  volume: 75817500 interestScore: 9
-Stock: GOOG start 20080316 end  volume: 62669100 interestScore: 11
-Stock: GOOG start 20080323 end  volume: 56268000 interestScore: 9
-Stock: GOOG start 20080330 end  volume: 58646500 interestScore: 8
-Stock: GOOG start 20080406 end  volume: 51754000 interestScore: 7
-Stock: GOOG start 20080413 end  volume: 95635600 interestScore: 15
-Stock: GOOG start 20080420 end  volume: 57412200 interestScore: 6
-Stock: GOOG start 20080427 end  volume: 59941700 interestScore: 9
-Stock: GOOG start 20080504 end  volume: 54465100 interestScore: 11
-Stock: GOOG start 20080511 end  volume: 46212000 interestScore: 4
-Stock: GOOG start 20080518 end  volume: 49974300 interestScore: 11
-Stock: GOOG start 20080525 end  volume: 32091700 interestScore: 8
-Stock: GOOG start 20080601 end  volume: 40137200 interestScore: 4
-Stock: GOOG start 20080608 end  volume: 49051800 interestScore: 11
-Stock: GOOG start 20080615 end  volume: 44270900 interestScore: 4
-Stock: GOOG start 20080622 end  volume: 47251300 interestScore: 9
-Stock: GOOG start 20080629 end  volume: 30812100 interestScore: 6
-Stock: GOOG start 20080706 end  volume: 45478800 interestScore: 9
-Stock: GOOG start 20080713 end  volume: 70899700 interestScore: 9
-Stock: GOOG start 20080720 end  volume: 44588900 interestScore: 7
-Stock: GOOG start 20080727 end  volume: 30767500 interestScore: 9
-Stock: GOOG start 20080803 end  volume: 32039900 interestScore: 10
-Stock: GOOG start 20080810 end  volume: 34297200 interestScore: 7
-Stock: GOOG start 20080817 end  volume: 32468300 interestScore: 6
-Stock: GOOG start 20080824 end  volume: 33298800 interestScore: 8
-Stock: GOOG start 20080831 end  volume: 39765900 interestScore: 9
-Stock: GOOG start 20080907 end  volume: 70209100 interestScore: 8
-Stock: GOOG start 20080914 end  volume: 82869700 interestScore: 13
-Stock: GOOG start 20080921 end  volume: 48513300 interestScore: 9
-Stock: GOOG start 20080928 end  volume: 68378300 interestScore: 41
-Stock: GOOG start 20081005 end  volume: 105943500 interestScore: 21
-Stock: GOOG start 20081012 end  volume: 108204700 interestScore: 21
-Stock: GOOG start 20081019 end  volume: 66113100 interestScore: 11
-Stock: GOOG start 20081026 end  volume: 79245400 interestScore: 12
-Stock: GOOG start 20081102 end  volume: 67264600 interestScore: 10
-Stock: GOOG start 20081109 end  volume: 102441300 interestScore: 8
-Stock: GOOG start 20081116 end  volume: 87824100 interestScore: 6
-Stock: GOOG start 20081123 end  volume: 59718800 interestScore: 17
-Stock: GOOG start 20081130 end  volume: 57942800 interestScore: 8
-Stock: GOOG start 20081207 end  volume: 64585500 interestScore: 5
-Stock: GOOG start 20081214 end  volume: 60150800 interestScore: 8
-Stock: GOOG start 20081221 end  volume: 23238200 interestScore: 4
-Stock: GOOG start 20081228 end  volume: 28190300 interestScore: 9
-Stock: GOOG start 20090104 end  volume: 47677300 interestScore: 5
-Stock: GOOG start 20090111 end  volume: 48909400 interestScore: 7
-Stock: GOOG start 20090118 end  volume: 58161700 interestScore: 6
-Stock: GOOG start 20090125 end  volume: 58588600 interestScore: 3
-Stock: GOOG start 20090201 end  volume: 66012700 interestScore: 9
-Stock: GOOG start 20090208 end  volume: 54221200 interestScore: 5
-Stock: GOOG start 20090215 end  volume: 45992800 interestScore: 3
-Stock: GOOG start 20090222 end  volume: 57778600 interestScore: 5
-Stock: GOOG start 20090301 end  volume: 68045100 interestScore: 10
-Stock: GOOG start 20090308 end  volume: 56321000 interestScore: 11
-Stock: GOOG start 20090315 end  volume: 47217000 interestScore: 11
-Stock: GOOG start 20090322 end  volume: 43670300 interestScore: 11
-Stock: GOOG start 20090329 end  volume: 36793700 interestScore: 13
-Stock: GOOG start 20090405 end  volume: 26314200 interestScore: 3
-Stock: GOOG start 20090412 end  volume: 64892400 interestScore: 5
-Stock: GOOG start 20090419 end  volume: 35372700 interestScore: 10
-Stock: GOOG start 20090426 end  volume: 31371800 interestScore: 6
-Stock: GOOG start 20090503 end  volume: 30315900 interestScore: 5
-Stock: GOOG start 20090510 end  volume: 30390200 interestScore: 9
-Stock: GOOG start 20090517 end  volume: 25919500 interestScore: 5
-Stock: GOOG start 20090524 end  volume: 22997000 interestScore: 4
-Stock: GOOG start 20090531 end  volume: 33720800 interestScore: 7
-Stock: GOOG start 20090607 end  volume: 31107900 interestScore: 5
-Stock: GOOG start 20090614 end  volume: 35373500 interestScore: 6
-Stock: GOOG start 20090621 end  volume: 31683900 interestScore: 4
-Stock: GOOG start 20090628 end  volume: 19254800 interestScore: 3
-Stock: GOOG start 20090705 end  volume: 30443900 interestScore: 8
-Stock: GOOG start 20090712 end  volume: 48434600 interestScore: 3
-Stock: GOOG start 20090719 end  volume: 31745200 interestScore: 3
-Stock: GOOG start 20090726 end  volume: 26263400 interestScore: 16
-Stock: GOOG start 20090802 end  volume: 24041400 interestScore: 5
-Stock: GOOG start 20090809 end  volume: 19002800 interestScore: 3
-Stock: GOOG start 20090816 end  volume: 29681800 interestScore: 16
-Stock: GOOG start 20090823 end  volume: 21183900 interestScore: 4
-Stock: GOOG start 20090830 end  volume: 19076700 interestScore: 4
-Stock: GOOG start 20090906 end  volume: 18648500 interestScore: 3
-Stock: GOOG start 20090913 end  volume: 29561200 interestScore: 3
-Stock: GOOG start 20090920 end  volume: 24970700 interestScore: 9
-Stock: GOOG start 20090927 end  volume: 25081500 interestScore: 3
-Stock: GOOG start 20091004 end  volume: 33711300 interestScore: 7
-Stock: GOOG start 20091011 end  volume: 49304200 interestScore: 4
-Stock: GOOG start 20091018 end  volume: 31439600 interestScore: 8
-Stock: GOOG start 20091025 end  volume: 29601700 interestScore: 5
-Stock: GOOG start 20091101 end  volume: 23265200 interestScore: 4
-Stock: GOOG start 20091108 end  volume: 21587000 interestScore: 4
-Stock: GOOG start 20091115 end  volume: 19752700 interestScore: 3
-Stock: GOOG start 20091122 end  volume: 14049200 interestScore: 3
-Stock: GOOG start 20091129 end  volume: 19373700 interestScore: 5
-Stock: GOOG start 20091206 end  volume: 16720800 interestScore: 5
-Stock: GOOG start 20091213 end  volume: 26445400 interestScore: 5
-Stock: GOOG start 20091220 end  volume: 14821800 interestScore: 6
-Stock: GOOG start 20091227 end  volume: 11659400 interestScore: 6
-Stock: GOOG start 20100103 end  volume: 40306500 interestScore: 8
-Stock: GOOG start 20100110 end  volume: 56686000 interestScore: 7
-Stock: GOOG start 20100117 end  volume: 41505700 interestScore: 2
-Stock: GOOG start 20100124 end  volume: 40369000 interestScore: 5
-Stock: GOOG start 20100131 end  volume: 31878100 interestScore: 4
-Stock: GOOG start 20100207 end  volume: 25852300 interestScore: 5
-Stock: GOOG start 20100214 end  volume: 21227100 interestScore: 4
-Stock: GOOG start 20100221 end  volume: 25499100 interestScore: 2
-Stock: GOOG start 20100228 end  volume: 33685500 interestScore: 2
-Stock: GOOG start 20100307 end  volume: 36545200 interestScore: 5
-Stock: GOOG start 20100314 end  volume: 36091000 interestScore: 6
-Stock: GOOG start 20100321 end  volume: 45566600 interestScore: 7
-Stock: GOOG start 20100328 end  volume: 20508000 interestScore: 5
-Stock: GOOG start 20100404 end  volume: 21172100 interestScore: 6
-Stock: GOOG start 20100411 end  volume: 57544000 interestScore: 14
-Stock: GOOG start 20100418 end  volume: 29375100 interestScore: 5
-Stock: GOOG start 20100425 end  volume: 34355700 interestScore: 5
-Stock: GOOG start 20100502 end  volume: 45379700 interestScore: 7
-Stock: GOOG start 20100509 end  volume: 37628400 interestScore: 3
-Stock: GOOG start 20100516 end  volume: 47515100 interestScore: 4
-Stock: GOOG start 20100523 end  volume: 33208500 interestScore: 4
-Stock: GOOG start 20100530 end  volume: 25652600 interestScore: 3
-Stock: GOOG start 20100606 end  volume: 26912600 interestScore: 13
-Stock: GOOG start 20100613 end  volume: 26979200 interestScore: 4
-Stock: GOOG start 20100620 end  volume: 22826900 interestScore: 5
-Stock: GOOG start 20100627 end  volume: 28741400 interestScore: 7
-Stock: GOOG start 20100704 end  volume: 25475200 interestScore: 8
-Stock: GOOG start 20100711 end  volume: 46396300 interestScore: 7
-Stock: GOOG start 20100718 end  volume: 32714800 interestScore: 5
-Stock: GOOG start 20100725 end  volume: 23611600 interestScore: 6
-Stock: GOOG start 20100801 end  volume: 26525600 interestScore: 12
-Stock: GOOG start 20100808 end  volume: 20693800 interestScore: 7
-Stock: GOOG start 20100815 end  volume: 27551700 interestScore: 4
-Stock: GOOG start 20100822 end  volume: 24953500 interestScore: 5
-Stock: GOOG start 20100829 end  volume: 21341300 interestScore: 3
-Stock: GOOG start 20100905 end  volume: 17096700 interestScore: 3
-Stock: GOOG start 20100912 end  volume: 29051900 interestScore: 8
-Stock: GOOG start 20100919 end  volume: 34290100 interestScore: 3
-Stock: GOOG start 20100926 end  volume: 28914300 interestScore: 6
-Stock: GOOG start 20101003 end  volume: 27030200 interestScore: 4
-Stock: GOOG start 20101010 end  volume: 62019900 interestScore: 12
-Stock: GOOG start 20101017 end  volume: 40928000 interestScore: 8
-Stock: GOOG start 20101024 end  volume: 24844000 interestScore: 3
-Stock: GOOG start 20101031 end  volume: 27706300 interestScore: 5
-Stock: GOOG start 20101107 end  volume: 25073300 interestScore: 4
-Stock: GOOG start 20101114 end  volume: 28337900 interestScore: 5
-Stock: GOOG start 20101121 end  volume: 16173400 interestScore: 4
-Stock: GOOG start 20101128 end  volume: 37962000 interestScore: 6
-Stock: GOOG start 20101205 end  volume: 21011000 interestScore: 6
-Stock: GOOG start 20101212 end  volume: 21868000 interestScore: 5
-Stock: GOOG start 20101219 end  volume: 12388200 interestScore: 6
-Stock: GOOG start 20101226 end  volume: 11685000 interestScore: 6
-Stock: GOOG start 20110102 end  volume: 21843300 interestScore: 5
-Stock: GOOG start 20110109 end  volume: 16763700 interestScore: 5
-Stock: GOOG start 20110116 end  volume: 42986800 interestScore: 5
-Stock: GOOG start 20110123 end  volume: 33192100 interestScore: 6
-Stock: GOOG start 20110130 end  volume: 20790800 interestScore: 4
-Stock: GOOG start 20110206 end  volume: 20598900 interestScore: 5
-Stock: GOOG start 20110213 end  volume: 21280200 interestScore: 6
-Stock: GOOG start 20110220 end  volume: 22430600 interestScore: 5
-Stock: GOOG start 20110227 end  volume: 25269200 interestScore: 7
-Stock: GOOG start 20110306 end  volume: 28222300 interestScore: 5
-Stock: GOOG start 20110313 end  volume: 33761700 interestScore: 2
-Stock: GOOG start 20110320 end  volume: 23449300 interestScore: 4
-Stock: GOOG start 20110327 end  volume: 19849900 interestScore: 7
-Stock: GOOG start 20110403 end  volume: 30520700 interestScore: 5
-Stock: GOOG start 20110410 end  volume: 51217100 interestScore: 10
-Stock: GOOG start 20110417 end  volume: 26607000 interestScore: 6
-Stock: GOOG start 20110424 end  volume: 27417100 interestScore: 9
-Stock: GOOG start 20110501 end  volume: 20849600 interestScore: 7
-Stock: GOOG start 20110508 end  volume: 19848300 interestScore: 4
-Stock: GOOG start 20110515 end  volume: 26099500 interestScore: 5
-Stock: GOOG start 20110522 end  volume: 18801400 interestScore: 6
-Stock: GOOG start 20110529 end  volume: 19264000 interestScore: 4
-Stock: GOOG start 20110605 end  volume: 19335800 interestScore: 3
-Stock: GOOG start 20110612 end  volume: 29799700 interestScore: 2
-Stock: GOOG start 20110619 end  volume: 33742400 interestScore: 4
-Stock: GOOG start 20110626 end  volume: 29244400 interestScore: 4
-Stock: GOOG start 20110703 end  volume: 30614900 interestScore: 9
-Stock: GOOG start 20110710 end  volume: 57920300 interestScore: 9
-Stock: GOOG start 20110717 end  volume: 33447000 interestScore: 6
-Stock: GOOG start 20110724 end  volume: 33433700 interestScore: 8
-Stock: GOOG start 20110731 end  volume: 43835400 interestScore: 9
-Stock: GOOG start 20110807 end  volume: 54846000 interestScore: 9
-Stock: GOOG start 20110814 end  volume: 59951500 interestScore: 12
-Stock: GOOG start 20110821 end  volume: 39620200 interestScore: 7
-Stock: GOOG start 20110828 end  volume: 25765300 interestScore: 5
-Stock: GOOG start 20110904 end  volume: 22324800 interestScore: 2
-Stock: GOOG start 20110911 end  volume: 28534300 interestScore: 2
-Stock: GOOG start 20110918 end  volume: 29990300 interestScore: 8
-Stock: GOOG start 20110925 end  volume: 27178200 interestScore: 5
-Stock: GOOG start 20111002 end  volume: 39040300 interestScore: 9
-Stock: GOOG start 20111009 end  volume: 45310400 interestScore: 10
-Stock: GOOG start 20111016 end  volume: 35151800 interestScore: 6
-Stock: GOOG start 20111023 end  volume: 30370400 interestScore: 5
-Stock: GOOG start 20111030 end  volume: 26716000 interestScore: 5
-Stock: GOOG start 20111106 end  volume: 34012900 interestScore: 6
-Stock: GOOG start 20111113 end  volume: 30622300 interestScore: 3
-Stock: GOOG start 20111120 end  volume: 18658900 interestScore: 4
-Stock: GOOG start 20111127 end  volume: 31645600 interestScore: 5
-Stock: GOOG start 20111204 end  volume: 26017900 interestScore: 4
-Stock: GOOG start 20111211 end  volume: 34094400 interestScore: 3
-Stock: GOOG start 20111218 end  volume: 20687900 interestScore: 4
-Stock: GOOG start 20111225 end  volume: 14235300 interestScore: 3
-Stock: GOOG start 20120101 end  volume: 25126100 interestScore: 5
-Stock: GOOG start 20120108 end  volume: 33726800 interestScore: 6
-Stock: GOOG start 20120115 end  volume: 43266400 interestScore: 8
-Stock: GOOG start 20120122 end  volume: 36736900 interestScore: 5
-Stock: GOOG start 20120129 end  volume: 24845900 interestScore: 3
-Stock: GOOG start 20120205 end  volume: 24486800 interestScore: 6
-Stock: GOOG start 20120212 end  volume: 22134000 interestScore: 6
-Stock: GOOG start 20120219 end  volume: 16939700 interestScore: 7
-Stock: GOOG start 20120226 end  volume: 23305200 interestScore: 2
-Stock: GOOG start 20120304 end  volume: 20171300 interestScore: 3
-Stock: GOOG start 20120311 end  volume: 24766500 interestScore: 6
-Stock: GOOG start 20120318 end  volume: 21145000 interestScore: 4
-Stock: GOOG start 20120325 end  volume: 21279600 interestScore: 3
-Stock: GOOG start 20120401 end  volume: 16612400 interestScore: 5
-Stock: GOOG start 20120408 end  volume: 41714400 interestScore: 10
-Stock: GOOG start 20120415 end  volume: 35609500 interestScore: 6
-Stock: GOOG start 20120422 end  volume: 19425800 interestScore: 6
-Stock: GOOG start 20120429 end  volume: 20268400 interestScore: 6
-Stock: GOOG start 20120506 end  volume: 21351000 interestScore: 5
-Stock: GOOG start 20120513 end  volume: 36313000 interestScore: 12
-Stock: GOOG start 20120520 end  volume: 29667400 interestScore: 11
-Stock: GOOG start 20120527 end  volume: 21156000 interestScore: 11
-Stock: GOOG start 20120603 end  volume: 20149300 interestScore: 9
-Stock: GOOG start 20120610 end  volume: 26469600 interestScore: 5
-Stock: GOOG start 20120617 end  volume: 22401100 interestScore: 4
-Stock: GOOG start 20120624 end  volume: 18196500 interestScore: 7
-Stock: GOOG start 20120701 end  volume: 14760000 interestScore: 6
-Stock: GOOG start 20120708 end  volume: 22931700 interestScore: 4
-Stock: GOOG start 20120715 end  volume: 31776800 interestScore: 8
-Stock: GOOG start 20120722 end  volume: 25352200 interestScore: 4
-Stock: GOOG start 20120729 end  volume: 19616100 interestScore: 4
-Stock: GOOG start 20120805 end  volume: 15238800 interestScore: 5
-Stock: GOOG start 20120812 end  volume: 26570200 interestScore: 8
-Stock: GOOG start 20120819 end  volume: 18268400 interestScore: 9
-Stock: GOOG start 20120826 end  volume: 22918300 interestScore: 6
-Stock: GOOG start 20120902 end  volume: 19822100 interestScore: 8
-Stock: GOOG start 20120909 end  volume: 24799300 interestScore: 10
-Stock: GOOG start 20120916 end  volume: 31998800 interestScore: 7
-Stock: GOOG start 20120923 end  volume: 44184100 interestScore: 11
-Stock: GOOG start 20120930 end  volume: 26812900 interestScore: 8
-Stock: GOOG start 20121007 end  volume: 23667700 interestScore: 6
-Stock: GOOG start 20121014 end  volume: 62823700 interestScore: 18
-Stock: GOOG start 20121021 end  volume: 27744400 interestScore: 14
-Stock: GOOG start 20121028 end  volume: 11867000 interestScore: 10
-Stock: GOOG start 20121104 end  volume: 22407200 interestScore: 8
-Stock: GOOG start 20121111 end  volume: 19985200 interestScore: 4
-Stock: GOOG start 20121118 end  volume: 15039000 interestScore: 6
-Stock: GOOG start 20121125 end  volume: 27493000 interestScore: 3
-Stock: GOOG start 20121202 end  volume: 18926600 interestScore: 8
-Stock: GOOG start 20121209 end  volume: 24200500 interestScore: 6
-Stock: GOOG start 20121216 end  volume: 26381900 interestScore: 8
-Stock: GOOG start 20121223 end  volume: 10183000 interestScore: 5
-Stock: GOOG start 20121230 end  volume: 19312400 interestScore: 5
-Stock: GOOG start 20130106 end  volume: 17017900 interestScore: 6
-Stock: GOOG start 20130113 end  volume: 28613000 interestScore: 9
-Stock: GOOG start 20130120 end  volume: 30734500 interestScore: 13
-Stock: GOOG start 20130127 end  volume: 21053000 interestScore: 6
-Stock: GOOG start 20130203 end  volume: 25795000 interestScore: 5
-Stock: GOOG start 20130210 end  volume: 19452400 interestScore: 6
-Stock: GOOG start 20130217 end  volume: 22596600 interestScore: 7
-Stock: GOOG start 20130224 end  volume: 22029300 interestScore: 4
-Stock: GOOG start 20130303 end  volume: 29424000 interestScore: 5
-Stock: GOOG start 20130310 end  volume: 20064800 interestScore: 7
-Stock: GOOG start 20130317 end  volume: 16794400 interestScore: 3
-Stock: GOOG start 20130324 end  volume: 14764500 interestScore: 5
-Stock: GOOG start 20130331 end  volume: 23023000 interestScore: 4
-Stock: GOOG start 20130407 end  volume: 21345900 interestScore: 5
-Stock: GOOG start 20130414 end  volume: 30830100 interestScore: 7
-Stock: GOOG start 20130421 end  volume: 23054800 interestScore: 5
-Stock: GOOG start 20130428 end  volume: 21265800 interestScore: 4
-Stock: GOOG start 20130505 end  volume: 21413200 interestScore: 3
-Stock: GOOG start 20130512 end  volume: 26127600 interestScore: 10
-Stock: GOOG start 20130519 end  volume: 22861200 interestScore: 7
-Stock: GOOG start 20130526 end  volume: 16784400 interestScore: 5
-Stock: GOOG start 20130602 end  volume: 23496900 interestScore: 4
-Stock: GOOG start 20130609 end  volume: 21309300 interestScore: 6
-Stock: GOOG start 20130616 end  volume: 29275600 interestScore: 6
-Stock: GOOG start 20130623 end  volume: 23441600 interestScore: 6
-Stock: GOOG start 20130630 end  volume: 12777600 interestScore: 6
-Stock: GOOG start 20130707 end  volume: 21700000 interestScore: 7
-Stock: GOOG start 20130714 end  volume: 33009500 interestScore: 10
-Stock: GOOG start 20130721 end  volume: 23700400 interestScore: 7
-Stock: GOOG start 20130728 end  volume: 19418600 interestScore: 7
-Stock: GOOG start 20130804 end  volume: 14065300 interestScore: 6
-Stock: GOOG start 20130811 end  volume: 16909300 interestScore: 5
-Stock: GOOG start 20130818 end  volume: 13546500 interestScore: 14
-Stock: GOOG start 20130825 end  volume: 14968700 interestScore: 7
-Stock: GOOG start 20130901 end  volume: 13934900 interestScore: 6
-Stock: GOOG start 20130908 end  volume: 13155900 interestScore: 8
-Stock: GOOG start 20130915 end  volume: 21025500 interestScore: 3
-Stock: GOOG start 20130922 end  volume: 14919000 interestScore: 6
-Stock: GOOG start 20130929 end  volume: 16817300 interestScore: 11
-Stock: GOOG start 20131006 end  volume: 19176700 interestScore: 9
-Stock: GOOG start 20131013 end  volume: 41486600 interestScore: 17
-Stock: GOOG start 20131020 end  volume: 25339500 interestScore: 14
-Stock: GOOG start 20131027 end  volume: 14074300 interestScore: 8
-Stock: GOOG start 20131103 end  volume: 12452900 interestScore: 8
-Stock: GOOG start 20131110 end  volume: 12753400 interestScore: 5
-Stock: GOOG start 20131117 end  volume: 12448000 interestScore: 5
-Stock: GOOG start 20131124 end  volume: 12477500 interestScore: 5
-Stock: GOOG start 20131201 end  volume: 13657300 interestScore: 5
-Stock: GOOG start 20131208 end  volume: 17679900 interestScore: 8
-Stock: GOOG start 20131215 end  volume: 20627300 interestScore: 7
-Stock: GOOG start 20131222 end  volume: 10766400 interestScore: 6
-Stock: GOOG start 20131229 end  volume: 12209400 interestScore: 4
-Stock: GOOG start 20140105 end  volume: 21665200 interestScore: 7
-Stock: GOOG start 20140112 end  volume: 22557600 interestScore: 8
-Stock: GOOG start 20140119 end  volume: 18855700 interestScore: 5
-Stock: GOOG start 20140126 end  volume: 39349200 interestScore: 15
-Stock: GOOG start 20140202 end  volume: 28823600 interestScore: 12
-Stock: GOOG start 20140209 end  volume: 19559600 interestScore: 7
-Stock: GOOG start 20140216 end  volume: 15609200 interestScore: 10
-Stock: GOOG start 20140223 end  volume: 17402200 interestScore: 9
-Stock: GOOG start 20140302 end  volume: 15238400 interestScore: 9
-Stock: GOOG start 20140309 end  volume: 19133700 interestScore: 8
-Stock: GOOG start 20140316 end  volume: 21044500 interestScore: 7
-Stock: GOOG start 20140323 end  volume: 16168700 interestScore: 15
-Stock: GOOG start 20140330 end  volume: 11634200 interestScore: 22
-Stock: GOOG start 20140406 end  volume: 18845200 interestScore: 16
-Stock: GOOG start 20140413 end  volume: 18132700 interestScore: 20
-Stock: GOOG start 20140420 end  volume: 10967700 interestScore: 10
-Stock: GOOG start 20140427 end  volume: 11379600 interestScore: 9
-Stock: GOOG start 20140504 end  volume: 10398100 interestScore: 7
-Stock: GOOG start 20140511 end  volume: 7947100 interestScore: 6
-Stock: GOOG start 20140518 end  volume: 7806500 interestScore: 7
-Stock: GOOG start 20140525 end  volume: 6881300 interestScore: 7
-Stock: GOOG start 20140601 end  volume: 8543800 interestScore: 6
-Stock: GOOG start 20140608 end  volume: 6598200 interestScore: 5
-Stock: GOOG start 20140615 end  volume: 11853800 interestScore: 7
-Stock: GOOG start 20140622 end  volume: 9692000 interestScore: 10
-Stock: GOOG start 20140629 end  volume: 4532000 interestScore: 6
-Stock: GOOG start 20140706 end  volume: 7069200 interestScore: 7
-Stock: GOOG start 20140713 end  volume: 11904700 interestScore: 9
-Stock: GOOG start 20140720 end  volume: 6961800 interestScore: 6
-Stock: GOOG start 20140727 end  volume: 7410900 interestScore: 5
-Stock: GOOG start 20140803 end  volume: 6918400 interestScore: 5
-Stock: GOOG start 20140810 end  volume: 6700400 interestScore: 8
-Stock: GOOG start 20140817 end  volume: 5003200 interestScore: 6
-Stock: GOOG start 20140824 end  volume: 7080900 interestScore: 4
-Stock: GOOG start 20140831 end  volume: 5883900 interestScore: 5
-Stock: GOOG start 20140907 end  volume: 6518100 interestScore: 7
-Stock: GOOG start 20140914 end  volume: 9951700 interestScore: 7
-Stock: GOOG start 20140921 end  volume: 8258500 interestScore: 4
-Stock: GOOG start 20140928 end  volume: 6669600 interestScore: 6
-Stock: GOOG start 20141005 end  volume: 10723400 interestScore: 5
-Stock: GOOG start 20141012 end  volume: 17771200 interestScore: 9
-Stock: GOOG start 20141019 end  volume: 12184800 interestScore: 8
-Stock: GOOG start 20141026 end  volume: 7717300 interestScore: 6
-Stock: GOOG start 20141102 end  volume: 7625500 interestScore: 5
-Stock: GOOG start 20141109 end  volume: 5858500 interestScore: 5
-Stock: GOOG start 20141116 end  volume: 8868300 interestScore: 7
-Stock: GOOG start 20141123 end  volume: 6167400 interestScore: 3
-Stock: GOOG start 20141130 end  volume: 8877500 interestScore: 5
-Stock: GOOG start 20141207 end  volume: 9518100 interestScore: 3
-Stock: GOOG start 20141214 end  volume: 16277600 interestScore: 5
-Stock: GOOG start 20141221 end  volume: 6667700 interestScore: 3
-Stock: GOOG start 20141228 end  volume: 5970400 interestScore: 3
-Stock: GOOG start 20150104 end  volume: 12449500 interestScore: 5
-Stock: GOOG start 20150111 end  volume: 11926600 interestScore: 4
-Stock: GOOG start 20150118 end  volume: 9459300 interestScore: 3
-Stock: GOOG start 20150125 end  volume: 14924100 interestScore: 6
-Stock: GOOG start 20150201 end  volume: 10165200 interestScore: 7
-Stock: GOOG start 20150208 end  volume: 7915700 interestScore: 5
-Stock: GOOG start 20150215 end  volume: 5503200 interestScore: 5
-Stock: GOOG start 20150222 end  volume: 9010300 interestScore: 4
-Stock: GOOG start 20150301 end  volume: 8759800 interestScore: 6
-Stock: GOOG start 20150308 end  volume: 7768200 interestScore: 6
-Stock: GOOG start 20150315 end  volume: 9394900 interestScore: 3
-Stock: GOOG start 20150322 end  volume: 9849200 interestScore: 8
-Stock: GOOG start 20150329 end  volume: 6554800 interestScore: 3
-Stock: GOOG start 20150405 end  volume: 6772900 interestScore: 4
-Stock: GOOG start 20150412 end  volume: 10019800 interestScore: 6
-Stock: GOOG start 20150419 end  volume: 14234700 interestScore: 9
-Stock: GOOG start 20150426 end  volume: 9438200 interestScore: 9
-Stock: GOOG start 20150503 end  volume: 7332000 interestScore: 4
-Stock: GOOG start 20150510 end  volume: 7167000 interestScore: 7
-Stock: GOOG start 20150517 end  volume: 8040000 interestScore: 6
-Stock: GOOG start 20150524 end  volume: 7558700 interestScore: 3
-Stock: GOOG start 20150531 end  volume: 8294300 interestScore: 3
-Stock: GOOG start 20150607 end  volume: 6964200 interestScore: 2
-Stock: GOOG start 20150614 end  volume: 7725300 interestScore: 3
-Stock: GOOG start 20150621 end  volume: 7179200 interestScore: 4
-Stock: GOOG start 20150628 end  volume: 7351900 interestScore: 5
-Stock: GOOG start 20150705 end  volume: 7970500 interestScore: 8
-Stock: GOOG start 20150712 end  volume: 23168400 interestScore: 12
-Stock: GOOG start 20150719 end  volume: 19822200 interestScore: 11
-Stock: GOOG start 20150726 end  volume: 9158100 interestScore: 5
-Stock: GOOG start 20150802 end  volume: 8106200 interestScore: 5
-Stock: GOOG start 20150809 end  volume: 12657900 interestScore: 17
-Stock: GOOG start 20150816 end  volume: 11759900 interestScore: 7
-Stock: GOOG start 20150823 end  volume: 19014200 interestScore: 14
-Stock: GOOG start 20150830 end  volume: 12303000 interestScore: 10
-Stock: GOOG start 20150906 end  volume: 7260400 interestScore: 6
-Stock: GOOG start 20150913 end  volume: 12481300 interestScore: 8
-Stock: GOOG start 20150920 end  volume: 10236400 interestScore: 7
-Stock: GOOG start 20150927 end  volume: 12403000 interestScore: 7
-Stock: GOOG start 20151004 end  volume: 9893400 interestScore: 4
-Stock: GOOG start 20151011 end  volume: 7995200 interestScore: 6
-Stock: GOOG start 20151018 end  volume: 16483300 interestScore: 10
-Stock: GOOG start 20151025 end  volume: 10506100 interestScore: 11
-Stock: GOOG start 20151101 end  volume: 8531600 interestScore: 8
-Stock: GOOG start 20151108 end  volume: 8956900 interestScore: 6
-Stock: GOOG start 20151115 end  volume: 8640500 interestScore: 6
-Stock: GOOG start 20151122 end  volume: 5708200 interestScore: 5
-Stock: GOOG start 20151129 end  volume: 11810500 interestScore: 5
-Stock: GOOG start 20151206 end  volume: 10551100 interestScore: 6
-Stock: GOOG start 20151213 end  volume: 11774100 interestScore: 6
-Stock: GOOG start 20151220 end  volume: 4984200 interestScore: 3
-Stock: GOOG start 20151227 end  volume: 6063200 interestScore: 5
-Stock: GOOG start 20160103 end  volume: 12585100 interestScore: 10
-Stock: GOOG start 20160110 end  volume: 12435000 interestScore: 9
-Stock: GOOG start 20160117 end  volume: 10137100 interestScore: 11
-Stock: GOOG start 20160124 end  volume: 11388300 interestScore: 13
-Stock: GOOG start 20160131 end  volume: 27932700 interestScore: 27
-Stock: GOOG start 20160207 end  volume: 15659700 interestScore: 14
-Stock: GOOG start 20160214 end  volume: 8451400 interestScore: 8
-Stock: GOOG start 20160221 end  volume: 9776300 interestScore: 7
-Stock: GOOG start 20160228 end  volume: 9980200 interestScore: 7
-Stock: GOOG start 20160306 end  volume: 11260500 interestScore: 5
-Stock: GOOG start 20160313 end  volume: 9662500 interestScore: 5
-Stock: GOOG start 20160320 end  volume: 6082900 interestScore: 6
-Stock: GOOG start 20160327 end  volume: 8270200 interestScore: 5
-Stock: GOOG start 20160403 end  volume: 6029500 interestScore: 5
-Stock: GOOG start 20160410 end  volume: 7200000 interestScore: 3
-Stock: GOOG start 20160417 end  volume: 13790900 interestScore: 8
-Stock: GOOG start 20160424 end  volume: 13104900 interestScore: 9
-Stock: GOOG start 20160501 end  volume: 8367200 interestScore: 7
-Stock: GOOG start 20160508 end  volume: 7426300 interestScore: 5
-Stock: GOOG start 20160515 end  volume: 8551400 interestScore: 8
-Stock: GOOG start 20160522 end  volume: 8387400 interestScore: 6
-Stock: GOOG start 20160529 end  volume: 5931000 interestScore: 7
+Stock: GOOG start 20040104 end 20040110 volume: None interestScore: 0
+Stock: GOOG start 20040111 end 20040117 volume: None interestScore: 0
+Stock: GOOG start 20040118 end 20040124 volume: None interestScore: 0
+Stock: GOOG start 20040125 end 20040131 volume: None interestScore: 0
+Stock: GOOG start 20040201 end 20040207 volume: None interestScore: 0
+Stock: GOOG start 20040208 end 20040214 volume: None interestScore: 0
+Stock: GOOG start 20040215 end 20040221 volume: None interestScore: 0
+Stock: GOOG start 20040222 end 20040228 volume: None interestScore: 0
+Stock: GOOG start 20040229 end 20040306 volume: None interestScore: 0
+Stock: GOOG start 20040307 end 20040313 volume: None interestScore: 0
+Stock: GOOG start 20040314 end 20040320 volume: None interestScore: 0
+Stock: GOOG start 20040321 end 20040327 volume: None interestScore: 0
+Stock: GOOG start 20040328 end 20040403 volume: None interestScore: 0
+Stock: GOOG start 20040404 end 20040410 volume: None interestScore: 0
+Stock: GOOG start 20040411 end 20040417 volume: None interestScore: 0
+Stock: GOOG start 20040418 end 20040424 volume: None interestScore: 0
+Stock: GOOG start 20040425 end 20040501 volume: None interestScore: 0
+Stock: GOOG start 20040502 end 20040508 volume: None interestScore: 0
+Stock: GOOG start 20040509 end 20040515 volume: None interestScore: 0
+Stock: GOOG start 20040516 end 20040522 volume: None interestScore: 0
+Stock: GOOG start 20040523 end 20040529 volume: None interestScore: 0
+Stock: GOOG start 20040530 end 20040605 volume: None interestScore: 0
+Stock: GOOG start 20040606 end 20040612 volume: None interestScore: 0
+Stock: GOOG start 20040613 end 20040619 volume: None interestScore: 0
+Stock: GOOG start 20040620 end 20040626 volume: None interestScore: 0
+Stock: GOOG start 20040627 end 20040703 volume: None interestScore: 0
+Stock: GOOG start 20040704 end 20040710 volume: None interestScore: 24
+Stock: GOOG start 20040711 end 20040717 volume: None interestScore: 40
+Stock: GOOG start 20040718 end 20040724 volume: None interestScore: 56
+Stock: GOOG start 20040725 end 20040731 volume: None interestScore: 72
+Stock: GOOG start 20040801 end 20040807 volume: None interestScore: 24
+Stock: GOOG start 20040808 end 20040814 volume: None interestScore: 23
+Stock: GOOG start 20040815 end 20040821 volume: 67814100 interestScore: 100
+Stock: GOOG start 20040822 end 20040828 volume: 56264400 interestScore: 74
+Stock: GOOG start 20040829 end 20040904 volume: 39711400 interestScore: 21
+Stock: GOOG start 20040905 end 20040911 volume: 23705500 interestScore: 21
+Stock: GOOG start 20040912 end 20040918 volume: 48353100 interestScore: 20
+Stock: GOOG start 20040919 end 20040925 volume: 43302100 interestScore: 20
+Stock: GOOG start 20040926 end 20041002 volume: 83790400 interestScore: 20
+Stock: GOOG start 20041003 end 20041009 volume: 66877800 interestScore: 22
+Stock: GOOG start 20041010 end 20041016 volume: 65851700 interestScore: 24
+Stock: GOOG start 20041017 end 20041023 volume: 158477900 interestScore: 39
+Stock: GOOG start 20041024 end 20041030 volume: 209656800 interestScore: 38
+Stock: GOOG start 20041031 end 20041106 volume: 143942200 interestScore: 19
+Stock: GOOG start 20041107 end 20041113 volume: 129747200 interestScore: 28
+Stock: GOOG start 20041114 end 20041120 volume: 153273400 interestScore: 19
+Stock: GOOG start 20041121 end 20041127 volume: 93433700 interestScore: 19
+Stock: GOOG start 20041128 end 20041204 volume: 77008800 interestScore: 18
+Stock: GOOG start 20041205 end 20041211 volume: 65520000 interestScore: 18
+Stock: GOOG start 20041212 end 20041218 volume: 86998300 interestScore: 21
+Stock: GOOG start 20041219 end 20041225 volume: 45915900 interestScore: 23
+Stock: GOOG start 20041226 end 20050101 volume: 53199800 interestScore: 26
+Stock: GOOG start 20050102 end 20050108 volume: 116206800 interestScore: 27
+Stock: GOOG start 20050109 end 20050115 volume: 78624600 interestScore: 33
+Stock: GOOG start 20050116 end 20050122 volume: 85700300 interestScore: 39
+Stock: GOOG start 20050123 end 20050129 volume: 112068900 interestScore: 44
+Stock: GOOG start 20050130 end 20050205 volume: 178751600 interestScore: 50
+Stock: GOOG start 20050206 end 20050212 volume: 147973200 interestScore: 17
+Stock: GOOG start 20050213 end 20050219 volume: 200302700 interestScore: 16
+Stock: GOOG start 20050220 end 20050226 volume: 130200800 interestScore: 16
+Stock: GOOG start 20050227 end 20050305 volume: 77886000 interestScore: 16
+Stock: GOOG start 20050306 end 20050312 volume: 94477800 interestScore: 20
+Stock: GOOG start 20050313 end 20050319 volume: 88380700 interestScore: 23
+Stock: GOOG start 20050320 end 20050326 volume: 43493200 interestScore: 27
+Stock: GOOG start 20050327 end 20050402 volume: 69052700 interestScore: 30
+Stock: GOOG start 20050403 end 20050409 volume: 74024900 interestScore: 23
+Stock: GOOG start 20050410 end 20050416 volume: 74309200 interestScore: 15
+Stock: GOOG start 20050417 end 20050423 volume: 163387500 interestScore: 15
+Stock: GOOG start 20050424 end 20050430 volume: 130948200 interestScore: 31
+Stock: GOOG start 20050501 end 20050507 volume: 108212800 interestScore: 47
+Stock: GOOG start 20050508 end 20050514 volume: 79747300 interestScore: 15
+Stock: GOOG start 20050515 end 20050521 volume: 87691700 interestScore: 15
+Stock: GOOG start 20050522 end 20050528 volume: 189145700 interestScore: 15
+Stock: GOOG start 20050529 end 20050604 volume: 189075400 interestScore: 20
+Stock: GOOG start 20050605 end 20050611 volume: 204136700 interestScore: 24
+Stock: GOOG start 20050612 end 20050618 volume: 133849200 interestScore: 15
+Stock: GOOG start 20050619 end 20050625 volume: 157504800 interestScore: 23
+Stock: GOOG start 20050626 end 20050702 volume: 159515300 interestScore: 23
+Stock: GOOG start 20050703 end 20050709 volume: 67499600 interestScore: 23
+Stock: GOOG start 20050710 end 20050716 volume: 89933700 interestScore: 23
+Stock: GOOG start 20050717 end 20050723 volume: 153203200 interestScore: 23
+Stock: GOOG start 20050724 end 20050730 volume: 82271700 interestScore: 25
+Stock: GOOG start 20050731 end 20050806 volume: 60343500 interestScore: 15
+Stock: GOOG start 20050807 end 20050813 volume: 62715500 interestScore: 30
+Stock: GOOG start 20050814 end 20050820 volume: 73439500 interestScore: 15
+Stock: GOOG start 20050821 end 20050827 volume: 58939000 interestScore: 17
+Stock: GOOG start 20050828 end 20050903 volume: 43974800 interestScore: 14
+Stock: GOOG start 20050904 end 20050910 volume: 45601100 interestScore: 20
+Stock: GOOG start 20050911 end 20050917 volume: 110428200 interestScore: 27
+Stock: GOOG start 20050918 end 20050924 volume: 93795400 interestScore: 13
+Stock: GOOG start 20050925 end 20051001 volume: 79355800 interestScore: 13
+Stock: GOOG start 20051002 end 20051008 volume: 83104000 interestScore: 13
+Stock: GOOG start 20051009 end 20051015 volume: 85333800 interestScore: 13
+Stock: GOOG start 20051016 end 20051022 volume: 117356400 interestScore: 25
+Stock: GOOG start 20051023 end 20051029 volume: 72782200 interestScore: 25
+Stock: GOOG start 20051030 end 20051105 volume: 115506300 interestScore: 13
+Stock: GOOG start 20051106 end 20051112 volume: 88627500 interestScore: 24
+Stock: GOOG start 20051113 end 20051119 volume: 83041300 interestScore: 12
+Stock: GOOG start 20051120 end 20051126 volume: 69973300 interestScore: 16
+Stock: GOOG start 20051127 end 20051203 volume: 131268000 interestScore: 35
+Stock: GOOG start 20051204 end 20051210 volume: 107669600 interestScore: 18
+Stock: GOOG start 20051211 end 20051217 volume: 88571500 interestScore: 24
+Stock: GOOG start 20051218 end 20051224 volume: 111184700 interestScore: 26
+Stock: GOOG start 20051225 end 20051231 volume: 56919400 interestScore: 15
+Stock: GOOG start 20060101 end 20060107 volume: 114372500 interestScore: 25
+Stock: GOOG start 20060108 end 20060114 volume: 97721100 interestScore: 18
+Stock: GOOG start 20060115 end 20060121 volume: 169452300 interestScore: 11
+Stock: GOOG start 20060122 end 20060128 volume: 157234900 interestScore: 37
+Stock: GOOG start 20060129 end 20060204 volume: 176392000 interestScore: 32
+Stock: GOOG start 20060205 end 20060211 volume: 147571800 interestScore: 24
+Stock: GOOG start 20060212 end 20060218 volume: 166530400 interestScore: 15
+Stock: GOOG start 20060219 end 20060225 volume: 68652100 interestScore: 10
+Stock: GOOG start 20060226 end 20060304 volume: 184695800 interestScore: 17
+Stock: GOOG start 20060305 end 20060311 volume: 129081700 interestScore: 33
+Stock: GOOG start 20060312 end 20060318 volume: 127335700 interestScore: 10
+Stock: GOOG start 20060319 end 20060325 volume: 101277700 interestScore: 10
+Stock: GOOG start 20060326 end 20060401 volume: 173106100 interestScore: 24
+Stock: GOOG start 20060402 end 20060408 volume: 106142500 interestScore: 10
+Stock: GOOG start 20060409 end 20060415 volume: 66241500 interestScore: 18
+Stock: GOOG start 20060416 end 20060422 volume: 116437500 interestScore: 15
+Stock: GOOG start 20060423 end 20060429 volume: 83194900 interestScore: 15
+Stock: GOOG start 20060430 end 20060506 volume: 84825800 interestScore: 31
+Stock: GOOG start 20060507 end 20060513 volume: 79148600 interestScore: 10
+Stock: GOOG start 20060514 end 20060520 volume: 86237800 interestScore: 16
+Stock: GOOG start 20060521 end 20060527 volume: 78297500 interestScore: 13
+Stock: GOOG start 20060528 end 20060603 volume: 50110200 interestScore: 16
+Stock: GOOG start 20060604 end 20060610 volume: 82802000 interestScore: 20
+Stock: GOOG start 20060611 end 20060617 volume: 65324400 interestScore: 10
+Stock: GOOG start 20060618 end 20060624 volume: 63524900 interestScore: 10
+Stock: GOOG start 20060625 end 20060701 volume: 48751600 interestScore: 10
+Stock: GOOG start 20060702 end 20060708 volume: 33868700 interestScore: 10
+Stock: GOOG start 20060709 end 20060715 volume: 59804900 interestScore: 20
+Stock: GOOG start 20060716 end 20060722 volume: 94674200 interestScore: 30
+Stock: GOOG start 20060723 end 20060729 volume: 58425300 interestScore: 15
+Stock: GOOG start 20060730 end 20060805 volume: 57370700 interestScore: 10
+Stock: GOOG start 20060806 end 20060812 volume: 44223600 interestScore: 10
+Stock: GOOG start 20060813 end 20060819 volume: 55310400 interestScore: 19
+Stock: GOOG start 20060820 end 20060826 volume: 35690600 interestScore: 9
+Stock: GOOG start 20060827 end 20060902 volume: 36739100 interestScore: 9
+Stock: GOOG start 20060903 end 20060909 volume: 29557500 interestScore: 9
+Stock: GOOG start 20060910 end 20060916 volume: 66134100 interestScore: 9
+Stock: GOOG start 20060917 end 20060923 volume: 92121500 interestScore: 8
+Stock: GOOG start 20060924 end 20060930 volume: 50832700 interestScore: 8
+Stock: GOOG start 20061001 end 20061007 volume: 58025700 interestScore: 8
+Stock: GOOG start 20061008 end 20061014 volume: 63183000 interestScore: 25
+Stock: GOOG start 20061015 end 20061021 volume: 77687900 interestScore: 28
+Stock: GOOG start 20061022 end 20061028 volume: 93524600 interestScore: 22
+Stock: GOOG start 20061029 end 20061104 volume: 57050900 interestScore: 8
+Stock: GOOG start 20061105 end 20061111 volume: 51249800 interestScore: 12
+Stock: GOOG start 20061112 end 20061118 volume: 61307600 interestScore: 8
+Stock: GOOG start 20061119 end 20061125 volume: 39718800 interestScore: 8
+Stock: GOOG start 20061126 end 20061202 volume: 65537200 interestScore: 15
+Stock: GOOG start 20061203 end 20061209 volume: 44350000 interestScore: 15
+Stock: GOOG start 20061210 end 20061216 volume: 44257200 interestScore: 8
+Stock: GOOG start 20061217 end 20061223 volume: 60049900 interestScore: 8
+Stock: GOOG start 20061224 end 20061230 volume: 24051900 interestScore: 10
+Stock: GOOG start 20061231 end 20070106 volume: 45100500 interestScore: 8
+Stock: GOOG start 20070107 end 20070113 volume: 55780300 interestScore: 7
+Stock: GOOG start 20070114 end 20070120 volume: 50545000 interestScore: 14
+Stock: GOOG start 20070121 end 20070127 volume: 56197800 interestScore: 14
+Stock: GOOG start 20070128 end 20070203 volume: 86537600 interestScore: 20
+Stock: GOOG start 20070204 end 20070210 volume: 51359300 interestScore: 7
+Stock: GOOG start 20070211 end 20070217 volume: 51663100 interestScore: 7
+Stock: GOOG start 20070218 end 20070224 volume: 38813900 interestScore: 7
+Stock: GOOG start 20070225 end 20070303 volume: 73441300 interestScore: 17
+Stock: GOOG start 20070304 end 20070310 volume: 61757000 interestScore: 13
+Stock: GOOG start 20070311 end 20070317 volume: 55131200 interestScore: 13
+Stock: GOOG start 20070318 end 20070324 volume: 48599900 interestScore: 10
+Stock: GOOG start 20070325 end 20070331 volume: 40976000 interestScore: 7
+Stock: GOOG start 20070401 end 20070407 volume: 33012700 interestScore: 9
+Stock: GOOG start 20070408 end 20070414 volume: 30826800 interestScore: 9
+Stock: GOOG start 20070415 end 20070421 volume: 74537200 interestScore: 10
+Stock: GOOG start 20070422 end 20070428 volume: 40925700 interestScore: 6
+Stock: GOOG start 20070429 end 20070505 volume: 35946400 interestScore: 13
+Stock: GOOG start 20070506 end 20070512 volume: 33013600 interestScore: 6
+Stock: GOOG start 20070513 end 20070519 volume: 45976100 interestScore: 12
+Stock: GOOG start 20070520 end 20070526 volume: 49345000 interestScore: 6
+Stock: GOOG start 20070527 end 20070602 volume: 52570000 interestScore: 12
+Stock: GOOG start 20070603 end 20070609 volume: 85164600 interestScore: 8
+Stock: GOOG start 20070610 end 20070616 volume: 58009100 interestScore: 12
+Stock: GOOG start 20070617 end 20070623 volume: 50473600 interestScore: 9
+Stock: GOOG start 20070624 end 20070630 volume: 55781000 interestScore: 9
+Stock: GOOG start 20070701 end 20070707 volume: 26195800 interestScore: 9
+Stock: GOOG start 20070708 end 20070714 volume: 39293800 interestScore: 10
+Stock: GOOG start 20070715 end 20070721 volume: 92158700 interestScore: 10
+Stock: GOOG start 20070722 end 20070728 volume: 59956000 interestScore: 10
+Stock: GOOG start 20070729 end 20070804 volume: 38128100 interestScore: 9
+Stock: GOOG start 20070805 end 20070811 volume: 45582300 interestScore: 6
+Stock: GOOG start 20070812 end 20070818 volume: 52892000 interestScore: 9
+Stock: GOOG start 20070819 end 20070825 volume: 30332800 interestScore: 8
+Stock: GOOG start 20070826 end 20070901 volume: 27657900 interestScore: 8
+Stock: GOOG start 20070902 end 20070908 volume: 28699100 interestScore: 11
+Stock: GOOG start 20070909 end 20070915 volume: 27244000 interestScore: 9
+Stock: GOOG start 20070916 end 20070922 volume: 51144000 interestScore: 5
+Stock: GOOG start 20070923 end 20070929 volume: 32259000 interestScore: 5
+Stock: GOOG start 20070930 end 20071006 volume: 47604700 interestScore: 17
+Stock: GOOG start 20071007 end 20071013 volume: 75891100 interestScore: 14
+Stock: GOOG start 20071014 end 20071020 volume: 94507900 interestScore: 17
+Stock: GOOG start 20071021 end 20071027 volume: 60247900 interestScore: 13
+Stock: GOOG start 20071028 end 20071103 volume: 58643300 interestScore: 13
+Stock: GOOG start 20071104 end 20071110 volume: 107388000 interestScore: 14
+Stock: GOOG start 20071111 end 20071117 volume: 85875900 interestScore: 25
+Stock: GOOG start 20071118 end 20071124 volume: 50428200 interestScore: 17
+Stock: GOOG start 20071125 end 20071201 volume: 75711500 interestScore: 19
+Stock: GOOG start 20071202 end 20071208 volume: 43216100 interestScore: 13
+Stock: GOOG start 20071209 end 20071215 volume: 49923300 interestScore: 10
+Stock: GOOG start 20071216 end 20071222 volume: 53957000 interestScore: 12
+Stock: GOOG start 20071223 end 20071229 volume: 19399200 interestScore: 15
+Stock: GOOG start 20071230 end 20080105 volume: 30705100 interestScore: 11
+Stock: GOOG start 20080106 end 20080112 volume: 59809600 interestScore: 17
+Stock: GOOG start 20080113 end 20080119 volume: 74943600 interestScore: 9
+Stock: GOOG start 20080120 end 20080126 volume: 85989000 interestScore: 22
+Stock: GOOG start 20080127 end 20080202 volume: 105415400 interestScore: 10
+Stock: GOOG start 20080203 end 20080209 volume: 93859200 interestScore: 12
+Stock: GOOG start 20080210 end 20080216 volume: 61890300 interestScore: 7
+Stock: GOOG start 20080217 end 20080223 volume: 48593900 interestScore: 9
+Stock: GOOG start 20080224 end 20080301 volume: 116021400 interestScore: 10
+Stock: GOOG start 20080302 end 20080308 volume: 88639900 interestScore: 13
+Stock: GOOG start 20080309 end 20080315 volume: 75817500 interestScore: 9
+Stock: GOOG start 20080316 end 20080322 volume: 62669100 interestScore: 11
+Stock: GOOG start 20080323 end 20080329 volume: 56268000 interestScore: 9
+Stock: GOOG start 20080330 end 20080405 volume: 58646500 interestScore: 8
+Stock: GOOG start 20080406 end 20080412 volume: 51754000 interestScore: 7
+Stock: GOOG start 20080413 end 20080419 volume: 95635600 interestScore: 15
+Stock: GOOG start 20080420 end 20080426 volume: 57412200 interestScore: 6
+Stock: GOOG start 20080427 end 20080503 volume: 59941700 interestScore: 9
+Stock: GOOG start 20080504 end 20080510 volume: 54465100 interestScore: 11
+Stock: GOOG start 20080511 end 20080517 volume: 46212000 interestScore: 4
+Stock: GOOG start 20080518 end 20080524 volume: 49974300 interestScore: 11
+Stock: GOOG start 20080525 end 20080531 volume: 32091700 interestScore: 8
+Stock: GOOG start 20080601 end 20080607 volume: 40137200 interestScore: 4
+Stock: GOOG start 20080608 end 20080614 volume: 49051800 interestScore: 11
+Stock: GOOG start 20080615 end 20080621 volume: 44270900 interestScore: 4
+Stock: GOOG start 20080622 end 20080628 volume: 47251300 interestScore: 9
+Stock: GOOG start 20080629 end 20080705 volume: 30812100 interestScore: 6
+Stock: GOOG start 20080706 end 20080712 volume: 45478800 interestScore: 9
+Stock: GOOG start 20080713 end 20080719 volume: 70899700 interestScore: 9
+Stock: GOOG start 20080720 end 20080726 volume: 44588900 interestScore: 7
+Stock: GOOG start 20080727 end 20080802 volume: 30767500 interestScore: 9
+Stock: GOOG start 20080803 end 20080809 volume: 32039900 interestScore: 10
+Stock: GOOG start 20080810 end 20080816 volume: 34297200 interestScore: 7
+Stock: GOOG start 20080817 end 20080823 volume: 32468300 interestScore: 6
+Stock: GOOG start 20080824 end 20080830 volume: 33298800 interestScore: 8
+Stock: GOOG start 20080831 end 20080906 volume: 39765900 interestScore: 9
+Stock: GOOG start 20080907 end 20080913 volume: 70209100 interestScore: 8
+Stock: GOOG start 20080914 end 20080920 volume: 82869700 interestScore: 13
+Stock: GOOG start 20080921 end 20080927 volume: 48513300 interestScore: 9
+Stock: GOOG start 20080928 end 20081004 volume: 68378300 interestScore: 41
+Stock: GOOG start 20081005 end 20081011 volume: 105943500 interestScore: 21
+Stock: GOOG start 20081012 end 20081018 volume: 108204700 interestScore: 21
+Stock: GOOG start 20081019 end 20081025 volume: 66113100 interestScore: 11
+Stock: GOOG start 20081026 end 20081101 volume: 79245400 interestScore: 12
+Stock: GOOG start 20081102 end 20081108 volume: 67264600 interestScore: 10
+Stock: GOOG start 20081109 end 20081115 volume: 102441300 interestScore: 8
+Stock: GOOG start 20081116 end 20081122 volume: 87824100 interestScore: 6
+Stock: GOOG start 20081123 end 20081129 volume: 59718800 interestScore: 17
+Stock: GOOG start 20081130 end 20081206 volume: 57942800 interestScore: 8
+Stock: GOOG start 20081207 end 20081213 volume: 64585500 interestScore: 5
+Stock: GOOG start 20081214 end 20081220 volume: 60150800 interestScore: 8
+Stock: GOOG start 20081221 end 20081227 volume: 23238200 interestScore: 4
+Stock: GOOG start 20081228 end 20090103 volume: 28190300 interestScore: 9
+Stock: GOOG start 20090104 end 20090110 volume: 47677300 interestScore: 5
+Stock: GOOG start 20090111 end 20090117 volume: 48909400 interestScore: 7
+Stock: GOOG start 20090118 end 20090124 volume: 58161700 interestScore: 6
+Stock: GOOG start 20090125 end 20090131 volume: 58588600 interestScore: 3
+Stock: GOOG start 20090201 end 20090207 volume: 66012700 interestScore: 9
+Stock: GOOG start 20090208 end 20090214 volume: 54221200 interestScore: 5
+Stock: GOOG start 20090215 end 20090221 volume: 45992800 interestScore: 3
+Stock: GOOG start 20090222 end 20090228 volume: 57778600 interestScore: 5
+Stock: GOOG start 20090301 end 20090307 volume: 68045100 interestScore: 10
+Stock: GOOG start 20090308 end 20090314 volume: 56321000 interestScore: 11
+Stock: GOOG start 20090315 end 20090321 volume: 47217000 interestScore: 11
+Stock: GOOG start 20090322 end 20090328 volume: 43670300 interestScore: 11
+Stock: GOOG start 20090329 end 20090404 volume: 36793700 interestScore: 13
+Stock: GOOG start 20090405 end 20090411 volume: 26314200 interestScore: 3
+Stock: GOOG start 20090412 end 20090418 volume: 64892400 interestScore: 5
+Stock: GOOG start 20090419 end 20090425 volume: 35372700 interestScore: 10
+Stock: GOOG start 20090426 end 20090502 volume: 31371800 interestScore: 6
+Stock: GOOG start 20090503 end 20090509 volume: 30315900 interestScore: 5
+Stock: GOOG start 20090510 end 20090516 volume: 30390200 interestScore: 9
+Stock: GOOG start 20090517 end 20090523 volume: 25919500 interestScore: 5
+Stock: GOOG start 20090524 end 20090530 volume: 22997000 interestScore: 4
+Stock: GOOG start 20090531 end 20090606 volume: 33720800 interestScore: 7
+Stock: GOOG start 20090607 end 20090613 volume: 31107900 interestScore: 5
+Stock: GOOG start 20090614 end 20090620 volume: 35373500 interestScore: 6
+Stock: GOOG start 20090621 end 20090627 volume: 31683900 interestScore: 4
+Stock: GOOG start 20090628 end 20090704 volume: 19254800 interestScore: 3
+Stock: GOOG start 20090705 end 20090711 volume: 30443900 interestScore: 8
+Stock: GOOG start 20090712 end 20090718 volume: 48434600 interestScore: 3
+Stock: GOOG start 20090719 end 20090725 volume: 31745200 interestScore: 3
+Stock: GOOG start 20090726 end 20090801 volume: 26263400 interestScore: 16
+Stock: GOOG start 20090802 end 20090808 volume: 24041400 interestScore: 5
+Stock: GOOG start 20090809 end 20090815 volume: 19002800 interestScore: 3
+Stock: GOOG start 20090816 end 20090822 volume: 29681800 interestScore: 16
+Stock: GOOG start 20090823 end 20090829 volume: 21183900 interestScore: 4
+Stock: GOOG start 20090830 end 20090905 volume: 19076700 interestScore: 4
+Stock: GOOG start 20090906 end 20090912 volume: 18648500 interestScore: 3
+Stock: GOOG start 20090913 end 20090919 volume: 29561200 interestScore: 3
+Stock: GOOG start 20090920 end 20090926 volume: 24970700 interestScore: 9
+Stock: GOOG start 20090927 end 20091003 volume: 25081500 interestScore: 3
+Stock: GOOG start 20091004 end 20091010 volume: 33711300 interestScore: 7
+Stock: GOOG start 20091011 end 20091017 volume: 49304200 interestScore: 4
+Stock: GOOG start 20091018 end 20091024 volume: 31439600 interestScore: 8
+Stock: GOOG start 20091025 end 20091031 volume: 29601700 interestScore: 5
+Stock: GOOG start 20091101 end 20091107 volume: 23265200 interestScore: 4
+Stock: GOOG start 20091108 end 20091114 volume: 21587000 interestScore: 4
+Stock: GOOG start 20091115 end 20091121 volume: 19752700 interestScore: 3
+Stock: GOOG start 20091122 end 20091128 volume: 14049200 interestScore: 3
+Stock: GOOG start 20091129 end 20091205 volume: 19373700 interestScore: 5
+Stock: GOOG start 20091206 end 20091212 volume: 16720800 interestScore: 5
+Stock: GOOG start 20091213 end 20091219 volume: 26445400 interestScore: 5
+Stock: GOOG start 20091220 end 20091226 volume: 14821800 interestScore: 6
+Stock: GOOG start 20091227 end 20100102 volume: 11659400 interestScore: 6
+Stock: GOOG start 20100103 end 20100109 volume: 40306500 interestScore: 8
+Stock: GOOG start 20100110 end 20100116 volume: 56686000 interestScore: 7
+Stock: GOOG start 20100117 end 20100123 volume: 41505700 interestScore: 2
+Stock: GOOG start 20100124 end 20100130 volume: 40369000 interestScore: 5
+Stock: GOOG start 20100131 end 20100206 volume: 31878100 interestScore: 4
+Stock: GOOG start 20100207 end 20100213 volume: 25852300 interestScore: 5
+Stock: GOOG start 20100214 end 20100220 volume: 21227100 interestScore: 4
+Stock: GOOG start 20100221 end 20100227 volume: 25499100 interestScore: 2
+Stock: GOOG start 20100228 end 20100306 volume: 33685500 interestScore: 2
+Stock: GOOG start 20100307 end 20100313 volume: 36545200 interestScore: 5
+Stock: GOOG start 20100314 end 20100320 volume: 36091000 interestScore: 6
+Stock: GOOG start 20100321 end 20100327 volume: 45566600 interestScore: 7
+Stock: GOOG start 20100328 end 20100403 volume: 20508000 interestScore: 5
+Stock: GOOG start 20100404 end 20100410 volume: 21172100 interestScore: 6
+Stock: GOOG start 20100411 end 20100417 volume: 57544000 interestScore: 14
+Stock: GOOG start 20100418 end 20100424 volume: 29375100 interestScore: 5
+Stock: GOOG start 20100425 end 20100501 volume: 34355700 interestScore: 5
+Stock: GOOG start 20100502 end 20100508 volume: 45379700 interestScore: 7
+Stock: GOOG start 20100509 end 20100515 volume: 37628400 interestScore: 3
+Stock: GOOG start 20100516 end 20100522 volume: 47515100 interestScore: 4
+Stock: GOOG start 20100523 end 20100529 volume: 33208500 interestScore: 4
+Stock: GOOG start 20100530 end 20100605 volume: 25652600 interestScore: 3
+Stock: GOOG start 20100606 end 20100612 volume: 26912600 interestScore: 13
+Stock: GOOG start 20100613 end 20100619 volume: 26979200 interestScore: 4
+Stock: GOOG start 20100620 end 20100626 volume: 22826900 interestScore: 5
+Stock: GOOG start 20100627 end 20100703 volume: 28741400 interestScore: 7
+Stock: GOOG start 20100704 end 20100710 volume: 25475200 interestScore: 8
+Stock: GOOG start 20100711 end 20100717 volume: 46396300 interestScore: 7
+Stock: GOOG start 20100718 end 20100724 volume: 32714800 interestScore: 5
+Stock: GOOG start 20100725 end 20100731 volume: 23611600 interestScore: 6
+Stock: GOOG start 20100801 end 20100807 volume: 26525600 interestScore: 12
+Stock: GOOG start 20100808 end 20100814 volume: 20693800 interestScore: 7
+Stock: GOOG start 20100815 end 20100821 volume: 27551700 interestScore: 4
+Stock: GOOG start 20100822 end 20100828 volume: 24953500 interestScore: 5
+Stock: GOOG start 20100829 end 20100904 volume: 21341300 interestScore: 3
+Stock: GOOG start 20100905 end 20100911 volume: 17096700 interestScore: 3
+Stock: GOOG start 20100912 end 20100918 volume: 29051900 interestScore: 8
+Stock: GOOG start 20100919 end 20100925 volume: 34290100 interestScore: 3
+Stock: GOOG start 20100926 end 20101002 volume: 28914300 interestScore: 6
+Stock: GOOG start 20101003 end 20101009 volume: 27030200 interestScore: 4
+Stock: GOOG start 20101010 end 20101016 volume: 62019900 interestScore: 12
+Stock: GOOG start 20101017 end 20101023 volume: 40928000 interestScore: 8
+Stock: GOOG start 20101024 end 20101030 volume: 24844000 interestScore: 3
+Stock: GOOG start 20101031 end 20101106 volume: 27706300 interestScore: 5
+Stock: GOOG start 20101107 end 20101113 volume: 25073300 interestScore: 4
+Stock: GOOG start 20101114 end 20101120 volume: 28337900 interestScore: 5
+Stock: GOOG start 20101121 end 20101127 volume: 16173400 interestScore: 4
+Stock: GOOG start 20101128 end 20101204 volume: 37962000 interestScore: 6
+Stock: GOOG start 20101205 end 20101211 volume: 21011000 interestScore: 6
+Stock: GOOG start 20101212 end 20101218 volume: 21868000 interestScore: 5
+Stock: GOOG start 20101219 end 20101225 volume: 12388200 interestScore: 6
+Stock: GOOG start 20101226 end 20110101 volume: 11685000 interestScore: 6
+Stock: GOOG start 20110102 end 20110108 volume: 21843300 interestScore: 5
+Stock: GOOG start 20110109 end 20110115 volume: 16763700 interestScore: 5
+Stock: GOOG start 20110116 end 20110122 volume: 42986800 interestScore: 5
+Stock: GOOG start 20110123 end 20110129 volume: 33192100 interestScore: 6
+Stock: GOOG start 20110130 end 20110205 volume: 20790800 interestScore: 4
+Stock: GOOG start 20110206 end 20110212 volume: 20598900 interestScore: 5
+Stock: GOOG start 20110213 end 20110219 volume: 21280200 interestScore: 6
+Stock: GOOG start 20110220 end 20110226 volume: 22430600 interestScore: 5
+Stock: GOOG start 20110227 end 20110305 volume: 25269200 interestScore: 7
+Stock: GOOG start 20110306 end 20110312 volume: 28222300 interestScore: 5
+Stock: GOOG start 20110313 end 20110319 volume: 33761700 interestScore: 2
+Stock: GOOG start 20110320 end 20110326 volume: 23449300 interestScore: 4
+Stock: GOOG start 20110327 end 20110402 volume: 19849900 interestScore: 7
+Stock: GOOG start 20110403 end 20110409 volume: 30520700 interestScore: 5
+Stock: GOOG start 20110410 end 20110416 volume: 51217100 interestScore: 10
+Stock: GOOG start 20110417 end 20110423 volume: 26607000 interestScore: 6
+Stock: GOOG start 20110424 end 20110430 volume: 27417100 interestScore: 9
+Stock: GOOG start 20110501 end 20110507 volume: 20849600 interestScore: 7
+Stock: GOOG start 20110508 end 20110514 volume: 19848300 interestScore: 4
+Stock: GOOG start 20110515 end 20110521 volume: 26099500 interestScore: 5
+Stock: GOOG start 20110522 end 20110528 volume: 18801400 interestScore: 6
+Stock: GOOG start 20110529 end 20110604 volume: 19264000 interestScore: 4
+Stock: GOOG start 20110605 end 20110611 volume: 19335800 interestScore: 3
+Stock: GOOG start 20110612 end 20110618 volume: 29799700 interestScore: 2
+Stock: GOOG start 20110619 end 20110625 volume: 33742400 interestScore: 4
+Stock: GOOG start 20110626 end 20110702 volume: 29244400 interestScore: 4
+Stock: GOOG start 20110703 end 20110709 volume: 30614900 interestScore: 9
+Stock: GOOG start 20110710 end 20110716 volume: 57920300 interestScore: 9
+Stock: GOOG start 20110717 end 20110723 volume: 33447000 interestScore: 6
+Stock: GOOG start 20110724 end 20110730 volume: 33433700 interestScore: 8
+Stock: GOOG start 20110731 end 20110806 volume: 43835400 interestScore: 9
+Stock: GOOG start 20110807 end 20110813 volume: 54846000 interestScore: 9
+Stock: GOOG start 20110814 end 20110820 volume: 59951500 interestScore: 12
+Stock: GOOG start 20110821 end 20110827 volume: 39620200 interestScore: 7
+Stock: GOOG start 20110828 end 20110903 volume: 25765300 interestScore: 5
+Stock: GOOG start 20110904 end 20110910 volume: 22324800 interestScore: 2
+Stock: GOOG start 20110911 end 20110917 volume: 28534300 interestScore: 2
+Stock: GOOG start 20110918 end 20110924 volume: 29990300 interestScore: 8
+Stock: GOOG start 20110925 end 20111001 volume: 27178200 interestScore: 5
+Stock: GOOG start 20111002 end 20111008 volume: 39040300 interestScore: 9
+Stock: GOOG start 20111009 end 20111015 volume: 45310400 interestScore: 10
+Stock: GOOG start 20111016 end 20111022 volume: 35151800 interestScore: 6
+Stock: GOOG start 20111023 end 20111029 volume: 30370400 interestScore: 5
+Stock: GOOG start 20111030 end 20111105 volume: 26716000 interestScore: 5
+Stock: GOOG start 20111106 end 20111112 volume: 34012900 interestScore: 6
+Stock: GOOG start 20111113 end 20111119 volume: 30622300 interestScore: 3
+Stock: GOOG start 20111120 end 20111126 volume: 18658900 interestScore: 4
+Stock: GOOG start 20111127 end 20111203 volume: 31645600 interestScore: 5
+Stock: GOOG start 20111204 end 20111210 volume: 26017900 interestScore: 4
+Stock: GOOG start 20111211 end 20111217 volume: 34094400 interestScore: 3
+Stock: GOOG start 20111218 end 20111224 volume: 20687900 interestScore: 4
+Stock: GOOG start 20111225 end 20111231 volume: 14235300 interestScore: 3
+Stock: GOOG start 20120101 end 20120107 volume: 25126100 interestScore: 5
+Stock: GOOG start 20120108 end 20120114 volume: 33726800 interestScore: 6
+Stock: GOOG start 20120115 end 20120121 volume: 43266400 interestScore: 8
+Stock: GOOG start 20120122 end 20120128 volume: 36736900 interestScore: 5
+Stock: GOOG start 20120129 end 20120204 volume: 24845900 interestScore: 3
+Stock: GOOG start 20120205 end 20120211 volume: 24486800 interestScore: 6
+Stock: GOOG start 20120212 end 20120218 volume: 22134000 interestScore: 6
+Stock: GOOG start 20120219 end 20120225 volume: 16939700 interestScore: 7
+Stock: GOOG start 20120226 end 20120303 volume: 23305200 interestScore: 2
+Stock: GOOG start 20120304 end 20120310 volume: 20171300 interestScore: 3
+Stock: GOOG start 20120311 end 20120317 volume: 24766500 interestScore: 6
+Stock: GOOG start 20120318 end 20120324 volume: 21145000 interestScore: 4
+Stock: GOOG start 20120325 end 20120331 volume: 21279600 interestScore: 3
+Stock: GOOG start 20120401 end 20120407 volume: 16612400 interestScore: 5
+Stock: GOOG start 20120408 end 20120414 volume: 41714400 interestScore: 10
+Stock: GOOG start 20120415 end 20120421 volume: 35609500 interestScore: 6
+Stock: GOOG start 20120422 end 20120428 volume: 19425800 interestScore: 6
+Stock: GOOG start 20120429 end 20120505 volume: 20268400 interestScore: 6
+Stock: GOOG start 20120506 end 20120512 volume: 21351000 interestScore: 5
+Stock: GOOG start 20120513 end 20120519 volume: 36313000 interestScore: 12
+Stock: GOOG start 20120520 end 20120526 volume: 29667400 interestScore: 11
+Stock: GOOG start 20120527 end 20120602 volume: 21156000 interestScore: 11
+Stock: GOOG start 20120603 end 20120609 volume: 20149300 interestScore: 9
+Stock: GOOG start 20120610 end 20120616 volume: 26469600 interestScore: 5
+Stock: GOOG start 20120617 end 20120623 volume: 22401100 interestScore: 4
+Stock: GOOG start 20120624 end 20120630 volume: 18196500 interestScore: 7
+Stock: GOOG start 20120701 end 20120707 volume: 14760000 interestScore: 6
+Stock: GOOG start 20120708 end 20120714 volume: 22931700 interestScore: 4
+Stock: GOOG start 20120715 end 20120721 volume: 31776800 interestScore: 8
+Stock: GOOG start 20120722 end 20120728 volume: 25352200 interestScore: 4
+Stock: GOOG start 20120729 end 20120804 volume: 19616100 interestScore: 4
+Stock: GOOG start 20120805 end 20120811 volume: 15238800 interestScore: 5
+Stock: GOOG start 20120812 end 20120818 volume: 26570200 interestScore: 8
+Stock: GOOG start 20120819 end 20120825 volume: 18268400 interestScore: 9
+Stock: GOOG start 20120826 end 20120901 volume: 22918300 interestScore: 6
+Stock: GOOG start 20120902 end 20120908 volume: 19822100 interestScore: 8
+Stock: GOOG start 20120909 end 20120915 volume: 24799300 interestScore: 10
+Stock: GOOG start 20120916 end 20120922 volume: 31998800 interestScore: 7
+Stock: GOOG start 20120923 end 20120929 volume: 44184100 interestScore: 11
+Stock: GOOG start 20120930 end 20121006 volume: 26812900 interestScore: 8
+Stock: GOOG start 20121007 end 20121013 volume: 23667700 interestScore: 6
+Stock: GOOG start 20121014 end 20121020 volume: 62823700 interestScore: 18
+Stock: GOOG start 20121021 end 20121027 volume: 27744400 interestScore: 14
+Stock: GOOG start 20121028 end 20121103 volume: 11867000 interestScore: 10
+Stock: GOOG start 20121104 end 20121110 volume: 22407200 interestScore: 8
+Stock: GOOG start 20121111 end 20121117 volume: 19985200 interestScore: 4
+Stock: GOOG start 20121118 end 20121124 volume: 15039000 interestScore: 6
+Stock: GOOG start 20121125 end 20121201 volume: 27493000 interestScore: 3
+Stock: GOOG start 20121202 end 20121208 volume: 18926600 interestScore: 8
+Stock: GOOG start 20121209 end 20121215 volume: 24200500 interestScore: 6
+Stock: GOOG start 20121216 end 20121222 volume: 26381900 interestScore: 8
+Stock: GOOG start 20121223 end 20121229 volume: 10183000 interestScore: 5
+Stock: GOOG start 20121230 end 20130105 volume: 19312400 interestScore: 5
+Stock: GOOG start 20130106 end 20130112 volume: 17017900 interestScore: 6
+Stock: GOOG start 20130113 end 20130119 volume: 28613000 interestScore: 9
+Stock: GOOG start 20130120 end 20130126 volume: 30734500 interestScore: 13
+Stock: GOOG start 20130127 end 20130202 volume: 21053000 interestScore: 6
+Stock: GOOG start 20130203 end 20130209 volume: 25795000 interestScore: 5
+Stock: GOOG start 20130210 end 20130216 volume: 19452400 interestScore: 6
+Stock: GOOG start 20130217 end 20130223 volume: 22596600 interestScore: 7
+Stock: GOOG start 20130224 end 20130302 volume: 22029300 interestScore: 4
+Stock: GOOG start 20130303 end 20130309 volume: 29424000 interestScore: 5
+Stock: GOOG start 20130310 end 20130316 volume: 20064800 interestScore: 7
+Stock: GOOG start 20130317 end 20130323 volume: 16794400 interestScore: 3
+Stock: GOOG start 20130324 end 20130330 volume: 14764500 interestScore: 5
+Stock: GOOG start 20130331 end 20130406 volume: 23023000 interestScore: 4
+Stock: GOOG start 20130407 end 20130413 volume: 21345900 interestScore: 5
+Stock: GOOG start 20130414 end 20130420 volume: 30830100 interestScore: 7
+Stock: GOOG start 20130421 end 20130427 volume: 23054800 interestScore: 5
+Stock: GOOG start 20130428 end 20130504 volume: 21265800 interestScore: 4
+Stock: GOOG start 20130505 end 20130511 volume: 21413200 interestScore: 3
+Stock: GOOG start 20130512 end 20130518 volume: 26127600 interestScore: 10
+Stock: GOOG start 20130519 end 20130525 volume: 22861200 interestScore: 7
+Stock: GOOG start 20130526 end 20130601 volume: 16784400 interestScore: 5
+Stock: GOOG start 20130602 end 20130608 volume: 23496900 interestScore: 4
+Stock: GOOG start 20130609 end 20130615 volume: 21309300 interestScore: 6
+Stock: GOOG start 20130616 end 20130622 volume: 29275600 interestScore: 6
+Stock: GOOG start 20130623 end 20130629 volume: 23441600 interestScore: 6
+Stock: GOOG start 20130630 end 20130706 volume: 12777600 interestScore: 6
+Stock: GOOG start 20130707 end 20130713 volume: 21700000 interestScore: 7
+Stock: GOOG start 20130714 end 20130720 volume: 33009500 interestScore: 10
+Stock: GOOG start 20130721 end 20130727 volume: 23700400 interestScore: 7
+Stock: GOOG start 20130728 end 20130803 volume: 19418600 interestScore: 7
+Stock: GOOG start 20130804 end 20130810 volume: 14065300 interestScore: 6
+Stock: GOOG start 20130811 end 20130817 volume: 16909300 interestScore: 5
+Stock: GOOG start 20130818 end 20130824 volume: 13546500 interestScore: 14
+Stock: GOOG start 20130825 end 20130831 volume: 14968700 interestScore: 7
+Stock: GOOG start 20130901 end 20130907 volume: 13934900 interestScore: 6
+Stock: GOOG start 20130908 end 20130914 volume: 13155900 interestScore: 8
+Stock: GOOG start 20130915 end 20130921 volume: 21025500 interestScore: 3
+Stock: GOOG start 20130922 end 20130928 volume: 14919000 interestScore: 6
+Stock: GOOG start 20130929 end 20131005 volume: 16817300 interestScore: 11
+Stock: GOOG start 20131006 end 20131012 volume: 19176700 interestScore: 9
+Stock: GOOG start 20131013 end 20131019 volume: 41486600 interestScore: 17
+Stock: GOOG start 20131020 end 20131026 volume: 25339500 interestScore: 14
+Stock: GOOG start 20131027 end 20131102 volume: 14074300 interestScore: 8
+Stock: GOOG start 20131103 end 20131109 volume: 12452900 interestScore: 8
+Stock: GOOG start 20131110 end 20131116 volume: 12753400 interestScore: 5
+Stock: GOOG start 20131117 end 20131123 volume: 12448000 interestScore: 5
+Stock: GOOG start 20131124 end 20131130 volume: 12477500 interestScore: 5
+Stock: GOOG start 20131201 end 20131207 volume: 13657300 interestScore: 5
+Stock: GOOG start 20131208 end 20131214 volume: 17679900 interestScore: 8
+Stock: GOOG start 20131215 end 20131221 volume: 20627300 interestScore: 7
+Stock: GOOG start 20131222 end 20131228 volume: 10766400 interestScore: 6
+Stock: GOOG start 20131229 end 20140104 volume: 12209400 interestScore: 4
+Stock: GOOG start 20140105 end 20140111 volume: 21665200 interestScore: 7
+Stock: GOOG start 20140112 end 20140118 volume: 22557600 interestScore: 8
+Stock: GOOG start 20140119 end 20140125 volume: 18855700 interestScore: 5
+Stock: GOOG start 20140126 end 20140201 volume: 39349200 interestScore: 15
+Stock: GOOG start 20140202 end 20140208 volume: 28823600 interestScore: 12
+Stock: GOOG start 20140209 end 20140215 volume: 19559600 interestScore: 7
+Stock: GOOG start 20140216 end 20140222 volume: 15609200 interestScore: 10
+Stock: GOOG start 20140223 end 20140301 volume: 17402200 interestScore: 9
+Stock: GOOG start 20140302 end 20140308 volume: 15238400 interestScore: 9
+Stock: GOOG start 20140309 end 20140315 volume: 19133700 interestScore: 8
+Stock: GOOG start 20140316 end 20140322 volume: 21044500 interestScore: 7
+Stock: GOOG start 20140323 end 20140329 volume: 16168700 interestScore: 15
+Stock: GOOG start 20140330 end 20140405 volume: 11634200 interestScore: 22
+Stock: GOOG start 20140406 end 20140412 volume: 18845200 interestScore: 16
+Stock: GOOG start 20140413 end 20140419 volume: 18132700 interestScore: 20
+Stock: GOOG start 20140420 end 20140426 volume: 10967700 interestScore: 10
+Stock: GOOG start 20140427 end 20140503 volume: 11379600 interestScore: 9
+Stock: GOOG start 20140504 end 20140510 volume: 10398100 interestScore: 7
+Stock: GOOG start 20140511 end 20140517 volume: 7947100 interestScore: 6
+Stock: GOOG start 20140518 end 20140524 volume: 7806500 interestScore: 7
+Stock: GOOG start 20140525 end 20140531 volume: 6881300 interestScore: 7
+Stock: GOOG start 20140601 end 20140607 volume: 8543800 interestScore: 6
+Stock: GOOG start 20140608 end 20140614 volume: 6598200 interestScore: 5
+Stock: GOOG start 20140615 end 20140621 volume: 11853800 interestScore: 7
+Stock: GOOG start 20140622 end 20140628 volume: 9692000 interestScore: 10
+Stock: GOOG start 20140629 end 20140705 volume: 4532000 interestScore: 6
+Stock: GOOG start 20140706 end 20140712 volume: 7069200 interestScore: 7
+Stock: GOOG start 20140713 end 20140719 volume: 11904700 interestScore: 9
+Stock: GOOG start 20140720 end 20140726 volume: 6961800 interestScore: 6
+Stock: GOOG start 20140727 end 20140802 volume: 7410900 interestScore: 5
+Stock: GOOG start 20140803 end 20140809 volume: 6918400 interestScore: 5
+Stock: GOOG start 20140810 end 20140816 volume: 6700400 interestScore: 8
+Stock: GOOG start 20140817 end 20140823 volume: 5003200 interestScore: 6
+Stock: GOOG start 20140824 end 20140830 volume: 7080900 interestScore: 4
+Stock: GOOG start 20140831 end 20140906 volume: 5883900 interestScore: 5
+Stock: GOOG start 20140907 end 20140913 volume: 6518100 interestScore: 7
+Stock: GOOG start 20140914 end 20140920 volume: 9951700 interestScore: 7
+Stock: GOOG start 20140921 end 20140927 volume: 8258500 interestScore: 4
+Stock: GOOG start 20140928 end 20141004 volume: 6669600 interestScore: 6
+Stock: GOOG start 20141005 end 20141011 volume: 10723400 interestScore: 5
+Stock: GOOG start 20141012 end 20141018 volume: 17771200 interestScore: 9
+Stock: GOOG start 20141019 end 20141025 volume: 12184800 interestScore: 8
+Stock: GOOG start 20141026 end 20141101 volume: 7717300 interestScore: 6
+Stock: GOOG start 20141102 end 20141108 volume: 7625500 interestScore: 5
+Stock: GOOG start 20141109 end 20141115 volume: 5858500 interestScore: 5
+Stock: GOOG start 20141116 end 20141122 volume: 8868300 interestScore: 7
+Stock: GOOG start 20141123 end 20141129 volume: 6167400 interestScore: 3
+Stock: GOOG start 20141130 end 20141206 volume: 8877500 interestScore: 5
+Stock: GOOG start 20141207 end 20141213 volume: 9518100 interestScore: 3
+Stock: GOOG start 20141214 end 20141220 volume: 16277600 interestScore: 5
+Stock: GOOG start 20141221 end 20141227 volume: 6667700 interestScore: 3
+Stock: GOOG start 20141228 end 20150103 volume: 5970400 interestScore: 3
+Stock: GOOG start 20150104 end 20150110 volume: 12449500 interestScore: 5
+Stock: GOOG start 20150111 end 20150117 volume: 11926600 interestScore: 4
+Stock: GOOG start 20150118 end 20150124 volume: 9459300 interestScore: 3
+Stock: GOOG start 20150125 end 20150131 volume: 14924100 interestScore: 6
+Stock: GOOG start 20150201 end 20150207 volume: 10165200 interestScore: 7
+Stock: GOOG start 20150208 end 20150214 volume: 7915700 interestScore: 5
+Stock: GOOG start 20150215 end 20150221 volume: 5503200 interestScore: 5
+Stock: GOOG start 20150222 end 20150228 volume: 9010300 interestScore: 4
+Stock: GOOG start 20150301 end 20150307 volume: 8759800 interestScore: 6
+Stock: GOOG start 20150308 end 20150314 volume: 7768200 interestScore: 6
+Stock: GOOG start 20150315 end 20150321 volume: 9394900 interestScore: 3
+Stock: GOOG start 20150322 end 20150328 volume: 9849200 interestScore: 8
+Stock: GOOG start 20150329 end 20150404 volume: 6554800 interestScore: 3
+Stock: GOOG start 20150405 end 20150411 volume: 6772900 interestScore: 4
+Stock: GOOG start 20150412 end 20150418 volume: 10019800 interestScore: 6
+Stock: GOOG start 20150419 end 20150425 volume: 14234700 interestScore: 9
+Stock: GOOG start 20150426 end 20150502 volume: 9438200 interestScore: 9
+Stock: GOOG start 20150503 end 20150509 volume: 7332000 interestScore: 4
+Stock: GOOG start 20150510 end 20150516 volume: 7167000 interestScore: 7
+Stock: GOOG start 20150517 end 20150523 volume: 8040000 interestScore: 6
+Stock: GOOG start 20150524 end 20150530 volume: 7558700 interestScore: 3
+Stock: GOOG start 20150531 end 20150606 volume: 8294300 interestScore: 3
+Stock: GOOG start 20150607 end 20150613 volume: 6964200 interestScore: 2
+Stock: GOOG start 20150614 end 20150620 volume: 7725300 interestScore: 3
+Stock: GOOG start 20150621 end 20150627 volume: 7179200 interestScore: 4
+Stock: GOOG start 20150628 end 20150704 volume: 7351900 interestScore: 5
+Stock: GOOG start 20150705 end 20150711 volume: 7970500 interestScore: 8
+Stock: GOOG start 20150712 end 20150718 volume: 23168400 interestScore: 12
+Stock: GOOG start 20150719 end 20150725 volume: 19822200 interestScore: 11
+Stock: GOOG start 20150726 end 20150801 volume: 9158100 interestScore: 5
+Stock: GOOG start 20150802 end 20150808 volume: 8106200 interestScore: 5
+Stock: GOOG start 20150809 end 20150815 volume: 12657900 interestScore: 17
+Stock: GOOG start 20150816 end 20150822 volume: 11759900 interestScore: 7
+Stock: GOOG start 20150823 end 20150829 volume: 19014200 interestScore: 14
+Stock: GOOG start 20150830 end 20150905 volume: 12303000 interestScore: 10
+Stock: GOOG start 20150906 end 20150912 volume: 7260400 interestScore: 6
+Stock: GOOG start 20150913 end 20150919 volume: 12481300 interestScore: 8
+Stock: GOOG start 20150920 end 20150926 volume: 10236400 interestScore: 7
+Stock: GOOG start 20150927 end 20151003 volume: 12403000 interestScore: 7
+Stock: GOOG start 20151004 end 20151010 volume: 9893400 interestScore: 4
+Stock: GOOG start 20151011 end 20151017 volume: 7995200 interestScore: 6
+Stock: GOOG start 20151018 end 20151024 volume: 16483300 interestScore: 10
+Stock: GOOG start 20151025 end 20151031 volume: 10506100 interestScore: 11
+Stock: GOOG start 20151101 end 20151107 volume: 8531600 interestScore: 8
+Stock: GOOG start 20151108 end 20151114 volume: 8956900 interestScore: 6
+Stock: GOOG start 20151115 end 20151121 volume: 8640500 interestScore: 6
+Stock: GOOG start 20151122 end 20151128 volume: 5708200 interestScore: 5
+Stock: GOOG start 20151129 end 20151205 volume: 11810500 interestScore: 5
+Stock: GOOG start 20151206 end 20151212 volume: 10551100 interestScore: 6
+Stock: GOOG start 20151213 end 20151219 volume: 11774100 interestScore: 6
+Stock: GOOG start 20151220 end 20151226 volume: 4984200 interestScore: 3
+Stock: GOOG start 20151227 end 20160102 volume: 6063200 interestScore: 5
+Stock: GOOG start 20160103 end 20160109 volume: 12585100 interestScore: 10
+Stock: GOOG start 20160110 end 20160116 volume: 12435000 interestScore: 9
+Stock: GOOG start 20160117 end 20160123 volume: 10137100 interestScore: 11
+Stock: GOOG start 20160124 end 20160130 volume: 11388300 interestScore: 13
+Stock: GOOG start 20160131 end 20160206 volume: 27932700 interestScore: 27
+Stock: GOOG start 20160207 end 20160213 volume: 15659700 interestScore: 14
+Stock: GOOG start 20160214 end 20160220 volume: 8451400 interestScore: 8
+Stock: GOOG start 20160221 end 20160227 volume: 9776300 interestScore: 7
+Stock: GOOG start 20160228 end 20160305 volume: 9980200 interestScore: 7
+Stock: GOOG start 20160306 end 20160312 volume: 11260500 interestScore: 5
+Stock: GOOG start 20160313 end 20160319 volume: 9662500 interestScore: 5
+Stock: GOOG start 20160320 end 20160326 volume: 6082900 interestScore: 6
+Stock: GOOG start 20160327 end 20160402 volume: 8270200 interestScore: 5
+Stock: GOOG start 20160403 end 20160409 volume: 6029500 interestScore: 5
+Stock: GOOG start 20160410 end 20160416 volume: 7200000 interestScore: 3
+Stock: GOOG start 20160417 end 20160423 volume: 13790900 interestScore: 8
+Stock: GOOG start 20160424 end 20160430 volume: 13104900 interestScore: 9
+Stock: GOOG start 20160501 end 20160507 volume: 8367200 interestScore: 7
+Stock: GOOG start 20160508 end 20160514 volume: 7426300 interestScore: 5
+Stock: GOOG start 20160515 end 20160521 volume: 8551400 interestScore: 8
+Stock: GOOG start 20160522 end 20160528 volume: 8387400 interestScore: 6
+Stock: GOOG start 20160529 end 20160604 volume: 5931000 interestScore: 7

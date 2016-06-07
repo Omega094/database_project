@@ -1,648 +1,648 @@
-Stock: AAPL start 20040104 end  volume: 594750800 interestScore: 0
-Stock: AAPL start 20040111 end  volume: 794409000 interestScore: 0
-Stock: AAPL start 20040118 end  volume: 243695200 interestScore: 39
-Stock: AAPL start 20040125 end  volume: 312935000 interestScore: 0
-Stock: AAPL start 20040201 end  volume: 329995400 interestScore: 0
-Stock: AAPL start 20040208 end  volume: 323029000 interestScore: 0
-Stock: AAPL start 20040215 end  volume: 228319000 interestScore: 0
-Stock: AAPL start 20040222 end  volume: 349164200 interestScore: 0
-Stock: AAPL start 20040229 end  volume: 751080400 interestScore: 0
-Stock: AAPL start 20040307 end  volume: 768318600 interestScore: 0
-Stock: AAPL start 20040314 end  volume: 557060000 interestScore: 0
-Stock: AAPL start 20040321 end  volume: 554775200 interestScore: 0
-Stock: AAPL start 20040328 end  volume: 423497200 interestScore: 70
-Stock: AAPL start 20040404 end  volume: 284925200 interestScore: 62
-Stock: AAPL start 20040411 end  volume: 867762000 interestScore: 62
-Stock: AAPL start 20040418 end  volume: 513290400 interestScore: 33
-Stock: AAPL start 20040425 end  volume: 418363400 interestScore: 33
-Stock: AAPL start 20040502 end  volume: 374579800 interestScore: 33
-Stock: AAPL start 20040509 end  volume: 322056000 interestScore: 33
-Stock: AAPL start 20040516 end  volume: 314573000 interestScore: 0
-Stock: AAPL start 20040523 end  volume: 314860000 interestScore: 0
-Stock: AAPL start 20040530 end  volume: 287722400 interestScore: 0
-Stock: AAPL start 20040606 end  volume: 329569800 interestScore: 0
-Stock: AAPL start 20040613 end  volume: 638958600 interestScore: 0
-Stock: AAPL start 20040620 end  volume: 429384200 interestScore: 68
-Stock: AAPL start 20040627 end  volume: 684329800 interestScore: 34
-Stock: AAPL start 20040704 end  volume: 297304000 interestScore: 34
-Stock: AAPL start 20040711 end  volume: 979925800 interestScore: 34
-Stock: AAPL start 20040718 end  volume: 441466200 interestScore: 34
-Stock: AAPL start 20040725 end  volume: 392292600 interestScore: 35
-Stock: AAPL start 20040801 end  volume: 397500600 interestScore: 32
-Stock: AAPL start 20040808 end  volume: 379631000 interestScore: 32
-Stock: AAPL start 20040815 end  volume: 457262400 interestScore: 32
-Stock: AAPL start 20040822 end  volume: 619771600 interestScore: 32
-Stock: AAPL start 20040829 end  volume: 452555600 interestScore: 31
-Stock: AAPL start 20040905 end  volume: 358709400 interestScore: 31
-Stock: AAPL start 20040912 end  volume: 443423400 interestScore: 29
-Stock: AAPL start 20040919 end  volume: 450058000 interestScore: 31
-Stock: AAPL start 20040926 end  volume: 478657200 interestScore: 32
-Stock: AAPL start 20041003 end  volume: 552981800 interestScore: 34
-Stock: AAPL start 20041010 end  volume: 1436656200 interestScore: 35
-Stock: AAPL start 20041017 end  volume: 953856400 interestScore: 0
-Stock: AAPL start 20041024 end  volume: 963746000 interestScore: 0
-Stock: AAPL start 20041031 end  volume: 1167471200 interestScore: 0
-Stock: AAPL start 20041107 end  volume: 578590600 interestScore: 0
-Stock: AAPL start 20041114 end  volume: 573332200 interestScore: 0
-Stock: AAPL start 20041121 end  volume: 1355148200 interestScore: 0
-Stock: AAPL start 20041128 end  volume: 1442070000 interestScore: 27
-Stock: AAPL start 20041205 end  volume: 1128499400 interestScore: 29
-Stock: AAPL start 20041212 end  volume: 779683800 interestScore: 30
-Stock: AAPL start 20041219 end  volume: 761075000 interestScore: 32
-Stock: AAPL start 20041226 end  volume: 561184400 interestScore: 27
-Stock: AAPL start 20050102 end  volume: 1350560400 interestScore: 27
-Stock: AAPL start 20050109 end  volume: 2798024600 interestScore: 42
-Stock: AAPL start 20050116 end  volume: 896152600 interestScore: 25
-Stock: AAPL start 20050123 end  volume: 962049200 interestScore: 24
-Stock: AAPL start 20050130 end  volume: 1168690600 interestScore: 24
-Stock: AAPL start 20050206 end  volume: 1225001400 interestScore: 24
-Stock: AAPL start 20050213 end  volume: 1976163000 interestScore: 24
-Stock: AAPL start 20050220 end  volume: 1249753400 interestScore: 25
-Stock: AAPL start 20050227 end  volume: 936558000 interestScore: 23
-Stock: AAPL start 20050306 end  volume: 1051122100 interestScore: 23
-Stock: AAPL start 20050313 end  volume: 888469400 interestScore: 30
-Stock: AAPL start 20050320 end  volume: 513767800 interestScore: 37
-Stock: AAPL start 20050327 end  volume: 602286300 interestScore: 44
-Stock: AAPL start 20050403 end  volume: 677004300 interestScore: 51
-Stock: AAPL start 20050410 end  volume: 1913987600 interestScore: 45
-Stock: AAPL start 20050417 end  volume: 1238168400 interestScore: 45
-Stock: AAPL start 20050424 end  volume: 854398300 interestScore: 22
-Stock: AAPL start 20050501 end  volume: 531112400 interestScore: 22
-Stock: AAPL start 20050508 end  volume: 1127723800 interestScore: 22
-Stock: AAPL start 20050515 end  volume: 736293600 interestScore: 22
-Stock: AAPL start 20050522 end  volume: 718392500 interestScore: 22
-Stock: AAPL start 20050529 end  volume: 547215200 interestScore: 22
-Stock: AAPL start 20050605 end  volume: 757606500 interestScore: 32
-Stock: AAPL start 20050612 end  volume: 622690600 interestScore: 22
-Stock: AAPL start 20050619 end  volume: 551033000 interestScore: 23
-Stock: AAPL start 20050626 end  volume: 516805100 interestScore: 34
-Stock: AAPL start 20050703 end  volume: 380838500 interestScore: 45
-Stock: AAPL start 20050710 end  volume: 1061101300 interestScore: 45
-Stock: AAPL start 20050717 end  volume: 604031400 interestScore: 22
-Stock: AAPL start 20050724 end  volume: 415090200 interestScore: 22
-Stock: AAPL start 20050731 end  volume: 345170700 interestScore: 45
-Stock: AAPL start 20050807 end  volume: 526547000 interestScore: 22
-Stock: AAPL start 20050814 end  volume: 735800800 interestScore: 22
-Stock: AAPL start 20050821 end  volume: 448179900 interestScore: 28
-Stock: AAPL start 20050828 end  volume: 439189800 interestScore: 34
-Stock: AAPL start 20050904 end  volume: 774993800 interestScore: 40
-Stock: AAPL start 20050911 end  volume: 606566800 interestScore: 19
-Stock: AAPL start 20050918 end  volume: 765123100 interestScore: 19
-Stock: AAPL start 20050925 end  volume: 795572400 interestScore: 19
-Stock: AAPL start 20051002 end  volume: 773300500 interestScore: 28
-Stock: AAPL start 20051009 end  volume: 1833001100 interestScore: 28
-Stock: AAPL start 20051016 end  volume: 1097398400 interestScore: 18
-Stock: AAPL start 20051023 end  volume: 721950600 interestScore: 21
-Stock: AAPL start 20051030 end  volume: 1077502300 interestScore: 24
-Stock: AAPL start 20051106 end  volume: 689080000 interestScore: 21
-Stock: AAPL start 20051113 end  volume: 723114000 interestScore: 25
-Stock: AAPL start 20051120 end  volume: 483214900 interestScore: 29
-Stock: AAPL start 20051127 end  volume: 1053570700 interestScore: 34
-Stock: AAPL start 20051204 end  volume: 866511800 interestScore: 17
-Stock: AAPL start 20051211 end  volume: 925465100 interestScore: 34
-Stock: AAPL start 20051218 end  volume: 521152100 interestScore: 19
-Stock: AAPL start 20051225 end  volume: 525748300 interestScore: 32
-Stock: AAPL start 20060101 end  volume: 645179500 interestScore: 18
-Stock: AAPL start 20060108 end  volume: 1626454900 interestScore: 48
-Stock: AAPL start 20060115 end  volume: 1216716900 interestScore: 26
-Stock: AAPL start 20060122 end  volume: 1403255700 interestScore: 23
-Stock: AAPL start 20060129 end  volume: 1058143800 interestScore: 31
-Stock: AAPL start 20060205 end  volume: 1725988600 interestScore: 15
-Stock: AAPL start 20060212 end  volume: 1182095600 interestScore: 14
-Stock: AAPL start 20060219 end  volume: 787376800 interestScore: 14
-Stock: AAPL start 20060226 end  volume: 1046245200 interestScore: 14
-Stock: AAPL start 20060305 end  volume: 1070310500 interestScore: 14
-Stock: AAPL start 20060312 end  volume: 989221100 interestScore: 14
-Stock: AAPL start 20060319 end  volume: 1449127400 interestScore: 14
-Stock: AAPL start 20060326 end  volume: 1757809200 interestScore: 14
-Stock: AAPL start 20060402 end  volume: 2047532900 interestScore: 22
-Stock: AAPL start 20060409 end  volume: 829350900 interestScore: 46
-Stock: AAPL start 20060416 end  volume: 1264696300 interestScore: 37
-Stock: AAPL start 20060423 end  volume: 888240500 interestScore: 14
-Stock: AAPL start 20060430 end  volume: 908341700 interestScore: 15
-Stock: AAPL start 20060507 end  volume: 760217500 interestScore: 19
-Stock: AAPL start 20060514 end  volume: 966105000 interestScore: 24
-Stock: AAPL start 20060521 end  volume: 806435700 interestScore: 28
-Stock: AAPL start 20060528 end  volume: 868168700 interestScore: 15
-Stock: AAPL start 20060604 end  volume: 1063912500 interestScore: 14
-Stock: AAPL start 20060611 end  volume: 1176262500 interestScore: 14
-Stock: AAPL start 20060618 end  volume: 966670600 interestScore: 43
-Stock: AAPL start 20060625 end  volume: 870236500 interestScore: 14
-Stock: AAPL start 20060702 end  volume: 536395300 interestScore: 36
-Stock: AAPL start 20060709 end  volume: 1131160100 interestScore: 57
-Stock: AAPL start 20060716 end  volume: 1569943200 interestScore: 14
-Stock: AAPL start 20060723 end  volume: 909226500 interestScore: 19
-Stock: AAPL start 20060730 end  volume: 1212321600 interestScore: 14
-Stock: AAPL start 20060806 end  volume: 1168626200 interestScore: 14
-Stock: AAPL start 20060813 end  volume: 869439900 interestScore: 17
-Stock: AAPL start 20060820 end  volume: 709650900 interestScore: 20
-Stock: AAPL start 20060827 end  volume: 837207000 interestScore: 23
-Stock: AAPL start 20060903 end  volume: 1037610000 interestScore: 26
-Stock: AAPL start 20060910 end  volume: 1390883200 interestScore: 25
-Stock: AAPL start 20060917 end  volume: 924338800 interestScore: 12
-Stock: AAPL start 20060924 end  volume: 975433900 interestScore: 12
-Stock: AAPL start 20061001 end  volume: 870818200 interestScore: 12
-Stock: AAPL start 20061008 end  volume: 704679500 interestScore: 12
-Stock: AAPL start 20061015 end  volume: 1068979100 interestScore: 12
-Stock: AAPL start 20061022 end  volume: 702164400 interestScore: 18
-Stock: AAPL start 20061029 end  volume: 627489100 interestScore: 12
-Stock: AAPL start 20061105 end  volume: 737086000 interestScore: 17
-Stock: AAPL start 20061112 end  volume: 713829200 interestScore: 19
-Stock: AAPL start 20061119 end  volume: 596019900 interestScore: 17
-Stock: AAPL start 20061126 end  volume: 1233414700 interestScore: 11
-Stock: AAPL start 20061203 end  volume: 949916100 interestScore: 33
-Stock: AAPL start 20061210 end  volume: 988930600 interestScore: 11
-Stock: AAPL start 20061217 end  volume: 929394200 interestScore: 13
-Stock: AAPL start 20061224 end  volume: 1155687400 interestScore: 14
-Stock: AAPL start 20061231 end  volume: 730080400 interestScore: 28
-Stock: AAPL start 20070107 end  volume: 2463057100 interestScore: 35
-Stock: AAPL start 20070114 end  volume: 1654853900 interestScore: 20
-Stock: AAPL start 20070121 end  volume: 1370527900 interestScore: 10
-Stock: AAPL start 20070128 end  volume: 905394000 interestScore: 10
-Stock: AAPL start 20070204 end  volume: 1012410700 interestScore: 10
-Stock: AAPL start 20070211 end  volume: 644142100 interestScore: 15
-Stock: AAPL start 20070218 end  volume: 782283600 interestScore: 15
-Stock: AAPL start 20070225 end  volume: 1239166600 interestScore: 10
-Stock: AAPL start 20070304 end  volume: 787804500 interestScore: 9
-Stock: AAPL start 20070311 end  volume: 881272000 interestScore: 24
-Stock: AAPL start 20070318 end  volume: 725287500 interestScore: 10
-Stock: AAPL start 20070325 end  volume: 1016414700 interestScore: 29
-Stock: AAPL start 20070401 end  volume: 479556700 interestScore: 10
-Stock: AAPL start 20070408 end  volume: 672861000 interestScore: 10
-Stock: AAPL start 20070415 end  volume: 693422800 interestScore: 9
-Stock: AAPL start 20070422 end  volume: 1364967100 interestScore: 9
-Stock: AAPL start 20070429 end  volume: 653060800 interestScore: 14
-Stock: AAPL start 20070506 end  volume: 1053566500 interestScore: 17
-Stock: AAPL start 20070513 end  volume: 1022466200 interestScore: 26
-Stock: AAPL start 20070520 end  volume: 910999600 interestScore: 17
-Stock: AAPL start 20070527 end  volume: 1076616800 interestScore: 9
-Stock: AAPL start 20070603 end  volume: 1519115500 interestScore: 29
-Stock: AAPL start 20070610 end  volume: 1701665700 interestScore: 17
-Stock: AAPL start 20070617 end  volume: 1062516000 interestScore: 12
-Stock: AAPL start 20070624 end  volume: 1315272700 interestScore: 31
-Stock: AAPL start 20070701 end  volume: 1121272600 interestScore: 30
-Stock: AAPL start 20070708 end  volume: 1171203600 interestScore: 30
-Stock: AAPL start 20070715 end  volume: 1075898600 interestScore: 18
-Stock: AAPL start 20070722 end  volume: 1918923300 interestScore: 26
-Stock: AAPL start 20070729 end  volume: 1537842600 interestScore: 26
-Stock: AAPL start 20070805 end  volume: 1304837100 interestScore: 23
-Stock: AAPL start 20070812 end  volume: 1386630700 interestScore: 23
-Stock: AAPL start 20070819 end  volume: 1236700500 interestScore: 14
-Stock: AAPL start 20070826 end  volume: 1341533900 interestScore: 14
-Stock: AAPL start 20070902 end  volume: 1744225700 interestScore: 28
-Stock: AAPL start 20070909 end  volume: 1186494400 interestScore: 15
-Stock: AAPL start 20070916 end  volume: 1178765700 interestScore: 13
-Stock: AAPL start 20070923 end  volume: 1123320100 interestScore: 15
-Stock: AAPL start 20070930 end  volume: 980521500 interestScore: 8
-Stock: AAPL start 20071007 end  volume: 1309993300 interestScore: 11
-Stock: AAPL start 20071014 end  volume: 1347207400 interestScore: 22
-Stock: AAPL start 20071021 end  volume: 1603406000 interestScore: 41
-Stock: AAPL start 20071028 end  volume: 1030107400 interestScore: 15
-Stock: AAPL start 20071104 end  volume: 1542497600 interestScore: 21
-Stock: AAPL start 20071111 end  volume: 1957146100 interestScore: 26
-Stock: AAPL start 20071118 end  volume: 1095409700 interestScore: 23
-Stock: AAPL start 20071125 end  volume: 1503106500 interestScore: 22
-Stock: AAPL start 20071202 end  volume: 1148387100 interestScore: 17
-Stock: AAPL start 20071209 end  volume: 1149473500 interestScore: 21
-Stock: AAPL start 20071216 end  volume: 1210698300 interestScore: 18
-Stock: AAPL start 20071223 end  volume: 669777500 interestScore: 18
-Stock: AAPL start 20071230 end  volume: 979102600 interestScore: 8
-Stock: AAPL start 20080106 end  volume: 2031288000 interestScore: 18
-Stock: AAPL start 20080113 end  volume: 2284944200 interestScore: 35
-Stock: AAPL start 20080120 end  volume: 2342082400 interestScore: 42
-Stock: AAPL start 20080127 end  volume: 1543574200 interestScore: 24
-Stock: AAPL start 20080203 end  volume: 1763213200 interestScore: 22
-Stock: AAPL start 20080210 end  volume: 1312836000 interestScore: 10
-Stock: AAPL start 20080217 end  volume: 1110119500 interestScore: 16
-Stock: AAPL start 20080224 end  volume: 1777633900 interestScore: 31
-Stock: AAPL start 20080302 end  volume: 1826106100 interestScore: 12
-Stock: AAPL start 20080309 end  volume: 1410476200 interestScore: 6
-Stock: AAPL start 20080316 end  volume: 1049260800 interestScore: 15
-Stock: AAPL start 20080323 end  volume: 1253959000 interestScore: 13
-Stock: AAPL start 20080330 end  volume: 1187896500 interestScore: 10
-Stock: AAPL start 20080406 end  volume: 1302964600 interestScore: 10
-Stock: AAPL start 20080413 end  volume: 1017482900 interestScore: 9
-Stock: AAPL start 20080420 end  volume: 1667864100 interestScore: 25
-Stock: AAPL start 20080427 end  volume: 1189968500 interestScore: 19
-Stock: AAPL start 20080504 end  volume: 1125679800 interestScore: 19
-Stock: AAPL start 20080511 end  volume: 1049400100 interestScore: 9
-Stock: AAPL start 20080518 end  volume: 1296745100 interestScore: 18
-Stock: AAPL start 20080525 end  volume: 697813900 interestScore: 8
-Stock: AAPL start 20080601 end  volume: 969803100 interestScore: 14
-Stock: AAPL start 20080608 end  volume: 1661293900 interestScore: 12
-Stock: AAPL start 20080615 end  volume: 1110792900 interestScore: 16
-Stock: AAPL start 20080622 end  volume: 956009600 interestScore: 6
-Stock: AAPL start 20080629 end  volume: 789089700 interestScore: 10
-Stock: AAPL start 20080706 end  volume: 1093804600 interestScore: 15
-Stock: AAPL start 20080713 end  volume: 1074957100 interestScore: 16
-Stock: AAPL start 20080720 end  volume: 1443771700 interestScore: 17
-Stock: AAPL start 20080727 end  volume: 843026100 interestScore: 17
-Stock: AAPL start 20080803 end  volume: 864669400 interestScore: 6
-Stock: AAPL start 20080810 end  volume: 997370500 interestScore: 10
-Stock: AAPL start 20080817 end  volume: 663631500 interestScore: 8
-Stock: AAPL start 20080824 end  volume: 609607600 interestScore: 6
-Stock: AAPL start 20080831 end  volume: 761467000 interestScore: 14
-Stock: AAPL start 20080907 end  volume: 1257077500 interestScore: 13
-Stock: AAPL start 20080914 end  volume: 1607013800 interestScore: 20
-Stock: AAPL start 20080921 end  volume: 1329147400 interestScore: 19
-Stock: AAPL start 20080928 end  volume: 2362246600 interestScore: 34
-Stock: AAPL start 20081005 end  volume: 2507653400 interestScore: 42
-Stock: AAPL start 20081012 end  volume: 2211748700 interestScore: 32
-Stock: AAPL start 20081019 end  volume: 2314281900 interestScore: 27
-Stock: AAPL start 20081026 end  volume: 2022932100 interestScore: 16
-Stock: AAPL start 20081102 end  volume: 1531850600 interestScore: 15
-Stock: AAPL start 20081109 end  volume: 1696672600 interestScore: 12
-Stock: AAPL start 20081116 end  volume: 1707552000 interestScore: 13
-Stock: AAPL start 20081123 end  volume: 968790200 interestScore: 10
-Stock: AAPL start 20081130 end  volume: 1386583800 interestScore: 14
-Stock: AAPL start 20081207 end  volume: 1352119300 interestScore: 8
-Stock: AAPL start 20081214 end  volume: 1234615200 interestScore: 5
-Stock: AAPL start 20081221 end  volume: 514857700 interestScore: 6
-Stock: AAPL start 20081228 end  volume: 751789500 interestScore: 6
-Stock: AAPL start 20090104 end  volume: 1111078500 interestScore: 8
-Stock: AAPL start 20090111 end  volume: 1329259400 interestScore: 17
-Stock: AAPL start 20090118 end  volume: 1045620800 interestScore: 13
-Stock: AAPL start 20090125 end  volume: 853972700 interestScore: 11
-Stock: AAPL start 20090201 end  volume: 850608500 interestScore: 11
-Stock: AAPL start 20090208 end  volume: 916302800 interestScore: 5
-Stock: AAPL start 20090215 end  volume: 759034500 interestScore: 5
-Stock: AAPL start 20090222 end  volume: 940916900 interestScore: 24
-Stock: AAPL start 20090301 end  volume: 988680000 interestScore: 12
-Stock: AAPL start 20090308 end  volume: 939638700 interestScore: 9
-Stock: AAPL start 20090315 end  volume: 893923800 interestScore: 7
-Stock: AAPL start 20090322 end  volume: 765688000 interestScore: 11
-Stock: AAPL start 20090329 end  volume: 777714000 interestScore: 19
-Stock: AAPL start 20090405 end  volume: 545258000 interestScore: 5
-Stock: AAPL start 20090412 end  volume: 586920600 interestScore: 28
-Stock: AAPL start 20090419 end  volume: 840459900 interestScore: 8
-Stock: AAPL start 20090426 end  volume: 572665800 interestScore: 7
-Stock: AAPL start 20090503 end  volume: 620223100 interestScore: 12
-Stock: AAPL start 20090510 end  volume: 606376400 interestScore: 10
-Stock: AAPL start 20090517 end  volume: 481448100 interestScore: 7
-Stock: AAPL start 20090524 end  volume: 556859100 interestScore: 14
-Stock: AAPL start 20090531 end  volume: 664318200 interestScore: 11
-Stock: AAPL start 20090607 end  volume: 846287400 interestScore: 15
-Stock: AAPL start 20090614 end  volume: 693876400 interestScore: 9
-Stock: AAPL start 20090621 end  volume: 713951000 interestScore: 9
-Stock: AAPL start 20090628 end  volume: 446624500 interestScore: 5
-Stock: AAPL start 20090705 end  volume: 581128800 interestScore: 7
-Stock: AAPL start 20090712 end  volume: 578015200 interestScore: 6
-Stock: AAPL start 20090719 end  volume: 862434300 interestScore: 9
-Stock: AAPL start 20090726 end  volume: 517791400 interestScore: 6
-Stock: AAPL start 20090802 end  volume: 485551500 interestScore: 9
-Stock: AAPL start 20090809 end  volume: 461626200 interestScore: 9
-Stock: AAPL start 20090816 end  volume: 531727700 interestScore: 8
-Stock: AAPL start 20090823 end  volume: 484541400 interestScore: 6
-Stock: AAPL start 20090830 end  volume: 453299700 interestScore: 8
-Stock: AAPL start 20090906 end  volume: 491557500 interestScore: 4
-Stock: AAPL start 20090913 end  volume: 728665000 interestScore: 8
-Stock: AAPL start 20090920 end  volume: 596038100 interestScore: 13
-Stock: AAPL start 20090927 end  volume: 575108800 interestScore: 4
-Stock: AAPL start 20091004 end  volume: 556342500 interestScore: 11
-Stock: AAPL start 20091011 end  volume: 454134800 interestScore: 14
-Stock: AAPL start 20091018 end  volume: 1122293900 interestScore: 17
-Stock: AAPL start 20091025 end  volume: 836768100 interestScore: 9
-Stock: AAPL start 20091101 end  volume: 592238500 interestScore: 10
-Stock: AAPL start 20091108 end  volume: 520223200 interestScore: 6
-Stock: AAPL start 20091115 end  volume: 551258400 interestScore: 8
-Stock: AAPL start 20091122 end  volume: 343761600 interestScore: 16
-Stock: AAPL start 20091129 end  volume: 720371400 interestScore: 6
-Stock: AAPL start 20091206 end  volume: 752346000 interestScore: 13
-Stock: AAPL start 20091213 end  volume: 566461000 interestScore: 9
-Stock: AAPL start 20091220 end  volume: 451959200 interestScore: 13
-Stock: AAPL start 20091227 end  volume: 463566600 interestScore: 13
-Stock: AAPL start 20100103 end  volume: 643134100 interestScore: 10
-Stock: AAPL start 20100110 end  volume: 672385700 interestScore: 11
-Stock: AAPL start 20100117 end  volume: 708020600 interestScore: 11
-Stock: AAPL start 20100124 end  volume: 1768708200 interestScore: 25
-Stock: AAPL start 20100131 end  volume: 917876400 interestScore: 13
-Stock: AAPL start 20100207 end  volume: 671833400 interestScore: 5
-Stock: AAPL start 20100214 end  volume: 454607300 interestScore: 4
-Stock: AAPL start 20100221 end  volume: 649702900 interestScore: 5
-Stock: AAPL start 20100228 end  volume: 688588600 interestScore: 8
-Stock: AAPL start 20100307 end  volume: 692097700 interestScore: 7
-Stock: AAPL start 20100314 end  volume: 573230700 interestScore: 11
-Stock: AAPL start 20100321 end  volume: 709947700 interestScore: 14
-Stock: AAPL start 20100328 end  volume: 525464800 interestScore: 10
-Stock: AAPL start 20100404 end  volume: 666799700 interestScore: 16
-Stock: AAPL start 20100411 end  volume: 542661000 interestScore: 12
-Stock: AAPL start 20100418 end  volume: 969505600 interestScore: 22
-Stock: AAPL start 20100425 end  volume: 762029800 interestScore: 10
-Stock: AAPL start 20100502 end  volume: 1255786000 interestScore: 23
-Stock: AAPL start 20100509 end  volume: 961667000 interestScore: 18
-Stock: AAPL start 20100516 end  volume: 1269511600 interestScore: 13
-Stock: AAPL start 20100523 end  volume: 1033699100 interestScore: 19
-Stock: AAPL start 20100530 end  volume: 743358000 interestScore: 4
-Stock: AAPL start 20100606 end  volume: 1016114400 interestScore: 19
-Stock: AAPL start 20100613 end  volume: 907297300 interestScore: 12
-Stock: AAPL start 20100620 end  volume: 881607300 interestScore: 12
-Stock: AAPL start 20100627 end  volume: 1043620900 interestScore: 12
-Stock: AAPL start 20100704 end  volume: 610314600 interestScore: 15
-Stock: AAPL start 20100711 end  volume: 1107643600 interestScore: 16
-Stock: AAPL start 20100718 end  volume: 1115951900 interestScore: 18
-Stock: AAPL start 20100725 end  volume: 654331300 interestScore: 5
-Stock: AAPL start 20100801 end  volume: 500019800 interestScore: 6
-Stock: AAPL start 20100808 end  volume: 566223000 interestScore: 9
-Stock: AAPL start 20100815 end  volume: 472925600 interestScore: 6
-Stock: AAPL start 20100822 end  volume: 657092800 interestScore: 10
-Stock: AAPL start 20100829 end  volume: 609332500 interestScore: 10
-Stock: AAPL start 20100905 end  volume: 423806600 interestScore: 10
-Stock: AAPL start 20100912 end  volume: 628219900 interestScore: 14
-Stock: AAPL start 20100919 end  volume: 836911600 interestScore: 12
-Stock: AAPL start 20100926 end  volume: 777263900 interestScore: 9
-Stock: AAPL start 20101003 end  volume: 668735200 interestScore: 10
-Stock: AAPL start 20101010 end  volume: 743470000 interestScore: 17
-Stock: AAPL start 20101017 end  volume: 992914300 interestScore: 32
-Stock: AAPL start 20101024 end  volume: 541489200 interestScore: 17
-Stock: AAPL start 20101031 end  volume: 592477200 interestScore: 12
-Stock: AAPL start 20101107 end  volume: 551665100 interestScore: 9
-Stock: AAPL start 20101114 end  volume: 605010000 interestScore: 10
-Stock: AAPL start 20101121 end  volume: 390958400 interestScore: 9
-Stock: AAPL start 20101128 end  volume: 553581000 interestScore: 11
-Stock: AAPL start 20101205 end  volume: 429633400 interestScore: 7
-Stock: AAPL start 20101212 end  volume: 479273900 interestScore: 10
-Stock: AAPL start 20101219 end  volume: 282760800 interestScore: 4
-Stock: AAPL start 20101226 end  volume: 234970400 interestScore: 11
-Stock: AAPL start 20110102 end  volume: 405524700 interestScore: 15
-Stock: AAPL start 20110109 end  volume: 450219700 interestScore: 15
-Stock: AAPL start 20110116 end  volume: 1133950300 interestScore: 58
-Stock: AAPL start 20110123 end  volume: 626377500 interestScore: 16
-Stock: AAPL start 20110130 end  volume: 444618300 interestScore: 15
-Stock: AAPL start 20110206 end  volume: 661232600 interestScore: 14
-Stock: AAPL start 20110213 end  volume: 605597300 interestScore: 13
-Stock: AAPL start 20110220 end  volume: 606082400 interestScore: 17
-Stock: AAPL start 20110227 end  volume: 603964200 interestScore: 11
-Stock: AAPL start 20110306 end  volume: 583591400 interestScore: 9
-Stock: AAPL start 20110313 end  volume: 932921500 interestScore: 21
-Stock: AAPL start 20110320 end  volume: 490485800 interestScore: 10
-Stock: AAPL start 20110327 end  volume: 421085700 interestScore: 14
-Stock: AAPL start 20110403 end  volume: 524084400 interestScore: 32
-Stock: AAPL start 20110410 end  volume: 481553100 interestScore: 12
-Stock: AAPL start 20110417 end  volume: 620938500 interestScore: 31
-Stock: AAPL start 20110424 end  volume: 582215900 interestScore: 24
-Stock: AAPL start 20110501 end  volume: 440353900 interestScore: 18
-Stock: AAPL start 20110508 end  volume: 367738700 interestScore: 12
-Stock: AAPL start 20110515 end  volume: 459006100 interestScore: 6
-Stock: AAPL start 20110522 end  volume: 356477800 interestScore: 5
-Stock: AAPL start 20110529 end  volume: 406117600 interestScore: 10
-Stock: AAPL start 20110605 end  volume: 508623500 interestScore: 11
-Stock: AAPL start 20110612 end  volume: 547212400 interestScore: 13
-Stock: AAPL start 20110619 end  volume: 631044400 interestScore: 10
-Stock: AAPL start 20110626 end  volume: 436231600 interestScore: 11
-Stock: AAPL start 20110703 end  volume: 422244200 interestScore: 13
-Stock: AAPL start 20110710 end  volume: 550230800 interestScore: 13
-Stock: AAPL start 20110717 end  volume: 844100600 interestScore: 34
-Stock: AAPL start 20110724 end  volume: 738082800 interestScore: 23
-Stock: AAPL start 20110731 end  volume: 1015220500 interestScore: 21
-Stock: AAPL start 20110807 end  volume: 1094004800 interestScore: 30
-Stock: AAPL start 20110814 end  volume: 757169700 interestScore: 20
-Stock: AAPL start 20110821 end  volume: 832810300 interestScore: 52
-Stock: AAPL start 20110828 end  volume: 532110600 interestScore: 17
-Stock: AAPL start 20110904 end  volume: 460311600 interestScore: 17
-Stock: AAPL start 20110911 end  volume: 639862300 interestScore: 18
-Stock: AAPL start 20110918 end  volume: 930087200 interestScore: 18
-Stock: AAPL start 20110925 end  volume: 768434800 interestScore: 16
-Stock: AAPL start 20111002 end  volume: 1009321600 interestScore: 100
-Stock: AAPL start 20111009 end  volume: 667510200 interestScore: 25
-Stock: AAPL start 20111016 end  volume: 960555400 interestScore: 37
-Stock: AAPL start 20111023 end  volume: 551594400 interestScore: 17
-Stock: AAPL start 20111030 end  volume: 497064400 interestScore: 13
-Stock: AAPL start 20111106 end  volume: 656985000 interestScore: 9
-Stock: AAPL start 20111113 end  volume: 516191200 interestScore: 17
-Stock: AAPL start 20111120 end  volume: 385008400 interestScore: 11
-Stock: AAPL start 20111127 end  volume: 473610900 interestScore: 13
-Stock: AAPL start 20111204 end  volume: 404726000 interestScore: 10
-Stock: AAPL start 20111211 end  volume: 431140500 interestScore: 9
-Stock: AAPL start 20111218 end  volume: 326862900 interestScore: 10
-Stock: AAPL start 20111225 end  volume: 222344500 interestScore: 12
-Stock: AAPL start 20120101 end  volume: 287951300 interestScore: 9
-Stock: AAPL start 20120108 end  volume: 326478600 interestScore: 16
-Stock: AAPL start 20120115 end  volume: 298850300 interestScore: 13
-Stock: AAPL start 20120122 end  volume: 608927200 interestScore: 26
-Stock: AAPL start 20120129 end  volume: 378616700 interestScore: 16
-Stock: AAPL start 20120205 end  volume: 622260800 interestScore: 20
-Stock: AAPL start 20120212 end  volume: 991022900 interestScore: 38
-Stock: AAPL start 20120219 end  volume: 517999300 interestScore: 13
-Stock: AAPL start 20120226 end  volume: 803740700 interestScore: 29
-Stock: AAPL start 20120304 end  volume: 838315100 interestScore: 25
-Stock: AAPL start 20120311 end  volume: 1125546800 interestScore: 34
-Stock: AAPL start 20120318 end  volume: 854074900 interestScore: 47
-Stock: AAPL start 20120325 end  volume: 799402100 interestScore: 28
-Stock: AAPL start 20120401 end  volume: 661797500 interestScore: 42
-Stock: AAPL start 20120408 end  volume: 914464600 interestScore: 42
-Stock: AAPL start 20120415 end  volume: 1224137600 interestScore: 49
-Stock: AAPL start 20120422 end  volume: 972811700 interestScore: 45
-Stock: AAPL start 20120429 end  volume: 616268800 interestScore: 32
-Stock: AAPL start 20120506 end  volume: 542705100 interestScore: 19
-Stock: AAPL start 20120513 end  volume: 709842700 interestScore: 41
-Stock: AAPL start 20120520 end  volume: 683902800 interestScore: 30
-Stock: AAPL start 20120527 end  volume: 480650100 interestScore: 26
-Stock: AAPL start 20120603 end  volume: 518487200 interestScore: 29
-Stock: AAPL start 20120610 end  volume: 500263400 interestScore: 33
-Stock: AAPL start 20120617 end  volume: 442895600 interestScore: 21
-Stock: AAPL start 20120624 end  volume: 372063300 interestScore: 14
-Stock: AAPL start 20120701 end  volume: 386279600 interestScore: 19
-Stock: AAPL start 20120708 end  volume: 525038500 interestScore: 13
-Stock: AAPL start 20120715 end  volume: 420479500 interestScore: 17
-Stock: AAPL start 20120722 end  volume: 685247500 interestScore: 45
-Stock: AAPL start 20120729 end  volume: 475762700 interestScore: 21
-Stock: AAPL start 20120805 end  volume: 313459300 interestScore: 24
-Stock: AAPL start 20120812 end  volume: 393409800 interestScore: 27
-Stock: AAPL start 20120819 end  volume: 712224100 interestScore: 30
-Stock: AAPL start 20120826 end  volume: 384563200 interestScore: 37
-Stock: AAPL start 20120902 end  volume: 356282500 interestScore: 25
-Stock: AAPL start 20120909 end  volume: 725762100 interestScore: 58
-Stock: AAPL start 20120916 end  volume: 501641700 interestScore: 42
-Stock: AAPL start 20120923 end  volume: 716065000 interestScore: 39
-Stock: AAPL start 20120930 end  volume: 640150000 interestScore: 38
-Stock: AAPL start 20121007 end  volume: 748260800 interestScore: 33
-Stock: AAPL start 20121014 end  volume: 648005400 interestScore: 27
-Stock: AAPL start 20121021 end  volume: 871790500 interestScore: 59
-Stock: AAPL start 20121028 end  volume: 367668700 interestScore: 32
-Stock: AAPL start 20121104 end  volume: 920940300 interestScore: 49
-Stock: AAPL start 20121111 end  volume: 895681500 interestScore: 31
-Stock: AAPL start 20121118 end  volume: 527975000 interestScore: 31
-Stock: AAPL start 20121125 end  volume: 647698100 interestScore: 28
-Stock: AAPL start 20121202 end  volume: 982559900 interestScore: 34
-Stock: AAPL start 20121209 end  volume: 836203200 interestScore: 38
-Stock: AAPL start 20121216 end  volume: 727654900 interestScore: 35
-Stock: AAPL start 20121223 end  volume: 321897100 interestScore: 26
-Stock: AAPL start 20121230 end  volume: 541827300 interestScore: 28
-Stock: AAPL start 20130106 end  volume: 575530200 interestScore: 25
-Stock: AAPL start 20130113 end  volume: 807096500 interestScore: 48
-Stock: AAPL start 20130120 end  volume: 997983700 interestScore: 87
-Stock: AAPL start 20130127 end  volume: 658162400 interestScore: 43
-Stock: AAPL start 20130203 end  volume: 745477600 interestScore: 37
-Stock: AAPL start 20130210 end  volume: 587192900 interestScore: 30
-Stock: AAPL start 20130217 end  volume: 422480800 interestScore: 29
-Stock: AAPL start 20130224 end  volume: 584098200 interestScore: 17
-Stock: AAPL start 20130303 end  volume: 635348700 interestScore: 38
-Stock: AAPL start 20130310 end  volume: 573383300 interestScore: 26
-Stock: AAPL start 20130317 end  volume: 554998500 interestScore: 24
-Stock: AAPL start 20130324 end  volume: 392376600 interestScore: 29
-Stock: AAPL start 20130331 end  volume: 506152500 interestScore: 24
-Stock: AAPL start 20130407 end  volume: 387587200 interestScore: 21
-Stock: AAPL start 20130414 end  volume: 710980200 interestScore: 33
-Stock: AAPL start 20130421 end  volume: 803186300 interestScore: 55
-Stock: AAPL start 20130428 end  volume: 655475800 interestScore: 24
-Stock: AAPL start 20130505 end  volume: 546583100 interestScore: 30
-Stock: AAPL start 20130512 end  volume: 634197200 interestScore: 27
-Stock: AAPL start 20130519 end  volume: 494956700 interestScore: 20
-Stock: AAPL start 20130526 end  volume: 363636000 interestScore: 19
-Stock: AAPL start 20130602 end  volume: 444285100 interestScore: 24
-Stock: AAPL start 20130609 end  volume: 389797800 interestScore: 27
-Stock: AAPL start 20130616 end  volume: 400952300 interestScore: 13
-Stock: AAPL start 20130623 end  volume: 519598800 interestScore: 25
-Stock: AAPL start 20130630 end  volume: 343968100 interestScore: 19
-Stock: AAPL start 20130707 end  volume: 384496000 interestScore: 20
-Stock: AAPL start 20130714 end  volume: 286261500 interestScore: 15
-Stock: AAPL start 20130721 end  volume: 399693700 interestScore: 30
-Stock: AAPL start 20130728 end  volume: 340368000 interestScore: 18
-Stock: AAPL start 20130804 end  volume: 368803400 interestScore: 20
-Stock: AAPL start 20130811 end  volume: 713836900 interestScore: 29
-Stock: AAPL start 20130818 end  volume: 418006400 interestScore: 59
-Stock: AAPL start 20130825 end  volume: 393679300 interestScore: 19
-Stock: AAPL start 20130901 end  volume: 318213700 interestScore: 21
-Stock: AAPL start 20130908 end  volume: 671366500 interestScore: 52
-Stock: AAPL start 20130915 end  volume: 625948400 interestScore: 26
-Stock: AAPL start 20130922 end  volume: 477167600 interestScore: 37
-Stock: AAPL start 20130929 end  volume: 371211400 interestScore: 38
-Stock: AAPL start 20131006 end  volume: 362819100 interestScore: 26
-Stock: AAPL start 20131013 end  volume: 344302000 interestScore: 25
-Stock: AAPL start 20131020 end  volume: 492112600 interestScore: 35
-Stock: AAPL start 20131027 end  volume: 522749500 interestScore: 49
-Stock: AAPL start 20131103 end  volume: 318788400 interestScore: 22
-Stock: AAPL start 20131110 end  volume: 307322400 interestScore: 19
-Stock: AAPL start 20131117 end  volume: 283388000 interestScore: 14
-Stock: AAPL start 20131124 end  volume: 328067600 interestScore: 18
-Stock: AAPL start 20131201 end  volume: 523313700 interestScore: 20
-Stock: AAPL start 20131208 end  volume: 388398500 interestScore: 26
-Stock: AAPL start 20131215 end  volume: 458770200 interestScore: 14
-Stock: AAPL start 20131222 end  volume: 274688400 interestScore: 29
-Stock: AAPL start 20131229 end  volume: 275966600 interestScore: 19
-Stock: AAPL start 20140105 end  volume: 393118600 interestScore: 15
-Stock: AAPL start 20140112 end  volume: 439677700 interestScore: 21
-Stock: AAPL start 20140119 end  volume: 385276500 interestScore: 23
-Stock: AAPL start 20140126 end  volume: 816627700 interestScore: 46
-Stock: AAPL start 20140202 end  volume: 433633900 interestScore: 23
-Stock: AAPL start 20140209 end  volume: 379059800 interestScore: 22
-Stock: AAPL start 20140216 end  volume: 289665600 interestScore: 16
-Stock: AAPL start 20140223 end  volume: 367732400 interestScore: 16
-Stock: AAPL start 20140302 end  volume: 276050600 interestScore: 17
-Stock: AAPL start 20140309 end  volume: 288019200 interestScore: 14
-Stock: AAPL start 20140316 end  volume: 304098200 interestScore: 12
-Stock: AAPL start 20140323 end  volume: 340089400 interestScore: 23
-Stock: AAPL start 20140330 end  volume: 246861300 interestScore: 25
-Stock: AAPL start 20140406 end  volume: 312819500 interestScore: 27
-Stock: AAPL start 20140413 end  volume: 242816000 interestScore: 19
-Stock: AAPL start 20140420 end  volume: 482559700 interestScore: 42
-Stock: AAPL start 20140427 end  volume: 474766600 interestScore: 25
-Stock: AAPL start 20140504 end  volume: 366597700 interestScore: 30
-Stock: AAPL start 20140511 end  volume: 261613100 interestScore: 22
-Stock: AAPL start 20140518 end  volume: 295605100 interestScore: 16
-Stock: AAPL start 20140525 end  volume: 401210600 interestScore: 23
-Stock: AAPL start 20140601 end  volume: 412821500 interestScore: 30
-Stock: AAPL start 20140608 end  volume: 293147000 interestScore: 32
-Stock: AAPL start 20140615 end  volume: 235227000 interestScore: 25
-Stock: AAPL start 20140622 end  volume: 216257000 interestScore: 17
-Stock: AAPL start 20140629 end  volume: 139062100 interestScore: 18
-Stock: AAPL start 20140706 end  volume: 231830000 interestScore: 20
-Stock: AAPL start 20140713 end  volume: 248970200 interestScore: 30
-Stock: AAPL start 20140720 end  volume: 276392000 interestScore: 38
-Stock: AAPL start 20140727 end  volume: 236825000 interestScore: 30
-Stock: AAPL start 20140803 end  volume: 223025000 interestScore: 26
-Stock: AAPL start 20140810 end  volume: 179363000 interestScore: 29
-Stock: AAPL start 20140817 end  volume: 247332000 interestScore: 32
-Stock: AAPL start 20140824 end  volume: 238846000 interestScore: 27
-Stock: AAPL start 20140831 end  volume: 323160000 interestScore: 29
-Stock: AAPL start 20140907 end  volume: 462051800 interestScore: 56
-Stock: AAPL start 20140914 end  volume: 297352900 interestScore: 41
-Stock: AAPL start 20140921 end  volume: 338824900 interestScore: 37
-Stock: AAPL start 20140928 end  volume: 247749100 interestScore: 27
-Stock: AAPL start 20141005 end  volume: 280258200 interestScore: 39
-Stock: AAPL start 20141012 end  volume: 358539800 interestScore: 35
-Stock: AAPL start 20141019 end  volume: 358532900 interestScore: 41
-Stock: AAPL start 20141026 end  volume: 220230600 interestScore: 34
-Stock: AAPL start 20141102 end  volume: 199952900 interestScore: 19
-Stock: AAPL start 20141109 end  volume: 205166700 interestScore: 22
-Stock: AAPL start 20141116 end  volume: 233414700 interestScore: 28
-Stock: AAPL start 20141123 end  volume: 181873900 interestScore: 25
-Stock: AAPL start 20141130 end  volume: 266589700 interestScore: 32
-Stock: AAPL start 20141207 end  volume: 259868000 interestScore: 29
-Stock: AAPL start 20141214 end  volume: 328856600 interestScore: 29
-Stock: AAPL start 20141221 end  volume: 119396500 interestScore: 16
-Stock: AAPL start 20141228 end  volume: 152088400 interestScore: 19
-Stock: AAPL start 20150104 end  volume: 283252500 interestScore: 29
-Stock: AAPL start 20150111 end  volume: 303607000 interestScore: 23
-Stock: AAPL start 20150118 end  volume: 198737000 interestScore: 19
-Stock: AAPL start 20150125 end  volume: 465842700 interestScore: 51
-Stock: AAPL start 20150201 end  volume: 270757300 interestScore: 25
-Stock: AAPL start 20150208 end  volume: 303206800 interestScore: 28
-Stock: AAPL start 20150215 end  volume: 194354900 interestScore: 28
-Stock: AAPL start 20150222 end  volume: 368216200 interestScore: 39
-Stock: AAPL start 20150301 end  volume: 246938500 interestScore: 35
-Stock: AAPL start 20150308 end  volume: 326514100 interestScore: 36
-Stock: AAPL start 20150315 end  volume: 266672900 interestScore: 37
-Stock: AAPL start 20150322 end  volume: 209326300 interestScore: 22
-Stock: AAPL start 20150329 end  volume: 162031800 interestScore: 23
-Stock: AAPL start 20150405 end  volume: 182207500 interestScore: 32
-Stock: AAPL start 20150412 end  volume: 171186100 interestScore: 25
-Stock: AAPL start 20150419 end  volume: 207440700 interestScore: 27
-Stock: AAPL start 20150426 end  volume: 420972300 interestScore: 48
-Stock: AAPL start 20150503 end  volume: 271892000 interestScore: 28
-Stock: AAPL start 20150510 end  volume: 208301500 interestScore: 24
-Stock: AAPL start 20150517 end  volume: 217297400 interestScore: 32
-Stock: AAPL start 20150524 end  volume: 198148600 interestScore: 22
-Stock: AAPL start 20150531 end  volume: 170746700 interestScore: 23
-Stock: AAPL start 20150607 end  volume: 220114600 interestScore: 21
-Stock: AAPL start 20150614 end  volume: 198525200 interestScore: 19
-Stock: AAPL start 20150621 end  volume: 195594000 interestScore: 16
-Stock: AAPL start 20150628 end  volume: 150981900 interestScore: 21
-Stock: AAPL start 20150705 end  volume: 274944900 interestScore: 31
-Stock: AAPL start 20150712 end  volume: 189244900 interestScore: 21
-Stock: AAPL start 20150719 end  volume: 344269000 interestScore: 61
-Stock: AAPL start 20150726 end  volume: 191598600 interestScore: 24
-Stock: AAPL start 20150802 end  volume: 385000600 interestScore: 31
-Stock: AAPL start 20150809 end  volume: 344717200 interestScore: 38
-Stock: AAPL start 20150816 end  volume: 319668200 interestScore: 32
-Stock: AAPL start 20150823 end  volume: 500363000 interestScore: 68
-Stock: AAPL start 20150830 end  volume: 298194200 interestScore: 32
-Stock: AAPL start 20150906 end  volume: 252662700 interestScore: 35
-Stock: AAPL start 20150913 end  volume: 277276000 interestScore: 25
-Stock: AAPL start 20150920 end  volume: 242696300 interestScore: 26
-Stock: AAPL start 20150927 end  volume: 313896300 interestScore: 28
-Stock: AAPL start 20151004 end  volume: 262433000 interestScore: 22
-Stock: AAPL start 20151011 end  volume: 183888700 interestScore: 22
-Stock: AAPL start 20151018 end  volume: 221543200 interestScore: 26
-Stock: AAPL start 20151025 end  volume: 322362200 interestScore: 43
-Stock: AAPL start 20151101 end  volume: 195203400 interestScore: 19
-Stock: AAPL start 20151108 end  volume: 216555300 interestScore: 25
-Stock: AAPL start 20151115 end  volume: 189981200 interestScore: 22
-Stock: AAPL start 20151122 end  volume: 109720400 interestScore: 15
-Stock: AAPL start 20151129 end  volume: 206765800 interestScore: 17
-Stock: AAPL start 20151206 end  volume: 188854000 interestScore: 18
-Stock: AAPL start 20151213 end  volume: 314761400 interestScore: 18
-Stock: AAPL start 20151220 end  volume: 126634100 interestScore: 18
-Stock: AAPL start 20151227 end  volume: 123761500 interestScore: 17
-Stock: AAPL start 20160103 end  volume: 343790200 interestScore: 41
-Stock: AAPL start 20160110 end  volume: 304337200 interestScore: 38
-Stock: AAPL start 20160117 end  volume: 243384100 interestScore: 34
-Stock: AAPL start 20160124 end  volume: 380336500 interestScore: 53
-Stock: AAPL start 20160131 end  volume: 217154800 interestScore: 26
-Stock: AAPL start 20160207 end  volume: 231122300 interestScore: 27
-Stock: AAPL start 20160214 end  volume: 168316300 interestScore: 22
-Stock: AAPL start 20160221 end  volume: 159052900 interestScore: 18
-Stock: AAPL start 20160228 end  volume: 201803800 interestScore: 24
-Stock: AAPL start 20160306 end  volume: 155514300 interestScore: 19
-Stock: AAPL start 20160313 end  volume: 182073200 interestScore: 16
-Stock: AAPL start 20160320 end  volume: 119783600 interestScore: 22
-Stock: AAPL start 20160327 end  volume: 147965000 interestScore: 27
-Stock: AAPL start 20160403 end  volume: 145722600 interestScore: 20
-Stock: AAPL start 20160410 end  volume: 162310000 interestScore: 19
-Stock: AAPL start 20160417 end  volume: 189053000 interestScore: 22
-Stock: AAPL start 20160424 end  volume: 349424100 interestScore: 62
-Stock: AAPL start 20160501 end  volume: 225365600 interestScore: 26
-Stock: AAPL start 20160508 end  volume: 215285700 interestScore: 21
-Stock: AAPL start 20160515 end  volume: 211718400 interestScore: 33
-Stock: AAPL start 20160522 end  volume: 203389000 interestScore: 22
-Stock: AAPL start 20160529 end  volume: 111202300 interestScore: 19
+Stock: AAPL start 20040104 end 20040110 volume: 594750800 interestScore: 0
+Stock: AAPL start 20040111 end 20040117 volume: 794409000 interestScore: 0
+Stock: AAPL start 20040118 end 20040124 volume: 243695200 interestScore: 39
+Stock: AAPL start 20040125 end 20040131 volume: 312935000 interestScore: 0
+Stock: AAPL start 20040201 end 20040207 volume: 329995400 interestScore: 0
+Stock: AAPL start 20040208 end 20040214 volume: 323029000 interestScore: 0
+Stock: AAPL start 20040215 end 20040221 volume: 228319000 interestScore: 0
+Stock: AAPL start 20040222 end 20040228 volume: 349164200 interestScore: 0
+Stock: AAPL start 20040229 end 20040306 volume: 751080400 interestScore: 0
+Stock: AAPL start 20040307 end 20040313 volume: 768318600 interestScore: 0
+Stock: AAPL start 20040314 end 20040320 volume: 557060000 interestScore: 0
+Stock: AAPL start 20040321 end 20040327 volume: 554775200 interestScore: 0
+Stock: AAPL start 20040328 end 20040403 volume: 423497200 interestScore: 70
+Stock: AAPL start 20040404 end 20040410 volume: 284925200 interestScore: 62
+Stock: AAPL start 20040411 end 20040417 volume: 867762000 interestScore: 62
+Stock: AAPL start 20040418 end 20040424 volume: 513290400 interestScore: 33
+Stock: AAPL start 20040425 end 20040501 volume: 418363400 interestScore: 33
+Stock: AAPL start 20040502 end 20040508 volume: 374579800 interestScore: 33
+Stock: AAPL start 20040509 end 20040515 volume: 322056000 interestScore: 33
+Stock: AAPL start 20040516 end 20040522 volume: 314573000 interestScore: 0
+Stock: AAPL start 20040523 end 20040529 volume: 314860000 interestScore: 0
+Stock: AAPL start 20040530 end 20040605 volume: 287722400 interestScore: 0
+Stock: AAPL start 20040606 end 20040612 volume: 329569800 interestScore: 0
+Stock: AAPL start 20040613 end 20040619 volume: 638958600 interestScore: 0
+Stock: AAPL start 20040620 end 20040626 volume: 429384200 interestScore: 68
+Stock: AAPL start 20040627 end 20040703 volume: 684329800 interestScore: 34
+Stock: AAPL start 20040704 end 20040710 volume: 297304000 interestScore: 34
+Stock: AAPL start 20040711 end 20040717 volume: 979925800 interestScore: 34
+Stock: AAPL start 20040718 end 20040724 volume: 441466200 interestScore: 34
+Stock: AAPL start 20040725 end 20040731 volume: 392292600 interestScore: 35
+Stock: AAPL start 20040801 end 20040807 volume: 397500600 interestScore: 32
+Stock: AAPL start 20040808 end 20040814 volume: 379631000 interestScore: 32
+Stock: AAPL start 20040815 end 20040821 volume: 457262400 interestScore: 32
+Stock: AAPL start 20040822 end 20040828 volume: 619771600 interestScore: 32
+Stock: AAPL start 20040829 end 20040904 volume: 452555600 interestScore: 31
+Stock: AAPL start 20040905 end 20040911 volume: 358709400 interestScore: 31
+Stock: AAPL start 20040912 end 20040918 volume: 443423400 interestScore: 29
+Stock: AAPL start 20040919 end 20040925 volume: 450058000 interestScore: 31
+Stock: AAPL start 20040926 end 20041002 volume: 478657200 interestScore: 32
+Stock: AAPL start 20041003 end 20041009 volume: 552981800 interestScore: 34
+Stock: AAPL start 20041010 end 20041016 volume: 1436656200 interestScore: 35
+Stock: AAPL start 20041017 end 20041023 volume: 953856400 interestScore: 0
+Stock: AAPL start 20041024 end 20041030 volume: 963746000 interestScore: 0
+Stock: AAPL start 20041031 end 20041106 volume: 1167471200 interestScore: 0
+Stock: AAPL start 20041107 end 20041113 volume: 578590600 interestScore: 0
+Stock: AAPL start 20041114 end 20041120 volume: 573332200 interestScore: 0
+Stock: AAPL start 20041121 end 20041127 volume: 1355148200 interestScore: 0
+Stock: AAPL start 20041128 end 20041204 volume: 1442070000 interestScore: 27
+Stock: AAPL start 20041205 end 20041211 volume: 1128499400 interestScore: 29
+Stock: AAPL start 20041212 end 20041218 volume: 779683800 interestScore: 30
+Stock: AAPL start 20041219 end 20041225 volume: 761075000 interestScore: 32
+Stock: AAPL start 20041226 end 20050101 volume: 561184400 interestScore: 27
+Stock: AAPL start 20050102 end 20050108 volume: 1350560400 interestScore: 27
+Stock: AAPL start 20050109 end 20050115 volume: 2798024600 interestScore: 42
+Stock: AAPL start 20050116 end 20050122 volume: 896152600 interestScore: 25
+Stock: AAPL start 20050123 end 20050129 volume: 962049200 interestScore: 24
+Stock: AAPL start 20050130 end 20050205 volume: 1168690600 interestScore: 24
+Stock: AAPL start 20050206 end 20050212 volume: 1225001400 interestScore: 24
+Stock: AAPL start 20050213 end 20050219 volume: 1976163000 interestScore: 24
+Stock: AAPL start 20050220 end 20050226 volume: 1249753400 interestScore: 25
+Stock: AAPL start 20050227 end 20050305 volume: 936558000 interestScore: 23
+Stock: AAPL start 20050306 end 20050312 volume: 1051122100 interestScore: 23
+Stock: AAPL start 20050313 end 20050319 volume: 888469400 interestScore: 30
+Stock: AAPL start 20050320 end 20050326 volume: 513767800 interestScore: 37
+Stock: AAPL start 20050327 end 20050402 volume: 602286300 interestScore: 44
+Stock: AAPL start 20050403 end 20050409 volume: 677004300 interestScore: 51
+Stock: AAPL start 20050410 end 20050416 volume: 1913987600 interestScore: 45
+Stock: AAPL start 20050417 end 20050423 volume: 1238168400 interestScore: 45
+Stock: AAPL start 20050424 end 20050430 volume: 854398300 interestScore: 22
+Stock: AAPL start 20050501 end 20050507 volume: 531112400 interestScore: 22
+Stock: AAPL start 20050508 end 20050514 volume: 1127723800 interestScore: 22
+Stock: AAPL start 20050515 end 20050521 volume: 736293600 interestScore: 22
+Stock: AAPL start 20050522 end 20050528 volume: 718392500 interestScore: 22
+Stock: AAPL start 20050529 end 20050604 volume: 547215200 interestScore: 22
+Stock: AAPL start 20050605 end 20050611 volume: 757606500 interestScore: 32
+Stock: AAPL start 20050612 end 20050618 volume: 622690600 interestScore: 22
+Stock: AAPL start 20050619 end 20050625 volume: 551033000 interestScore: 23
+Stock: AAPL start 20050626 end 20050702 volume: 516805100 interestScore: 34
+Stock: AAPL start 20050703 end 20050709 volume: 380838500 interestScore: 45
+Stock: AAPL start 20050710 end 20050716 volume: 1061101300 interestScore: 45
+Stock: AAPL start 20050717 end 20050723 volume: 604031400 interestScore: 22
+Stock: AAPL start 20050724 end 20050730 volume: 415090200 interestScore: 22
+Stock: AAPL start 20050731 end 20050806 volume: 345170700 interestScore: 45
+Stock: AAPL start 20050807 end 20050813 volume: 526547000 interestScore: 22
+Stock: AAPL start 20050814 end 20050820 volume: 735800800 interestScore: 22
+Stock: AAPL start 20050821 end 20050827 volume: 448179900 interestScore: 28
+Stock: AAPL start 20050828 end 20050903 volume: 439189800 interestScore: 34
+Stock: AAPL start 20050904 end 20050910 volume: 774993800 interestScore: 40
+Stock: AAPL start 20050911 end 20050917 volume: 606566800 interestScore: 19
+Stock: AAPL start 20050918 end 20050924 volume: 765123100 interestScore: 19
+Stock: AAPL start 20050925 end 20051001 volume: 795572400 interestScore: 19
+Stock: AAPL start 20051002 end 20051008 volume: 773300500 interestScore: 28
+Stock: AAPL start 20051009 end 20051015 volume: 1833001100 interestScore: 28
+Stock: AAPL start 20051016 end 20051022 volume: 1097398400 interestScore: 18
+Stock: AAPL start 20051023 end 20051029 volume: 721950600 interestScore: 21
+Stock: AAPL start 20051030 end 20051105 volume: 1077502300 interestScore: 24
+Stock: AAPL start 20051106 end 20051112 volume: 689080000 interestScore: 21
+Stock: AAPL start 20051113 end 20051119 volume: 723114000 interestScore: 25
+Stock: AAPL start 20051120 end 20051126 volume: 483214900 interestScore: 29
+Stock: AAPL start 20051127 end 20051203 volume: 1053570700 interestScore: 34
+Stock: AAPL start 20051204 end 20051210 volume: 866511800 interestScore: 17
+Stock: AAPL start 20051211 end 20051217 volume: 925465100 interestScore: 34
+Stock: AAPL start 20051218 end 20051224 volume: 521152100 interestScore: 19
+Stock: AAPL start 20051225 end 20051231 volume: 525748300 interestScore: 32
+Stock: AAPL start 20060101 end 20060107 volume: 645179500 interestScore: 18
+Stock: AAPL start 20060108 end 20060114 volume: 1626454900 interestScore: 48
+Stock: AAPL start 20060115 end 20060121 volume: 1216716900 interestScore: 26
+Stock: AAPL start 20060122 end 20060128 volume: 1403255700 interestScore: 23
+Stock: AAPL start 20060129 end 20060204 volume: 1058143800 interestScore: 31
+Stock: AAPL start 20060205 end 20060211 volume: 1725988600 interestScore: 15
+Stock: AAPL start 20060212 end 20060218 volume: 1182095600 interestScore: 14
+Stock: AAPL start 20060219 end 20060225 volume: 787376800 interestScore: 14
+Stock: AAPL start 20060226 end 20060304 volume: 1046245200 interestScore: 14
+Stock: AAPL start 20060305 end 20060311 volume: 1070310500 interestScore: 14
+Stock: AAPL start 20060312 end 20060318 volume: 989221100 interestScore: 14
+Stock: AAPL start 20060319 end 20060325 volume: 1449127400 interestScore: 14
+Stock: AAPL start 20060326 end 20060401 volume: 1757809200 interestScore: 14
+Stock: AAPL start 20060402 end 20060408 volume: 2047532900 interestScore: 22
+Stock: AAPL start 20060409 end 20060415 volume: 829350900 interestScore: 46
+Stock: AAPL start 20060416 end 20060422 volume: 1264696300 interestScore: 37
+Stock: AAPL start 20060423 end 20060429 volume: 888240500 interestScore: 14
+Stock: AAPL start 20060430 end 20060506 volume: 908341700 interestScore: 15
+Stock: AAPL start 20060507 end 20060513 volume: 760217500 interestScore: 19
+Stock: AAPL start 20060514 end 20060520 volume: 966105000 interestScore: 24
+Stock: AAPL start 20060521 end 20060527 volume: 806435700 interestScore: 28
+Stock: AAPL start 20060528 end 20060603 volume: 868168700 interestScore: 15
+Stock: AAPL start 20060604 end 20060610 volume: 1063912500 interestScore: 14
+Stock: AAPL start 20060611 end 20060617 volume: 1176262500 interestScore: 14
+Stock: AAPL start 20060618 end 20060624 volume: 966670600 interestScore: 43
+Stock: AAPL start 20060625 end 20060701 volume: 870236500 interestScore: 14
+Stock: AAPL start 20060702 end 20060708 volume: 536395300 interestScore: 36
+Stock: AAPL start 20060709 end 20060715 volume: 1131160100 interestScore: 57
+Stock: AAPL start 20060716 end 20060722 volume: 1569943200 interestScore: 14
+Stock: AAPL start 20060723 end 20060729 volume: 909226500 interestScore: 19
+Stock: AAPL start 20060730 end 20060805 volume: 1212321600 interestScore: 14
+Stock: AAPL start 20060806 end 20060812 volume: 1168626200 interestScore: 14
+Stock: AAPL start 20060813 end 20060819 volume: 869439900 interestScore: 17
+Stock: AAPL start 20060820 end 20060826 volume: 709650900 interestScore: 20
+Stock: AAPL start 20060827 end 20060902 volume: 837207000 interestScore: 23
+Stock: AAPL start 20060903 end 20060909 volume: 1037610000 interestScore: 26
+Stock: AAPL start 20060910 end 20060916 volume: 1390883200 interestScore: 25
+Stock: AAPL start 20060917 end 20060923 volume: 924338800 interestScore: 12
+Stock: AAPL start 20060924 end 20060930 volume: 975433900 interestScore: 12
+Stock: AAPL start 20061001 end 20061007 volume: 870818200 interestScore: 12
+Stock: AAPL start 20061008 end 20061014 volume: 704679500 interestScore: 12
+Stock: AAPL start 20061015 end 20061021 volume: 1068979100 interestScore: 12
+Stock: AAPL start 20061022 end 20061028 volume: 702164400 interestScore: 18
+Stock: AAPL start 20061029 end 20061104 volume: 627489100 interestScore: 12
+Stock: AAPL start 20061105 end 20061111 volume: 737086000 interestScore: 17
+Stock: AAPL start 20061112 end 20061118 volume: 713829200 interestScore: 19
+Stock: AAPL start 20061119 end 20061125 volume: 596019900 interestScore: 17
+Stock: AAPL start 20061126 end 20061202 volume: 1233414700 interestScore: 11
+Stock: AAPL start 20061203 end 20061209 volume: 949916100 interestScore: 33
+Stock: AAPL start 20061210 end 20061216 volume: 988930600 interestScore: 11
+Stock: AAPL start 20061217 end 20061223 volume: 929394200 interestScore: 13
+Stock: AAPL start 20061224 end 20061230 volume: 1155687400 interestScore: 14
+Stock: AAPL start 20061231 end 20070106 volume: 730080400 interestScore: 28
+Stock: AAPL start 20070107 end 20070113 volume: 2463057100 interestScore: 35
+Stock: AAPL start 20070114 end 20070120 volume: 1654853900 interestScore: 20
+Stock: AAPL start 20070121 end 20070127 volume: 1370527900 interestScore: 10
+Stock: AAPL start 20070128 end 20070203 volume: 905394000 interestScore: 10
+Stock: AAPL start 20070204 end 20070210 volume: 1012410700 interestScore: 10
+Stock: AAPL start 20070211 end 20070217 volume: 644142100 interestScore: 15
+Stock: AAPL start 20070218 end 20070224 volume: 782283600 interestScore: 15
+Stock: AAPL start 20070225 end 20070303 volume: 1239166600 interestScore: 10
+Stock: AAPL start 20070304 end 20070310 volume: 787804500 interestScore: 9
+Stock: AAPL start 20070311 end 20070317 volume: 881272000 interestScore: 24
+Stock: AAPL start 20070318 end 20070324 volume: 725287500 interestScore: 10
+Stock: AAPL start 20070325 end 20070331 volume: 1016414700 interestScore: 29
+Stock: AAPL start 20070401 end 20070407 volume: 479556700 interestScore: 10
+Stock: AAPL start 20070408 end 20070414 volume: 672861000 interestScore: 10
+Stock: AAPL start 20070415 end 20070421 volume: 693422800 interestScore: 9
+Stock: AAPL start 20070422 end 20070428 volume: 1364967100 interestScore: 9
+Stock: AAPL start 20070429 end 20070505 volume: 653060800 interestScore: 14
+Stock: AAPL start 20070506 end 20070512 volume: 1053566500 interestScore: 17
+Stock: AAPL start 20070513 end 20070519 volume: 1022466200 interestScore: 26
+Stock: AAPL start 20070520 end 20070526 volume: 910999600 interestScore: 17
+Stock: AAPL start 20070527 end 20070602 volume: 1076616800 interestScore: 9
+Stock: AAPL start 20070603 end 20070609 volume: 1519115500 interestScore: 29
+Stock: AAPL start 20070610 end 20070616 volume: 1701665700 interestScore: 17
+Stock: AAPL start 20070617 end 20070623 volume: 1062516000 interestScore: 12
+Stock: AAPL start 20070624 end 20070630 volume: 1315272700 interestScore: 31
+Stock: AAPL start 20070701 end 20070707 volume: 1121272600 interestScore: 30
+Stock: AAPL start 20070708 end 20070714 volume: 1171203600 interestScore: 30
+Stock: AAPL start 20070715 end 20070721 volume: 1075898600 interestScore: 18
+Stock: AAPL start 20070722 end 20070728 volume: 1918923300 interestScore: 26
+Stock: AAPL start 20070729 end 20070804 volume: 1537842600 interestScore: 26
+Stock: AAPL start 20070805 end 20070811 volume: 1304837100 interestScore: 23
+Stock: AAPL start 20070812 end 20070818 volume: 1386630700 interestScore: 23
+Stock: AAPL start 20070819 end 20070825 volume: 1236700500 interestScore: 14
+Stock: AAPL start 20070826 end 20070901 volume: 1341533900 interestScore: 14
+Stock: AAPL start 20070902 end 20070908 volume: 1744225700 interestScore: 28
+Stock: AAPL start 20070909 end 20070915 volume: 1186494400 interestScore: 15
+Stock: AAPL start 20070916 end 20070922 volume: 1178765700 interestScore: 13
+Stock: AAPL start 20070923 end 20070929 volume: 1123320100 interestScore: 15
+Stock: AAPL start 20070930 end 20071006 volume: 980521500 interestScore: 8
+Stock: AAPL start 20071007 end 20071013 volume: 1309993300 interestScore: 11
+Stock: AAPL start 20071014 end 20071020 volume: 1347207400 interestScore: 22
+Stock: AAPL start 20071021 end 20071027 volume: 1603406000 interestScore: 41
+Stock: AAPL start 20071028 end 20071103 volume: 1030107400 interestScore: 15
+Stock: AAPL start 20071104 end 20071110 volume: 1542497600 interestScore: 21
+Stock: AAPL start 20071111 end 20071117 volume: 1957146100 interestScore: 26
+Stock: AAPL start 20071118 end 20071124 volume: 1095409700 interestScore: 23
+Stock: AAPL start 20071125 end 20071201 volume: 1503106500 interestScore: 22
+Stock: AAPL start 20071202 end 20071208 volume: 1148387100 interestScore: 17
+Stock: AAPL start 20071209 end 20071215 volume: 1149473500 interestScore: 21
+Stock: AAPL start 20071216 end 20071222 volume: 1210698300 interestScore: 18
+Stock: AAPL start 20071223 end 20071229 volume: 669777500 interestScore: 18
+Stock: AAPL start 20071230 end 20080105 volume: 979102600 interestScore: 8
+Stock: AAPL start 20080106 end 20080112 volume: 2031288000 interestScore: 18
+Stock: AAPL start 20080113 end 20080119 volume: 2284944200 interestScore: 35
+Stock: AAPL start 20080120 end 20080126 volume: 2342082400 interestScore: 42
+Stock: AAPL start 20080127 end 20080202 volume: 1543574200 interestScore: 24
+Stock: AAPL start 20080203 end 20080209 volume: 1763213200 interestScore: 22
+Stock: AAPL start 20080210 end 20080216 volume: 1312836000 interestScore: 10
+Stock: AAPL start 20080217 end 20080223 volume: 1110119500 interestScore: 16
+Stock: AAPL start 20080224 end 20080301 volume: 1777633900 interestScore: 31
+Stock: AAPL start 20080302 end 20080308 volume: 1826106100 interestScore: 12
+Stock: AAPL start 20080309 end 20080315 volume: 1410476200 interestScore: 6
+Stock: AAPL start 20080316 end 20080322 volume: 1049260800 interestScore: 15
+Stock: AAPL start 20080323 end 20080329 volume: 1253959000 interestScore: 13
+Stock: AAPL start 20080330 end 20080405 volume: 1187896500 interestScore: 10
+Stock: AAPL start 20080406 end 20080412 volume: 1302964600 interestScore: 10
+Stock: AAPL start 20080413 end 20080419 volume: 1017482900 interestScore: 9
+Stock: AAPL start 20080420 end 20080426 volume: 1667864100 interestScore: 25
+Stock: AAPL start 20080427 end 20080503 volume: 1189968500 interestScore: 19
+Stock: AAPL start 20080504 end 20080510 volume: 1125679800 interestScore: 19
+Stock: AAPL start 20080511 end 20080517 volume: 1049400100 interestScore: 9
+Stock: AAPL start 20080518 end 20080524 volume: 1296745100 interestScore: 18
+Stock: AAPL start 20080525 end 20080531 volume: 697813900 interestScore: 8
+Stock: AAPL start 20080601 end 20080607 volume: 969803100 interestScore: 14
+Stock: AAPL start 20080608 end 20080614 volume: 1661293900 interestScore: 12
+Stock: AAPL start 20080615 end 20080621 volume: 1110792900 interestScore: 16
+Stock: AAPL start 20080622 end 20080628 volume: 956009600 interestScore: 6
+Stock: AAPL start 20080629 end 20080705 volume: 789089700 interestScore: 10
+Stock: AAPL start 20080706 end 20080712 volume: 1093804600 interestScore: 15
+Stock: AAPL start 20080713 end 20080719 volume: 1074957100 interestScore: 16
+Stock: AAPL start 20080720 end 20080726 volume: 1443771700 interestScore: 17
+Stock: AAPL start 20080727 end 20080802 volume: 843026100 interestScore: 17
+Stock: AAPL start 20080803 end 20080809 volume: 864669400 interestScore: 6
+Stock: AAPL start 20080810 end 20080816 volume: 997370500 interestScore: 10
+Stock: AAPL start 20080817 end 20080823 volume: 663631500 interestScore: 8
+Stock: AAPL start 20080824 end 20080830 volume: 609607600 interestScore: 6
+Stock: AAPL start 20080831 end 20080906 volume: 761467000 interestScore: 14
+Stock: AAPL start 20080907 end 20080913 volume: 1257077500 interestScore: 13
+Stock: AAPL start 20080914 end 20080920 volume: 1607013800 interestScore: 20
+Stock: AAPL start 20080921 end 20080927 volume: 1329147400 interestScore: 19
+Stock: AAPL start 20080928 end 20081004 volume: 2362246600 interestScore: 34
+Stock: AAPL start 20081005 end 20081011 volume: 2507653400 interestScore: 42
+Stock: AAPL start 20081012 end 20081018 volume: 2211748700 interestScore: 32
+Stock: AAPL start 20081019 end 20081025 volume: 2314281900 interestScore: 27
+Stock: AAPL start 20081026 end 20081101 volume: 2022932100 interestScore: 16
+Stock: AAPL start 20081102 end 20081108 volume: 1531850600 interestScore: 15
+Stock: AAPL start 20081109 end 20081115 volume: 1696672600 interestScore: 12
+Stock: AAPL start 20081116 end 20081122 volume: 1707552000 interestScore: 13
+Stock: AAPL start 20081123 end 20081129 volume: 968790200 interestScore: 10
+Stock: AAPL start 20081130 end 20081206 volume: 1386583800 interestScore: 14
+Stock: AAPL start 20081207 end 20081213 volume: 1352119300 interestScore: 8
+Stock: AAPL start 20081214 end 20081220 volume: 1234615200 interestScore: 5
+Stock: AAPL start 20081221 end 20081227 volume: 514857700 interestScore: 6
+Stock: AAPL start 20081228 end 20090103 volume: 751789500 interestScore: 6
+Stock: AAPL start 20090104 end 20090110 volume: 1111078500 interestScore: 8
+Stock: AAPL start 20090111 end 20090117 volume: 1329259400 interestScore: 17
+Stock: AAPL start 20090118 end 20090124 volume: 1045620800 interestScore: 13
+Stock: AAPL start 20090125 end 20090131 volume: 853972700 interestScore: 11
+Stock: AAPL start 20090201 end 20090207 volume: 850608500 interestScore: 11
+Stock: AAPL start 20090208 end 20090214 volume: 916302800 interestScore: 5
+Stock: AAPL start 20090215 end 20090221 volume: 759034500 interestScore: 5
+Stock: AAPL start 20090222 end 20090228 volume: 940916900 interestScore: 24
+Stock: AAPL start 20090301 end 20090307 volume: 988680000 interestScore: 12
+Stock: AAPL start 20090308 end 20090314 volume: 939638700 interestScore: 9
+Stock: AAPL start 20090315 end 20090321 volume: 893923800 interestScore: 7
+Stock: AAPL start 20090322 end 20090328 volume: 765688000 interestScore: 11
+Stock: AAPL start 20090329 end 20090404 volume: 777714000 interestScore: 19
+Stock: AAPL start 20090405 end 20090411 volume: 545258000 interestScore: 5
+Stock: AAPL start 20090412 end 20090418 volume: 586920600 interestScore: 28
+Stock: AAPL start 20090419 end 20090425 volume: 840459900 interestScore: 8
+Stock: AAPL start 20090426 end 20090502 volume: 572665800 interestScore: 7
+Stock: AAPL start 20090503 end 20090509 volume: 620223100 interestScore: 12
+Stock: AAPL start 20090510 end 20090516 volume: 606376400 interestScore: 10
+Stock: AAPL start 20090517 end 20090523 volume: 481448100 interestScore: 7
+Stock: AAPL start 20090524 end 20090530 volume: 556859100 interestScore: 14
+Stock: AAPL start 20090531 end 20090606 volume: 664318200 interestScore: 11
+Stock: AAPL start 20090607 end 20090613 volume: 846287400 interestScore: 15
+Stock: AAPL start 20090614 end 20090620 volume: 693876400 interestScore: 9
+Stock: AAPL start 20090621 end 20090627 volume: 713951000 interestScore: 9
+Stock: AAPL start 20090628 end 20090704 volume: 446624500 interestScore: 5
+Stock: AAPL start 20090705 end 20090711 volume: 581128800 interestScore: 7
+Stock: AAPL start 20090712 end 20090718 volume: 578015200 interestScore: 6
+Stock: AAPL start 20090719 end 20090725 volume: 862434300 interestScore: 9
+Stock: AAPL start 20090726 end 20090801 volume: 517791400 interestScore: 6
+Stock: AAPL start 20090802 end 20090808 volume: 485551500 interestScore: 9
+Stock: AAPL start 20090809 end 20090815 volume: 461626200 interestScore: 9
+Stock: AAPL start 20090816 end 20090822 volume: 531727700 interestScore: 8
+Stock: AAPL start 20090823 end 20090829 volume: 484541400 interestScore: 6
+Stock: AAPL start 20090830 end 20090905 volume: 453299700 interestScore: 8
+Stock: AAPL start 20090906 end 20090912 volume: 491557500 interestScore: 4
+Stock: AAPL start 20090913 end 20090919 volume: 728665000 interestScore: 8
+Stock: AAPL start 20090920 end 20090926 volume: 596038100 interestScore: 13
+Stock: AAPL start 20090927 end 20091003 volume: 575108800 interestScore: 4
+Stock: AAPL start 20091004 end 20091010 volume: 556342500 interestScore: 11
+Stock: AAPL start 20091011 end 20091017 volume: 454134800 interestScore: 14
+Stock: AAPL start 20091018 end 20091024 volume: 1122293900 interestScore: 17
+Stock: AAPL start 20091025 end 20091031 volume: 836768100 interestScore: 9
+Stock: AAPL start 20091101 end 20091107 volume: 592238500 interestScore: 10
+Stock: AAPL start 20091108 end 20091114 volume: 520223200 interestScore: 6
+Stock: AAPL start 20091115 end 20091121 volume: 551258400 interestScore: 8
+Stock: AAPL start 20091122 end 20091128 volume: 343761600 interestScore: 16
+Stock: AAPL start 20091129 end 20091205 volume: 720371400 interestScore: 6
+Stock: AAPL start 20091206 end 20091212 volume: 752346000 interestScore: 13
+Stock: AAPL start 20091213 end 20091219 volume: 566461000 interestScore: 9
+Stock: AAPL start 20091220 end 20091226 volume: 451959200 interestScore: 13
+Stock: AAPL start 20091227 end 20100102 volume: 463566600 interestScore: 13
+Stock: AAPL start 20100103 end 20100109 volume: 643134100 interestScore: 10
+Stock: AAPL start 20100110 end 20100116 volume: 672385700 interestScore: 11
+Stock: AAPL start 20100117 end 20100123 volume: 708020600 interestScore: 11
+Stock: AAPL start 20100124 end 20100130 volume: 1768708200 interestScore: 25
+Stock: AAPL start 20100131 end 20100206 volume: 917876400 interestScore: 13
+Stock: AAPL start 20100207 end 20100213 volume: 671833400 interestScore: 5
+Stock: AAPL start 20100214 end 20100220 volume: 454607300 interestScore: 4
+Stock: AAPL start 20100221 end 20100227 volume: 649702900 interestScore: 5
+Stock: AAPL start 20100228 end 20100306 volume: 688588600 interestScore: 8
+Stock: AAPL start 20100307 end 20100313 volume: 692097700 interestScore: 7
+Stock: AAPL start 20100314 end 20100320 volume: 573230700 interestScore: 11
+Stock: AAPL start 20100321 end 20100327 volume: 709947700 interestScore: 14
+Stock: AAPL start 20100328 end 20100403 volume: 525464800 interestScore: 10
+Stock: AAPL start 20100404 end 20100410 volume: 666799700 interestScore: 16
+Stock: AAPL start 20100411 end 20100417 volume: 542661000 interestScore: 12
+Stock: AAPL start 20100418 end 20100424 volume: 969505600 interestScore: 22
+Stock: AAPL start 20100425 end 20100501 volume: 762029800 interestScore: 10
+Stock: AAPL start 20100502 end 20100508 volume: 1255786000 interestScore: 23
+Stock: AAPL start 20100509 end 20100515 volume: 961667000 interestScore: 18
+Stock: AAPL start 20100516 end 20100522 volume: 1269511600 interestScore: 13
+Stock: AAPL start 20100523 end 20100529 volume: 1033699100 interestScore: 19
+Stock: AAPL start 20100530 end 20100605 volume: 743358000 interestScore: 4
+Stock: AAPL start 20100606 end 20100612 volume: 1016114400 interestScore: 19
+Stock: AAPL start 20100613 end 20100619 volume: 907297300 interestScore: 12
+Stock: AAPL start 20100620 end 20100626 volume: 881607300 interestScore: 12
+Stock: AAPL start 20100627 end 20100703 volume: 1043620900 interestScore: 12
+Stock: AAPL start 20100704 end 20100710 volume: 610314600 interestScore: 15
+Stock: AAPL start 20100711 end 20100717 volume: 1107643600 interestScore: 16
+Stock: AAPL start 20100718 end 20100724 volume: 1115951900 interestScore: 18
+Stock: AAPL start 20100725 end 20100731 volume: 654331300 interestScore: 5
+Stock: AAPL start 20100801 end 20100807 volume: 500019800 interestScore: 6
+Stock: AAPL start 20100808 end 20100814 volume: 566223000 interestScore: 9
+Stock: AAPL start 20100815 end 20100821 volume: 472925600 interestScore: 6
+Stock: AAPL start 20100822 end 20100828 volume: 657092800 interestScore: 10
+Stock: AAPL start 20100829 end 20100904 volume: 609332500 interestScore: 10
+Stock: AAPL start 20100905 end 20100911 volume: 423806600 interestScore: 10
+Stock: AAPL start 20100912 end 20100918 volume: 628219900 interestScore: 14
+Stock: AAPL start 20100919 end 20100925 volume: 836911600 interestScore: 12
+Stock: AAPL start 20100926 end 20101002 volume: 777263900 interestScore: 9
+Stock: AAPL start 20101003 end 20101009 volume: 668735200 interestScore: 10
+Stock: AAPL start 20101010 end 20101016 volume: 743470000 interestScore: 17
+Stock: AAPL start 20101017 end 20101023 volume: 992914300 interestScore: 32
+Stock: AAPL start 20101024 end 20101030 volume: 541489200 interestScore: 17
+Stock: AAPL start 20101031 end 20101106 volume: 592477200 interestScore: 12
+Stock: AAPL start 20101107 end 20101113 volume: 551665100 interestScore: 9
+Stock: AAPL start 20101114 end 20101120 volume: 605010000 interestScore: 10
+Stock: AAPL start 20101121 end 20101127 volume: 390958400 interestScore: 9
+Stock: AAPL start 20101128 end 20101204 volume: 553581000 interestScore: 11
+Stock: AAPL start 20101205 end 20101211 volume: 429633400 interestScore: 7
+Stock: AAPL start 20101212 end 20101218 volume: 479273900 interestScore: 10
+Stock: AAPL start 20101219 end 20101225 volume: 282760800 interestScore: 4
+Stock: AAPL start 20101226 end 20110101 volume: 234970400 interestScore: 11
+Stock: AAPL start 20110102 end 20110108 volume: 405524700 interestScore: 15
+Stock: AAPL start 20110109 end 20110115 volume: 450219700 interestScore: 15
+Stock: AAPL start 20110116 end 20110122 volume: 1133950300 interestScore: 58
+Stock: AAPL start 20110123 end 20110129 volume: 626377500 interestScore: 16
+Stock: AAPL start 20110130 end 20110205 volume: 444618300 interestScore: 15
+Stock: AAPL start 20110206 end 20110212 volume: 661232600 interestScore: 14
+Stock: AAPL start 20110213 end 20110219 volume: 605597300 interestScore: 13
+Stock: AAPL start 20110220 end 20110226 volume: 606082400 interestScore: 17
+Stock: AAPL start 20110227 end 20110305 volume: 603964200 interestScore: 11
+Stock: AAPL start 20110306 end 20110312 volume: 583591400 interestScore: 9
+Stock: AAPL start 20110313 end 20110319 volume: 932921500 interestScore: 21
+Stock: AAPL start 20110320 end 20110326 volume: 490485800 interestScore: 10
+Stock: AAPL start 20110327 end 20110402 volume: 421085700 interestScore: 14
+Stock: AAPL start 20110403 end 20110409 volume: 524084400 interestScore: 32
+Stock: AAPL start 20110410 end 20110416 volume: 481553100 interestScore: 12
+Stock: AAPL start 20110417 end 20110423 volume: 620938500 interestScore: 31
+Stock: AAPL start 20110424 end 20110430 volume: 582215900 interestScore: 24
+Stock: AAPL start 20110501 end 20110507 volume: 440353900 interestScore: 18
+Stock: AAPL start 20110508 end 20110514 volume: 367738700 interestScore: 12
+Stock: AAPL start 20110515 end 20110521 volume: 459006100 interestScore: 6
+Stock: AAPL start 20110522 end 20110528 volume: 356477800 interestScore: 5
+Stock: AAPL start 20110529 end 20110604 volume: 406117600 interestScore: 10
+Stock: AAPL start 20110605 end 20110611 volume: 508623500 interestScore: 11
+Stock: AAPL start 20110612 end 20110618 volume: 547212400 interestScore: 13
+Stock: AAPL start 20110619 end 20110625 volume: 631044400 interestScore: 10
+Stock: AAPL start 20110626 end 20110702 volume: 436231600 interestScore: 11
+Stock: AAPL start 20110703 end 20110709 volume: 422244200 interestScore: 13
+Stock: AAPL start 20110710 end 20110716 volume: 550230800 interestScore: 13
+Stock: AAPL start 20110717 end 20110723 volume: 844100600 interestScore: 34
+Stock: AAPL start 20110724 end 20110730 volume: 738082800 interestScore: 23
+Stock: AAPL start 20110731 end 20110806 volume: 1015220500 interestScore: 21
+Stock: AAPL start 20110807 end 20110813 volume: 1094004800 interestScore: 30
+Stock: AAPL start 20110814 end 20110820 volume: 757169700 interestScore: 20
+Stock: AAPL start 20110821 end 20110827 volume: 832810300 interestScore: 52
+Stock: AAPL start 20110828 end 20110903 volume: 532110600 interestScore: 17
+Stock: AAPL start 20110904 end 20110910 volume: 460311600 interestScore: 17
+Stock: AAPL start 20110911 end 20110917 volume: 639862300 interestScore: 18
+Stock: AAPL start 20110918 end 20110924 volume: 930087200 interestScore: 18
+Stock: AAPL start 20110925 end 20111001 volume: 768434800 interestScore: 16
+Stock: AAPL start 20111002 end 20111008 volume: 1009321600 interestScore: 100
+Stock: AAPL start 20111009 end 20111015 volume: 667510200 interestScore: 25
+Stock: AAPL start 20111016 end 20111022 volume: 960555400 interestScore: 37
+Stock: AAPL start 20111023 end 20111029 volume: 551594400 interestScore: 17
+Stock: AAPL start 20111030 end 20111105 volume: 497064400 interestScore: 13
+Stock: AAPL start 20111106 end 20111112 volume: 656985000 interestScore: 9
+Stock: AAPL start 20111113 end 20111119 volume: 516191200 interestScore: 17
+Stock: AAPL start 20111120 end 20111126 volume: 385008400 interestScore: 11
+Stock: AAPL start 20111127 end 20111203 volume: 473610900 interestScore: 13
+Stock: AAPL start 20111204 end 20111210 volume: 404726000 interestScore: 10
+Stock: AAPL start 20111211 end 20111217 volume: 431140500 interestScore: 9
+Stock: AAPL start 20111218 end 20111224 volume: 326862900 interestScore: 10
+Stock: AAPL start 20111225 end 20111231 volume: 222344500 interestScore: 12
+Stock: AAPL start 20120101 end 20120107 volume: 287951300 interestScore: 9
+Stock: AAPL start 20120108 end 20120114 volume: 326478600 interestScore: 16
+Stock: AAPL start 20120115 end 20120121 volume: 298850300 interestScore: 13
+Stock: AAPL start 20120122 end 20120128 volume: 608927200 interestScore: 26
+Stock: AAPL start 20120129 end 20120204 volume: 378616700 interestScore: 16
+Stock: AAPL start 20120205 end 20120211 volume: 622260800 interestScore: 20
+Stock: AAPL start 20120212 end 20120218 volume: 991022900 interestScore: 38
+Stock: AAPL start 20120219 end 20120225 volume: 517999300 interestScore: 13
+Stock: AAPL start 20120226 end 20120303 volume: 803740700 interestScore: 29
+Stock: AAPL start 20120304 end 20120310 volume: 838315100 interestScore: 25
+Stock: AAPL start 20120311 end 20120317 volume: 1125546800 interestScore: 34
+Stock: AAPL start 20120318 end 20120324 volume: 854074900 interestScore: 47
+Stock: AAPL start 20120325 end 20120331 volume: 799402100 interestScore: 28
+Stock: AAPL start 20120401 end 20120407 volume: 661797500 interestScore: 42
+Stock: AAPL start 20120408 end 20120414 volume: 914464600 interestScore: 42
+Stock: AAPL start 20120415 end 20120421 volume: 1224137600 interestScore: 49
+Stock: AAPL start 20120422 end 20120428 volume: 972811700 interestScore: 45
+Stock: AAPL start 20120429 end 20120505 volume: 616268800 interestScore: 32
+Stock: AAPL start 20120506 end 20120512 volume: 542705100 interestScore: 19
+Stock: AAPL start 20120513 end 20120519 volume: 709842700 interestScore: 41
+Stock: AAPL start 20120520 end 20120526 volume: 683902800 interestScore: 30
+Stock: AAPL start 20120527 end 20120602 volume: 480650100 interestScore: 26
+Stock: AAPL start 20120603 end 20120609 volume: 518487200 interestScore: 29
+Stock: AAPL start 20120610 end 20120616 volume: 500263400 interestScore: 33
+Stock: AAPL start 20120617 end 20120623 volume: 442895600 interestScore: 21
+Stock: AAPL start 20120624 end 20120630 volume: 372063300 interestScore: 14
+Stock: AAPL start 20120701 end 20120707 volume: 386279600 interestScore: 19
+Stock: AAPL start 20120708 end 20120714 volume: 525038500 interestScore: 13
+Stock: AAPL start 20120715 end 20120721 volume: 420479500 interestScore: 17
+Stock: AAPL start 20120722 end 20120728 volume: 685247500 interestScore: 45
+Stock: AAPL start 20120729 end 20120804 volume: 475762700 interestScore: 21
+Stock: AAPL start 20120805 end 20120811 volume: 313459300 interestScore: 24
+Stock: AAPL start 20120812 end 20120818 volume: 393409800 interestScore: 27
+Stock: AAPL start 20120819 end 20120825 volume: 712224100 interestScore: 30
+Stock: AAPL start 20120826 end 20120901 volume: 384563200 interestScore: 37
+Stock: AAPL start 20120902 end 20120908 volume: 356282500 interestScore: 25
+Stock: AAPL start 20120909 end 20120915 volume: 725762100 interestScore: 58
+Stock: AAPL start 20120916 end 20120922 volume: 501641700 interestScore: 42
+Stock: AAPL start 20120923 end 20120929 volume: 716065000 interestScore: 39
+Stock: AAPL start 20120930 end 20121006 volume: 640150000 interestScore: 38
+Stock: AAPL start 20121007 end 20121013 volume: 748260800 interestScore: 33
+Stock: AAPL start 20121014 end 20121020 volume: 648005400 interestScore: 27
+Stock: AAPL start 20121021 end 20121027 volume: 871790500 interestScore: 59
+Stock: AAPL start 20121028 end 20121103 volume: 367668700 interestScore: 32
+Stock: AAPL start 20121104 end 20121110 volume: 920940300 interestScore: 49
+Stock: AAPL start 20121111 end 20121117 volume: 895681500 interestScore: 31
+Stock: AAPL start 20121118 end 20121124 volume: 527975000 interestScore: 31
+Stock: AAPL start 20121125 end 20121201 volume: 647698100 interestScore: 28
+Stock: AAPL start 20121202 end 20121208 volume: 982559900 interestScore: 34
+Stock: AAPL start 20121209 end 20121215 volume: 836203200 interestScore: 38
+Stock: AAPL start 20121216 end 20121222 volume: 727654900 interestScore: 35
+Stock: AAPL start 20121223 end 20121229 volume: 321897100 interestScore: 26
+Stock: AAPL start 20121230 end 20130105 volume: 541827300 interestScore: 28
+Stock: AAPL start 20130106 end 20130112 volume: 575530200 interestScore: 25
+Stock: AAPL start 20130113 end 20130119 volume: 807096500 interestScore: 48
+Stock: AAPL start 20130120 end 20130126 volume: 997983700 interestScore: 87
+Stock: AAPL start 20130127 end 20130202 volume: 658162400 interestScore: 43
+Stock: AAPL start 20130203 end 20130209 volume: 745477600 interestScore: 37
+Stock: AAPL start 20130210 end 20130216 volume: 587192900 interestScore: 30
+Stock: AAPL start 20130217 end 20130223 volume: 422480800 interestScore: 29
+Stock: AAPL start 20130224 end 20130302 volume: 584098200 interestScore: 17
+Stock: AAPL start 20130303 end 20130309 volume: 635348700 interestScore: 38
+Stock: AAPL start 20130310 end 20130316 volume: 573383300 interestScore: 26
+Stock: AAPL start 20130317 end 20130323 volume: 554998500 interestScore: 24
+Stock: AAPL start 20130324 end 20130330 volume: 392376600 interestScore: 29
+Stock: AAPL start 20130331 end 20130406 volume: 506152500 interestScore: 24
+Stock: AAPL start 20130407 end 20130413 volume: 387587200 interestScore: 21
+Stock: AAPL start 20130414 end 20130420 volume: 710980200 interestScore: 33
+Stock: AAPL start 20130421 end 20130427 volume: 803186300 interestScore: 55
+Stock: AAPL start 20130428 end 20130504 volume: 655475800 interestScore: 24
+Stock: AAPL start 20130505 end 20130511 volume: 546583100 interestScore: 30
+Stock: AAPL start 20130512 end 20130518 volume: 634197200 interestScore: 27
+Stock: AAPL start 20130519 end 20130525 volume: 494956700 interestScore: 20
+Stock: AAPL start 20130526 end 20130601 volume: 363636000 interestScore: 19
+Stock: AAPL start 20130602 end 20130608 volume: 444285100 interestScore: 24
+Stock: AAPL start 20130609 end 20130615 volume: 389797800 interestScore: 27
+Stock: AAPL start 20130616 end 20130622 volume: 400952300 interestScore: 13
+Stock: AAPL start 20130623 end 20130629 volume: 519598800 interestScore: 25
+Stock: AAPL start 20130630 end 20130706 volume: 343968100 interestScore: 19
+Stock: AAPL start 20130707 end 20130713 volume: 384496000 interestScore: 20
+Stock: AAPL start 20130714 end 20130720 volume: 286261500 interestScore: 15
+Stock: AAPL start 20130721 end 20130727 volume: 399693700 interestScore: 30
+Stock: AAPL start 20130728 end 20130803 volume: 340368000 interestScore: 18
+Stock: AAPL start 20130804 end 20130810 volume: 368803400 interestScore: 20
+Stock: AAPL start 20130811 end 20130817 volume: 713836900 interestScore: 29
+Stock: AAPL start 20130818 end 20130824 volume: 418006400 interestScore: 59
+Stock: AAPL start 20130825 end 20130831 volume: 393679300 interestScore: 19
+Stock: AAPL start 20130901 end 20130907 volume: 318213700 interestScore: 21
+Stock: AAPL start 20130908 end 20130914 volume: 671366500 interestScore: 52
+Stock: AAPL start 20130915 end 20130921 volume: 625948400 interestScore: 26
+Stock: AAPL start 20130922 end 20130928 volume: 477167600 interestScore: 37
+Stock: AAPL start 20130929 end 20131005 volume: 371211400 interestScore: 38
+Stock: AAPL start 20131006 end 20131012 volume: 362819100 interestScore: 26
+Stock: AAPL start 20131013 end 20131019 volume: 344302000 interestScore: 25
+Stock: AAPL start 20131020 end 20131026 volume: 492112600 interestScore: 35
+Stock: AAPL start 20131027 end 20131102 volume: 522749500 interestScore: 49
+Stock: AAPL start 20131103 end 20131109 volume: 318788400 interestScore: 22
+Stock: AAPL start 20131110 end 20131116 volume: 307322400 interestScore: 19
+Stock: AAPL start 20131117 end 20131123 volume: 283388000 interestScore: 14
+Stock: AAPL start 20131124 end 20131130 volume: 328067600 interestScore: 18
+Stock: AAPL start 20131201 end 20131207 volume: 523313700 interestScore: 20
+Stock: AAPL start 20131208 end 20131214 volume: 388398500 interestScore: 26
+Stock: AAPL start 20131215 end 20131221 volume: 458770200 interestScore: 14
+Stock: AAPL start 20131222 end 20131228 volume: 274688400 interestScore: 29
+Stock: AAPL start 20131229 end 20140104 volume: 275966600 interestScore: 19
+Stock: AAPL start 20140105 end 20140111 volume: 393118600 interestScore: 15
+Stock: AAPL start 20140112 end 20140118 volume: 439677700 interestScore: 21
+Stock: AAPL start 20140119 end 20140125 volume: 385276500 interestScore: 23
+Stock: AAPL start 20140126 end 20140201 volume: 816627700 interestScore: 46
+Stock: AAPL start 20140202 end 20140208 volume: 433633900 interestScore: 23
+Stock: AAPL start 20140209 end 20140215 volume: 379059800 interestScore: 22
+Stock: AAPL start 20140216 end 20140222 volume: 289665600 interestScore: 16
+Stock: AAPL start 20140223 end 20140301 volume: 367732400 interestScore: 16
+Stock: AAPL start 20140302 end 20140308 volume: 276050600 interestScore: 17
+Stock: AAPL start 20140309 end 20140315 volume: 288019200 interestScore: 14
+Stock: AAPL start 20140316 end 20140322 volume: 304098200 interestScore: 12
+Stock: AAPL start 20140323 end 20140329 volume: 340089400 interestScore: 23
+Stock: AAPL start 20140330 end 20140405 volume: 246861300 interestScore: 25
+Stock: AAPL start 20140406 end 20140412 volume: 312819500 interestScore: 27
+Stock: AAPL start 20140413 end 20140419 volume: 242816000 interestScore: 19
+Stock: AAPL start 20140420 end 20140426 volume: 482559700 interestScore: 42
+Stock: AAPL start 20140427 end 20140503 volume: 474766600 interestScore: 25
+Stock: AAPL start 20140504 end 20140510 volume: 366597700 interestScore: 30
+Stock: AAPL start 20140511 end 20140517 volume: 261613100 interestScore: 22
+Stock: AAPL start 20140518 end 20140524 volume: 295605100 interestScore: 16
+Stock: AAPL start 20140525 end 20140531 volume: 401210600 interestScore: 23
+Stock: AAPL start 20140601 end 20140607 volume: 412821500 interestScore: 30
+Stock: AAPL start 20140608 end 20140614 volume: 293147000 interestScore: 32
+Stock: AAPL start 20140615 end 20140621 volume: 235227000 interestScore: 25
+Stock: AAPL start 20140622 end 20140628 volume: 216257000 interestScore: 17
+Stock: AAPL start 20140629 end 20140705 volume: 139062100 interestScore: 18
+Stock: AAPL start 20140706 end 20140712 volume: 231830000 interestScore: 20
+Stock: AAPL start 20140713 end 20140719 volume: 248970200 interestScore: 30
+Stock: AAPL start 20140720 end 20140726 volume: 276392000 interestScore: 38
+Stock: AAPL start 20140727 end 20140802 volume: 236825000 interestScore: 30
+Stock: AAPL start 20140803 end 20140809 volume: 223025000 interestScore: 26
+Stock: AAPL start 20140810 end 20140816 volume: 179363000 interestScore: 29
+Stock: AAPL start 20140817 end 20140823 volume: 247332000 interestScore: 32
+Stock: AAPL start 20140824 end 20140830 volume: 238846000 interestScore: 27
+Stock: AAPL start 20140831 end 20140906 volume: 323160000 interestScore: 29
+Stock: AAPL start 20140907 end 20140913 volume: 462051800 interestScore: 56
+Stock: AAPL start 20140914 end 20140920 volume: 297352900 interestScore: 41
+Stock: AAPL start 20140921 end 20140927 volume: 338824900 interestScore: 37
+Stock: AAPL start 20140928 end 20141004 volume: 247749100 interestScore: 27
+Stock: AAPL start 20141005 end 20141011 volume: 280258200 interestScore: 39
+Stock: AAPL start 20141012 end 20141018 volume: 358539800 interestScore: 35
+Stock: AAPL start 20141019 end 20141025 volume: 358532900 interestScore: 41
+Stock: AAPL start 20141026 end 20141101 volume: 220230600 interestScore: 34
+Stock: AAPL start 20141102 end 20141108 volume: 199952900 interestScore: 19
+Stock: AAPL start 20141109 end 20141115 volume: 205166700 interestScore: 22
+Stock: AAPL start 20141116 end 20141122 volume: 233414700 interestScore: 28
+Stock: AAPL start 20141123 end 20141129 volume: 181873900 interestScore: 25
+Stock: AAPL start 20141130 end 20141206 volume: 266589700 interestScore: 32
+Stock: AAPL start 20141207 end 20141213 volume: 259868000 interestScore: 29
+Stock: AAPL start 20141214 end 20141220 volume: 328856600 interestScore: 29
+Stock: AAPL start 20141221 end 20141227 volume: 119396500 interestScore: 16
+Stock: AAPL start 20141228 end 20150103 volume: 152088400 interestScore: 19
+Stock: AAPL start 20150104 end 20150110 volume: 283252500 interestScore: 29
+Stock: AAPL start 20150111 end 20150117 volume: 303607000 interestScore: 23
+Stock: AAPL start 20150118 end 20150124 volume: 198737000 interestScore: 19
+Stock: AAPL start 20150125 end 20150131 volume: 465842700 interestScore: 51
+Stock: AAPL start 20150201 end 20150207 volume: 270757300 interestScore: 25
+Stock: AAPL start 20150208 end 20150214 volume: 303206800 interestScore: 28
+Stock: AAPL start 20150215 end 20150221 volume: 194354900 interestScore: 28
+Stock: AAPL start 20150222 end 20150228 volume: 368216200 interestScore: 39
+Stock: AAPL start 20150301 end 20150307 volume: 246938500 interestScore: 35
+Stock: AAPL start 20150308 end 20150314 volume: 326514100 interestScore: 36
+Stock: AAPL start 20150315 end 20150321 volume: 266672900 interestScore: 37
+Stock: AAPL start 20150322 end 20150328 volume: 209326300 interestScore: 22
+Stock: AAPL start 20150329 end 20150404 volume: 162031800 interestScore: 23
+Stock: AAPL start 20150405 end 20150411 volume: 182207500 interestScore: 32
+Stock: AAPL start 20150412 end 20150418 volume: 171186100 interestScore: 25
+Stock: AAPL start 20150419 end 20150425 volume: 207440700 interestScore: 27
+Stock: AAPL start 20150426 end 20150502 volume: 420972300 interestScore: 48
+Stock: AAPL start 20150503 end 20150509 volume: 271892000 interestScore: 28
+Stock: AAPL start 20150510 end 20150516 volume: 208301500 interestScore: 24
+Stock: AAPL start 20150517 end 20150523 volume: 217297400 interestScore: 32
+Stock: AAPL start 20150524 end 20150530 volume: 198148600 interestScore: 22
+Stock: AAPL start 20150531 end 20150606 volume: 170746700 interestScore: 23
+Stock: AAPL start 20150607 end 20150613 volume: 220114600 interestScore: 21
+Stock: AAPL start 20150614 end 20150620 volume: 198525200 interestScore: 19
+Stock: AAPL start 20150621 end 20150627 volume: 195594000 interestScore: 16
+Stock: AAPL start 20150628 end 20150704 volume: 150981900 interestScore: 21
+Stock: AAPL start 20150705 end 20150711 volume: 274944900 interestScore: 31
+Stock: AAPL start 20150712 end 20150718 volume: 189244900 interestScore: 21
+Stock: AAPL start 20150719 end 20150725 volume: 344269000 interestScore: 61
+Stock: AAPL start 20150726 end 20150801 volume: 191598600 interestScore: 24
+Stock: AAPL start 20150802 end 20150808 volume: 385000600 interestScore: 31
+Stock: AAPL start 20150809 end 20150815 volume: 344717200 interestScore: 38
+Stock: AAPL start 20150816 end 20150822 volume: 319668200 interestScore: 32
+Stock: AAPL start 20150823 end 20150829 volume: 500363000 interestScore: 68
+Stock: AAPL start 20150830 end 20150905 volume: 298194200 interestScore: 32
+Stock: AAPL start 20150906 end 20150912 volume: 252662700 interestScore: 35
+Stock: AAPL start 20150913 end 20150919 volume: 277276000 interestScore: 25
+Stock: AAPL start 20150920 end 20150926 volume: 242696300 interestScore: 26
+Stock: AAPL start 20150927 end 20151003 volume: 313896300 interestScore: 28
+Stock: AAPL start 20151004 end 20151010 volume: 262433000 interestScore: 22
+Stock: AAPL start 20151011 end 20151017 volume: 183888700 interestScore: 22
+Stock: AAPL start 20151018 end 20151024 volume: 221543200 interestScore: 26
+Stock: AAPL start 20151025 end 20151031 volume: 322362200 interestScore: 43
+Stock: AAPL start 20151101 end 20151107 volume: 195203400 interestScore: 19
+Stock: AAPL start 20151108 end 20151114 volume: 216555300 interestScore: 25
+Stock: AAPL start 20151115 end 20151121 volume: 189981200 interestScore: 22
+Stock: AAPL start 20151122 end 20151128 volume: 109720400 interestScore: 15
+Stock: AAPL start 20151129 end 20151205 volume: 206765800 interestScore: 17
+Stock: AAPL start 20151206 end 20151212 volume: 188854000 interestScore: 18
+Stock: AAPL start 20151213 end 20151219 volume: 314761400 interestScore: 18
+Stock: AAPL start 20151220 end 20151226 volume: 126634100 interestScore: 18
+Stock: AAPL start 20151227 end 20160102 volume: 123761500 interestScore: 17
+Stock: AAPL start 20160103 end 20160109 volume: 343790200 interestScore: 41
+Stock: AAPL start 20160110 end 20160116 volume: 304337200 interestScore: 38
+Stock: AAPL start 20160117 end 20160123 volume: 243384100 interestScore: 34
+Stock: AAPL start 20160124 end 20160130 volume: 380336500 interestScore: 53
+Stock: AAPL start 20160131 end 20160206 volume: 217154800 interestScore: 26
+Stock: AAPL start 20160207 end 20160213 volume: 231122300 interestScore: 27
+Stock: AAPL start 20160214 end 20160220 volume: 168316300 interestScore: 22
+Stock: AAPL start 20160221 end 20160227 volume: 159052900 interestScore: 18
+Stock: AAPL start 20160228 end 20160305 volume: 201803800 interestScore: 24
+Stock: AAPL start 20160306 end 20160312 volume: 155514300 interestScore: 19
+Stock: AAPL start 20160313 end 20160319 volume: 182073200 interestScore: 16
+Stock: AAPL start 20160320 end 20160326 volume: 119783600 interestScore: 22
+Stock: AAPL start 20160327 end 20160402 volume: 147965000 interestScore: 27
+Stock: AAPL start 20160403 end 20160409 volume: 145722600 interestScore: 20
+Stock: AAPL start 20160410 end 20160416 volume: 162310000 interestScore: 19
+Stock: AAPL start 20160417 end 20160423 volume: 189053000 interestScore: 22
+Stock: AAPL start 20160424 end 20160430 volume: 349424100 interestScore: 62
+Stock: AAPL start 20160501 end 20160507 volume: 225365600 interestScore: 26
+Stock: AAPL start 20160508 end 20160514 volume: 215285700 interestScore: 21
+Stock: AAPL start 20160515 end 20160521 volume: 211718400 interestScore: 33
+Stock: AAPL start 20160522 end 20160528 volume: 203389000 interestScore: 22
+Stock: AAPL start 20160529 end 20160604 volume: 111202300 interestScore: 19
