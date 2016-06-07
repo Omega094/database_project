@@ -3,7 +3,7 @@ import psycopg2
 
 START_DATE = 2
 END_DATE = 3
-INTEREST_SCORE = 5
+INTEREST_SCORE = 4
 
 def extractStockVolumeAndInterestScore(stockName):
     conn = psycopg2.connect("dbname=zhao887 user=zhao887")
