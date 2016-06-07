@@ -130,16 +130,6 @@ def processTrendingDataAndInsertToDatabase(fileName, stockName):
  
 
 if __name__ == "__main__":
-	#processPriceDataAndInsertToDatabase("AAPL_price.csv", "AAPL")
-
-	#with open("AAPL.csv") as f:
-	#	for line in f:
-	#		print line
-	
-	# aapl = trendingDataProcessor("AAPL.csv", "AAPL")
-	# for  info in aapl.trendingInforList:
-	# 	print info
-	#processTrendingDataAndInsertToDatabase("AAPL.csv", "AAPL")
 	
 	for info in stockInfo:
 		stockName = info["NAME"]
