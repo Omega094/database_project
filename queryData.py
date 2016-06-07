@@ -31,4 +31,7 @@ def extractStockVolumeAndInterestScore(stockName):
 # def extractDataAndWriteToFile(stockName):
 #     extractStockVolumeAndInterestScore(stockName)
 
-extractStockVolumeAndInterestScore('AAPL')
+if __name__ == "__main__":
+    stockList = ['AAPL','MSFT','GOOG','BAC','PFE']
+    for stockName in stockList:
+        extractStockVolumeAndInterestScore(stockName)
