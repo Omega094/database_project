@@ -28,5 +28,7 @@ def extractStockVolumeAndInterestScore(stockName):
 
 
 
-def extractDataAndWriteToFile(stockName):
-    extractStockVolumeAndInterestScore(stockName)
+# def extractDataAndWriteToFile(stockName):
+#     extractStockVolumeAndInterestScore(stockName)
+
+extractStockVolumeAndInterestScore('AAPL')
