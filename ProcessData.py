@@ -117,7 +117,7 @@ def processPriceDataAndInsertToDatabase(fileName, stockName):
 def processTrendingDataAndInsertToDatabase(fileName, stockName):
 	trendingProcessor = trendingDataProcessor(fileName, stockName)
 	trendingData = trendingProcessor.trendingInforList
-	#insertStockPriceDataToDatabase(priceData)
+	insertGoogleTrendingStockDataToDatabase(trendingData)
 	for info in trendingData:
 		print info
 
