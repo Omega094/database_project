@@ -19,4 +19,5 @@ def extractStockVolumeAndInterestScore(stockName):
         weeklyVolume = cur.fetchall()
         combineResult.append( (stockName, startDate, endDate, weeklyVolume, interestScore) )
     return combineResult
-    
+
+print extractStockVolumeAndInterestScore('AAPL')
