@@ -15,7 +15,7 @@ END = "END"
 #Frmatted in this way so we can do a batch insertion. 
 stockInfo = (	
 				{"COMPANY_NAME":"GOOGLE", "NAME": "GOOG"},
-				{"COMPANY_NAME":"APPLE", "NAME": "AAPL"},
+				#{"COMPANY_NAME":"APPLE", "NAME": "AAPL"},
 				{"COMPANY_NAME":"BANK OF AMERICA", "NAME": "BAC"},
 				{"COMPANY_NAME":"MICROSOFT", "NAME": "MSFT"},
 				{"COMPANY_NAME":"PFIZER", "NAME": "PFE"},
@@ -121,6 +121,9 @@ def processTrendingDataAndInsertToDatabase(fileName, stockName):
 	for info in trendingData:
 		print info
 
+
+ 
+
 if __name__ == "__main__":
 	#processPriceDataAndInsertToDatabase("AAPL_price.csv", "AAPL")
 
@@ -131,8 +134,16 @@ if __name__ == "__main__":
 	# aapl = trendingDataProcessor("AAPL.csv", "AAPL")
 	# for  info in aapl.trendingInforList:
 	# 	print info
-	processTrendingDataAndInsertToDatabase("AAPL.csv", "AAPL")
-		
+	#processTrendingDataAndInsertToDatabase("AAPL.csv", "AAPL")
+	
+	for info in stockInfo:
+		stockName = info["NAME"]
+		stockPriceFile = stockName+"_price.csv"
+		trendingDataFile = stockName+".csv"
+		processPriceDataAndInsertToDatabase(stockPriceFile, stockName)
+		processTrendingDataAndInsertToDatabase(trendingDataFile, stockName)
+		#print stockName, stockPriceFile, trendingDataFile
+
 		
 		
 
