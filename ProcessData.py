@@ -102,7 +102,7 @@ def insertGoogleTrendingStockDataToDatabase(trendingData):
 	import psycopg2
 	conn = psycopg2.connect("dbname=zhao887 user=zhao887")
 	cur = conn.cursor()
-	cur.executemany("""INSERT INTO STOCK_PRICE_DATA (DATA_ID, KEYWORD, START_DATE, END_DATE, INTEREST_SCORE) VALUES (%(DATA_ID)s, %(NAME)s , %(START)s,%(END)s,%(INTEREST_SCORE)s) """, trendingData)
+	cur.executemany("""INSERT INTO GOOGLE_TREND_STOCK_DATA (DATA_ID, KEYWORD, START_DATE, END_DATE, INTEREST_SCORE) VALUES (%(DATA_ID)s, %(NAME)s , %(START)s,%(END)s,%(INTEREST_SCORE)s) """, trendingData)
 	conn.commit()
 	return 
 
